@@ -21,6 +21,7 @@ coverage/
 # production / compiled output
 /build
 /dist
+backend/dist/
 
 # misc
 .DS_Store

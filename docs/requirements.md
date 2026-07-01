@@ -21,7 +21,7 @@ We help the construction industry choose lower-carbon materials. Suppliers publi
 You have **20 concrete EPD PDFs**. Your job is to extract the relevant data from each one and produce:
 
 1. **`EXTRACTION.md`** - your written reasoning (detail below).
-2. **`/data/*.json`** - one JSON file per EPD, containing the structured data you extracted.
+2. **`backend/data/*.json`** - one JSON file per EPD, containing the structured data you extracted.
 
 You define the JSON schema. It should capture everything the app in Part 2 will need.
 
@@ -62,7 +62,7 @@ Every carbon figure must be traceable to its source EPD. A number with no proven
 
 - GitHub repo link
 - Vercel deployment link
-- The repo should contain `EXTRACTION.md`, `/data/*.json`, and the app code
+- The repo should contain `EXTRACTION.md`, `backend/data/*.json`, and the app code
 
 ---
 

@@ -1,0 +1,148 @@
+{
+  "schemaVersion": "1.2.0",
+  "schemaShape": {
+    "products": "One partial product record per source PDF. Unknown metadata is null.",
+    "carbonStages": "Lifecycle module GWP-total entries. Missing and not-declared values are never encoded as zero.",
+    "provenance": "Declared carbon values include PDF, page, table or section label, and source excerpt.",
+    "extraction": "Extractor version and SHA-256 hashes of the source PDF and extracted text."
+  },
+  "source": {
+    "pdf": "epd-ies-0023043-s32mpa-greencrete-70.pdf",
+    "extractedText": "epd-ies-0023043-s32mpa-greencrete-70.txt"
+  },
+  "extraction": {
+    "extractor": "scripts/generate-epd-data.mjs",
+    "extractorVersion": "generic-pdf-extractor@1.2.0",
+    "sourcePdfSha256": "8b40acc2e886d018dfbdfd034ecbe83cd95571b443ce8fec3d7c78f464311bbd",
+    "extractedTextSha256": "e100ccbc82e987d19729fb0d80c732f1d5c68e1c326485ab5c4628d40e492fe1"
+  },
+  "epd": {
+    "id": "epd-ies-23043",
+    "registrationNumber": "EPD-IES-23043",
+    "pdfFile": "epd-ies-0023043-s32mpa-greencrete-70.pdf",
+    "programOperator": "The international EPD system, www.environdec.com",
+    "standard": "ISO 14025:2006",
+    "scope": "This EPD covers premix concrete products for the Victorian metropolitan region. This EPD covers life cycle stages Cradle to gate with modules C1-C4 and module",
+    "publishedDate": "2025-03-31",
+    "validUntil": "2030-03-31"
+  },
+  "extractionDiagnostics": [
+    {
+      "path": "products[0].manufacturingLocation",
+      "message": "No reliable value found in extractable text."
+    },
+    {
+      "path": "products[0].strengthMpa",
+      "message": "No reliable value found in extractable text."
+    }
+  ],
+  "products": [
+    {
+      "id": "premix-concrete-s32mpa-greencrete-70",
+      "productName": "Premix Concrete - S32MPa GreenCrete 70",
+      "manufacturer": "Piave Premix Concrete Pty Ltd",
+      "manufacturingLocation": null,
+      "strengthMpa": null,
+      "declaredUnit": "1m3 of Premix Concrete supplied to the client",
+      "declaredUnitMassKg": 2373,
+      "scope": {
+        "description": "This EPD covers premix concrete products for the Victorian metropolitan region. This EPD covers life cycle stages Cradle to gate with modules C1-C4 and module",
+        "standard": "ISO 14025:2006"
+      },
+      "confidence": {
+        "productName": 0.75,
+        "manufacturer": 0.75,
+        "declaredUnit": 0.75,
+        "declaredUnitMassKg": 0.78,
+        "scopeDescription": 0.65,
+        "scopeStandard": 0.45
+      },
+      "carbonStages": [
+        {
+          "module": "A1-A3",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": 134,
+          "status": "declared",
+          "provenance": {
+            "pdf": "epd-ies-0023043-s32mpa-greencrete-70.pdf",
+            "sourcePage": 11,
+            "tableLabel": "Impact category Unit A1-A3 C1 C2 C3 C4 D",
+            "quote": "GWP - total1) kg CO2 eq 1.34E+02 5.67E+00 2.16E+01 1.25E+01 2.29E+00 -1.61E+00"
+          },
+          "confidence": 0.9
+        },
+        {
+          "module": "C1",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": 5.67,
+          "status": "declared",
+          "provenance": {
+            "pdf": "epd-ies-0023043-s32mpa-greencrete-70.pdf",
+            "sourcePage": 11,
+            "tableLabel": "Impact category Unit A1-A3 C1 C2 C3 C4 D",
+            "quote": "GWP - total1) kg CO2 eq 1.34E+02 5.67E+00 2.16E+01 1.25E+01 2.29E+00 -1.61E+00"
+          },
+          "confidence": 0.9
+        },
+        {
+          "module": "C2",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": 21.6,
+          "status": "declared",
+          "provenance": {
+            "pdf": "epd-ies-0023043-s32mpa-greencrete-70.pdf",
+            "sourcePage": 11,
+            "tableLabel": "Impact category Unit A1-A3 C1 C2 C3 C4 D",
+            "quote": "GWP - total1) kg CO2 eq 1.34E+02 5.67E+00 2.16E+01 1.25E+01 2.29E+00 -1.61E+00"
+          },
+          "confidence": 0.9
+        },
+        {
+          "module": "C3",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": 12.5,
+          "status": "declared",
+          "provenance": {
+            "pdf": "epd-ies-0023043-s32mpa-greencrete-70.pdf",
+            "sourcePage": 11,
+            "tableLabel": "Impact category Unit A1-A3 C1 C2 C3 C4 D",
+            "quote": "GWP - total1) kg CO2 eq 1.34E+02 5.67E+00 2.16E+01 1.25E+01 2.29E+00 -1.61E+00"
+          },
+          "confidence": 0.9
+        },
+        {
+          "module": "C4",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": 2.29,
+          "status": "declared",
+          "provenance": {
+            "pdf": "epd-ies-0023043-s32mpa-greencrete-70.pdf",
+            "sourcePage": 11,
+            "tableLabel": "Impact category Unit A1-A3 C1 C2 C3 C4 D",
+            "quote": "GWP - total1) kg CO2 eq 1.34E+02 5.67E+00 2.16E+01 1.25E+01 2.29E+00 -1.61E+00"
+          },
+          "confidence": 0.9
+        },
+        {
+          "module": "D",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": -1.61,
+          "status": "declared",
+          "provenance": {
+            "pdf": "epd-ies-0023043-s32mpa-greencrete-70.pdf",
+            "sourcePage": 11,
+            "tableLabel": "Impact category Unit A1-A3 C1 C2 C3 C4 D",
+            "quote": "GWP - total1) kg CO2 eq 1.34E+02 5.67E+00 2.16E+01 1.25E+01 2.29E+00 -1.61E+00"
+          },
+          "confidence": 0.9
+        }
+      ]
+    }
+  ]
+}

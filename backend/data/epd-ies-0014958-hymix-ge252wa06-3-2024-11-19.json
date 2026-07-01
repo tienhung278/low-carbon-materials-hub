@@ -1,0 +1,267 @@
+{
+  "schemaVersion": "1.2.0",
+  "schemaShape": {
+    "products": "One partial product record per source PDF. Unknown metadata is null.",
+    "carbonStages": "Lifecycle module GWP-total entries. Missing and not-declared values are never encoded as zero.",
+    "provenance": "Declared carbon values include PDF, page, table or section label, and source excerpt.",
+    "extraction": "Extractor version and SHA-256 hashes of the source PDF and extracted text."
+  },
+  "source": {
+    "pdf": "EPD-IES-0014958_Hymix_GE252WA06-3_2024-11-19.pdf",
+    "extractedText": "EPD-IES-0014958_Hymix_GE252WA06-3_2024-11-19.txt"
+  },
+  "extraction": {
+    "extractor": "scripts/generate-epd-data.mjs",
+    "extractorVersion": "generic-pdf-extractor@1.2.0",
+    "sourcePdfSha256": "4e77fc5a8efb41e4114977ba31d2c5bbbda52fca797b899a69bc1c0eb1ae346e",
+    "extractedTextSha256": "8b71f7378b324c232b64aa33b56cb27bd2dfc4f49c79fe9fc91af515edb96ae7"
+  },
+  "epd": {
+    "id": "number",
+    "registrationNumber": "Number",
+    "pdfFile": "EPD-IES-0014958_Hymix_GE252WA06-3_2024-11-19.pdf",
+    "programOperator": "EPD International AB",
+    "standard": "ISO 14025",
+    "scope": "A1-A3 + A4-A5 + B1-B7 + C1-C4 + D, cradle-to-grave",
+    "publishedDate": null,
+    "validUntil": "2029-11-19"
+  },
+  "extractionDiagnostics": [],
+  "products": [
+    {
+      "id": "hylo-50-normal-class-25-mpa",
+      "productName": "HyLo-50 Normal-Class 25 MPa",
+      "manufacturer": "Hymix Australia Pty Ltd",
+      "manufacturingLocation": "Gold Coast",
+      "strengthMpa": 25,
+      "declaredUnit": "1m3 of Concrete",
+      "declaredUnitMassKg": 2315,
+      "scope": {
+        "description": "A1-A3 + A4-A5 + B1-B7 + C1-C4 + D, cradle-to-grave",
+        "standard": "ISO 14025"
+      },
+      "confidence": {
+        "productName": 0.75,
+        "manufacturer": 0.65,
+        "manufacturingLocation": 0.75,
+        "declaredUnit": 0.75,
+        "declaredUnitMassKg": 0.78,
+        "strengthMpa": 0.8,
+        "scopeDescription": 0.75,
+        "scopeStandard": 0.45
+      },
+      "carbonStages": [
+        {
+          "module": "A1-A3",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": 141,
+          "status": "declared",
+          "provenance": {
+            "pdf": "EPD-IES-0014958_Hymix_GE252WA06-3_2024-11-19.pdf",
+            "sourcePage": 19,
+            "tableLabel": "Core environmental impact indicators C1-C4Recarbonation at waste processing C1-C4Recarbonation at disposal",
+            "quote": "GWP-tot kg CO2 eq. 1.41E+02 4.95E+00 1.07E+01 -3.28E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 9.64E+00 1.01E+01 4.44E+00 3.19E+00 -1.31E+01"
+          },
+          "confidence": 0.9
+        },
+        {
+          "module": "A4",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": 4.95,
+          "status": "declared",
+          "provenance": {
+            "pdf": "EPD-IES-0014958_Hymix_GE252WA06-3_2024-11-19.pdf",
+            "sourcePage": 19,
+            "tableLabel": "Core environmental impact indicators C1-C4Recarbonation at waste processing C1-C4Recarbonation at disposal",
+            "quote": "GWP-tot kg CO2 eq. 1.41E+02 4.95E+00 1.07E+01 -3.28E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 9.64E+00 1.01E+01 4.44E+00 3.19E+00 -1.31E+01"
+          },
+          "confidence": 0.9
+        },
+        {
+          "module": "A5",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": 10.7,
+          "status": "declared",
+          "provenance": {
+            "pdf": "EPD-IES-0014958_Hymix_GE252WA06-3_2024-11-19.pdf",
+            "sourcePage": 19,
+            "tableLabel": "Core environmental impact indicators C1-C4Recarbonation at waste processing C1-C4Recarbonation at disposal",
+            "quote": "GWP-tot kg CO2 eq. 1.41E+02 4.95E+00 1.07E+01 -3.28E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 9.64E+00 1.01E+01 4.44E+00 3.19E+00 -1.31E+01"
+          },
+          "confidence": 0.9
+        },
+        {
+          "module": "B1",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": -3.28,
+          "status": "declared",
+          "provenance": {
+            "pdf": "EPD-IES-0014958_Hymix_GE252WA06-3_2024-11-19.pdf",
+            "sourcePage": 19,
+            "tableLabel": "Core environmental impact indicators C1-C4Recarbonation at waste processing C1-C4Recarbonation at disposal",
+            "quote": "GWP-tot kg CO2 eq. 1.41E+02 4.95E+00 1.07E+01 -3.28E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 9.64E+00 1.01E+01 4.44E+00 3.19E+00 -1.31E+01"
+          },
+          "confidence": 0.9
+        },
+        {
+          "module": "B2",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": 0,
+          "status": "declared",
+          "provenance": {
+            "pdf": "EPD-IES-0014958_Hymix_GE252WA06-3_2024-11-19.pdf",
+            "sourcePage": 19,
+            "tableLabel": "Core environmental impact indicators C1-C4Recarbonation at waste processing C1-C4Recarbonation at disposal",
+            "quote": "GWP-tot kg CO2 eq. 1.41E+02 4.95E+00 1.07E+01 -3.28E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 9.64E+00 1.01E+01 4.44E+00 3.19E+00 -1.31E+01"
+          },
+          "confidence": 0.9
+        },
+        {
+          "module": "B3",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": 0,
+          "status": "declared",
+          "provenance": {
+            "pdf": "EPD-IES-0014958_Hymix_GE252WA06-3_2024-11-19.pdf",
+            "sourcePage": 19,
+            "tableLabel": "Core environmental impact indicators C1-C4Recarbonation at waste processing C1-C4Recarbonation at disposal",
+            "quote": "GWP-tot kg CO2 eq. 1.41E+02 4.95E+00 1.07E+01 -3.28E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 9.64E+00 1.01E+01 4.44E+00 3.19E+00 -1.31E+01"
+          },
+          "confidence": 0.9
+        },
+        {
+          "module": "B4",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": 0,
+          "status": "declared",
+          "provenance": {
+            "pdf": "EPD-IES-0014958_Hymix_GE252WA06-3_2024-11-19.pdf",
+            "sourcePage": 19,
+            "tableLabel": "Core environmental impact indicators C1-C4Recarbonation at waste processing C1-C4Recarbonation at disposal",
+            "quote": "GWP-tot kg CO2 eq. 1.41E+02 4.95E+00 1.07E+01 -3.28E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 9.64E+00 1.01E+01 4.44E+00 3.19E+00 -1.31E+01"
+          },
+          "confidence": 0.9
+        },
+        {
+          "module": "B5",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": 0,
+          "status": "declared",
+          "provenance": {
+            "pdf": "EPD-IES-0014958_Hymix_GE252WA06-3_2024-11-19.pdf",
+            "sourcePage": 19,
+            "tableLabel": "Core environmental impact indicators C1-C4Recarbonation at waste processing C1-C4Recarbonation at disposal",
+            "quote": "GWP-tot kg CO2 eq. 1.41E+02 4.95E+00 1.07E+01 -3.28E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 9.64E+00 1.01E+01 4.44E+00 3.19E+00 -1.31E+01"
+          },
+          "confidence": 0.9
+        },
+        {
+          "module": "B6",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": 0,
+          "status": "declared",
+          "provenance": {
+            "pdf": "EPD-IES-0014958_Hymix_GE252WA06-3_2024-11-19.pdf",
+            "sourcePage": 19,
+            "tableLabel": "Core environmental impact indicators C1-C4Recarbonation at waste processing C1-C4Recarbonation at disposal",
+            "quote": "GWP-tot kg CO2 eq. 1.41E+02 4.95E+00 1.07E+01 -3.28E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 9.64E+00 1.01E+01 4.44E+00 3.19E+00 -1.31E+01"
+          },
+          "confidence": 0.9
+        },
+        {
+          "module": "B7",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": 0,
+          "status": "declared",
+          "provenance": {
+            "pdf": "EPD-IES-0014958_Hymix_GE252WA06-3_2024-11-19.pdf",
+            "sourcePage": 19,
+            "tableLabel": "Core environmental impact indicators C1-C4Recarbonation at waste processing C1-C4Recarbonation at disposal",
+            "quote": "GWP-tot kg CO2 eq. 1.41E+02 4.95E+00 1.07E+01 -3.28E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 9.64E+00 1.01E+01 4.44E+00 3.19E+00 -1.31E+01"
+          },
+          "confidence": 0.9
+        },
+        {
+          "module": "C1",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": 9.64,
+          "status": "declared",
+          "provenance": {
+            "pdf": "EPD-IES-0014958_Hymix_GE252WA06-3_2024-11-19.pdf",
+            "sourcePage": 19,
+            "tableLabel": "Core environmental impact indicators C1-C4Recarbonation at waste processing C1-C4Recarbonation at disposal",
+            "quote": "GWP-tot kg CO2 eq. 1.41E+02 4.95E+00 1.07E+01 -3.28E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 9.64E+00 1.01E+01 4.44E+00 3.19E+00 -1.31E+01"
+          },
+          "confidence": 0.9
+        },
+        {
+          "module": "C2",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": 10.1,
+          "status": "declared",
+          "provenance": {
+            "pdf": "EPD-IES-0014958_Hymix_GE252WA06-3_2024-11-19.pdf",
+            "sourcePage": 19,
+            "tableLabel": "Core environmental impact indicators C1-C4Recarbonation at waste processing C1-C4Recarbonation at disposal",
+            "quote": "GWP-tot kg CO2 eq. 1.41E+02 4.95E+00 1.07E+01 -3.28E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 9.64E+00 1.01E+01 4.44E+00 3.19E+00 -1.31E+01"
+          },
+          "confidence": 0.9
+        },
+        {
+          "module": "C3",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": 4.44,
+          "status": "declared",
+          "provenance": {
+            "pdf": "EPD-IES-0014958_Hymix_GE252WA06-3_2024-11-19.pdf",
+            "sourcePage": 19,
+            "tableLabel": "Core environmental impact indicators C1-C4Recarbonation at waste processing C1-C4Recarbonation at disposal",
+            "quote": "GWP-tot kg CO2 eq. 1.41E+02 4.95E+00 1.07E+01 -3.28E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 9.64E+00 1.01E+01 4.44E+00 3.19E+00 -1.31E+01"
+          },
+          "confidence": 0.9
+        },
+        {
+          "module": "C4",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": 3.19,
+          "status": "declared",
+          "provenance": {
+            "pdf": "EPD-IES-0014958_Hymix_GE252WA06-3_2024-11-19.pdf",
+            "sourcePage": 19,
+            "tableLabel": "Core environmental impact indicators C1-C4Recarbonation at waste processing C1-C4Recarbonation at disposal",
+            "quote": "GWP-tot kg CO2 eq. 1.41E+02 4.95E+00 1.07E+01 -3.28E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 9.64E+00 1.01E+01 4.44E+00 3.19E+00 -1.31E+01"
+          },
+          "confidence": 0.9
+        },
+        {
+          "module": "D",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": -13.1,
+          "status": "declared",
+          "provenance": {
+            "pdf": "EPD-IES-0014958_Hymix_GE252WA06-3_2024-11-19.pdf",
+            "sourcePage": 19,
+            "tableLabel": "Core environmental impact indicators C1-C4Recarbonation at waste processing C1-C4Recarbonation at disposal",
+            "quote": "GWP-tot kg CO2 eq. 1.41E+02 4.95E+00 1.07E+01 -3.28E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 9.64E+00 1.01E+01 4.44E+00 3.19E+00 -1.31E+01"
+          },
+          "confidence": 0.9
+        }
+      ]
+    }
+  ]
+}

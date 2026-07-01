@@ -1,0 +1,267 @@
+{
+  "schemaVersion": "1.2.0",
+  "schemaShape": {
+    "products": "One partial product record per source PDF. Unknown metadata is null.",
+    "carbonStages": "Lifecycle module GWP-total entries. Missing and not-declared values are never encoded as zero.",
+    "provenance": "Declared carbon values include PDF, page, table or section label, and source excerpt.",
+    "extraction": "Extractor version and SHA-256 hashes of the source PDF and extracted text."
+  },
+  "source": {
+    "pdf": "epd-ies-20602-001-holcim-vic-melbourne-metro-ecopact-ve322eamf-epd.pdf",
+    "extractedText": "epd-ies-20602-001-holcim-vic-melbourne-metro-ecopact-ve322eamf-epd.txt"
+  },
+  "extraction": {
+    "extractor": "scripts/generate-epd-data.mjs",
+    "extractorVersion": "generic-pdf-extractor@1.2.0",
+    "sourcePdfSha256": "4bc3467295b23e5575ba613a275bb6b579ce037aa7defd18407e2fbf718b797c",
+    "extractedTextSha256": "494783da7800a9562fc5857655827ae25588de7ae69a3020018a3b011dc7c143"
+  },
+  "epd": {
+    "id": "epd-ies-20602-001",
+    "registrationNumber": "EPD-IES-20602:001",
+    "pdfFile": "epd-ies-20602-001-holcim-vic-melbourne-metro-ecopact-ve322eamf-epd.pdf",
+    "programOperator": "EPD International AB",
+    "standard": "EN 15804:2012+A2:2019/AC:2021 served as the core Product Category Rules (PCR)",
+    "scope": "The scope of this EPD is cradle to gate (modules A1-A3)",
+    "publishedDate": "15/04/2025",
+    "validUntil": "15/04/2030"
+  },
+  "extractionDiagnostics": [],
+  "products": [
+    {
+      "id": "vic-melbourne-metro-ecopact-ve322eamf",
+      "productName": "VIC - Melbourne Metro - ECOPact- VE322EAMF",
+      "manufacturer": "Holcim (Australia) Pty Ltd",
+      "manufacturingLocation": "Laverton, Truganina, Footscray, Epping, Keilor, Preston, Oaklands Junction, Melbourne Airport, Bayswater, Springvale, Lyndhurst, Seaford, Pakenham, Hastings, Rosebud",
+      "strengthMpa": 32,
+      "declaredUnit": "1 m3 of ready-mix concrete.",
+      "declaredUnitMassKg": 2400,
+      "scope": {
+        "description": "The scope of this EPD is cradle to gate (modules A1-A3)",
+        "standard": "EN 15804:2012+A2:2019/AC:2021 served as the core Product Category Rules (PCR)"
+      },
+      "confidence": {
+        "productName": 0.6,
+        "manufacturer": 0.65,
+        "manufacturingLocation": 0.65,
+        "declaredUnit": 0.65,
+        "declaredUnitMassKg": 0.78,
+        "strengthMpa": 0.55,
+        "scopeDescription": 0.65,
+        "scopeStandard": 0.75
+      },
+      "carbonStages": [
+        {
+          "module": "A1-A3",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": 105,
+          "status": "declared",
+          "provenance": {
+            "pdf": "epd-ies-20602-001-holcim-vic-melbourne-metro-ecopact-ve322eamf-epd.pdf",
+            "sourcePage": 15,
+            "tableLabel": "Abbreviation Unit A1-A3 A4 A5 C1 C2 C3 C4 D",
+            "quote": "GWP-Total kg CO2 eq. 105 2.05 8.81 0.532 3.99 7.61 1.28 -15.7"
+          },
+          "confidence": 0.9
+        },
+        {
+          "module": "A4",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": 2.05,
+          "status": "declared",
+          "provenance": {
+            "pdf": "epd-ies-20602-001-holcim-vic-melbourne-metro-ecopact-ve322eamf-epd.pdf",
+            "sourcePage": 15,
+            "tableLabel": "Abbreviation Unit A1-A3 A4 A5 C1 C2 C3 C4 D",
+            "quote": "GWP-Total kg CO2 eq. 105 2.05 8.81 0.532 3.99 7.61 1.28 -15.7"
+          },
+          "confidence": 0.9
+        },
+        {
+          "module": "A5",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": 8.81,
+          "status": "declared",
+          "provenance": {
+            "pdf": "epd-ies-20602-001-holcim-vic-melbourne-metro-ecopact-ve322eamf-epd.pdf",
+            "sourcePage": 15,
+            "tableLabel": "Abbreviation Unit A1-A3 A4 A5 C1 C2 C3 C4 D",
+            "quote": "GWP-Total kg CO2 eq. 105 2.05 8.81 0.532 3.99 7.61 1.28 -15.7"
+          },
+          "confidence": 0.9
+        },
+        {
+          "module": "B1",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": null,
+          "status": "not_declared",
+          "provenance": {
+            "pdf": "epd-ies-20602-001-holcim-vic-melbourne-metro-ecopact-ve322eamf-epd.pdf",
+            "sourcePage": 9,
+            "tableLabel": "Modules declared / system boundary",
+            "quote": "Module A1 A2 A3 A4 A5 B1 B2 B3 B4 B5 B6 B7 C1 C2 C3 C4 D Modules declared X X X X X ND ND ND ND ND ND ND X X X X X Geography AU"
+          },
+          "confidence": 0.84
+        },
+        {
+          "module": "B2",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": null,
+          "status": "not_declared",
+          "provenance": {
+            "pdf": "epd-ies-20602-001-holcim-vic-melbourne-metro-ecopact-ve322eamf-epd.pdf",
+            "sourcePage": 9,
+            "tableLabel": "Modules declared / system boundary",
+            "quote": "Module A1 A2 A3 A4 A5 B1 B2 B3 B4 B5 B6 B7 C1 C2 C3 C4 D Modules declared X X X X X ND ND ND ND ND ND ND X X X X X Geography AU"
+          },
+          "confidence": 0.84
+        },
+        {
+          "module": "B3",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": null,
+          "status": "not_declared",
+          "provenance": {
+            "pdf": "epd-ies-20602-001-holcim-vic-melbourne-metro-ecopact-ve322eamf-epd.pdf",
+            "sourcePage": 9,
+            "tableLabel": "Modules declared / system boundary",
+            "quote": "Module A1 A2 A3 A4 A5 B1 B2 B3 B4 B5 B6 B7 C1 C2 C3 C4 D Modules declared X X X X X ND ND ND ND ND ND ND X X X X X Geography AU"
+          },
+          "confidence": 0.84
+        },
+        {
+          "module": "B4",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": null,
+          "status": "not_declared",
+          "provenance": {
+            "pdf": "epd-ies-20602-001-holcim-vic-melbourne-metro-ecopact-ve322eamf-epd.pdf",
+            "sourcePage": 9,
+            "tableLabel": "Modules declared / system boundary",
+            "quote": "Module A1 A2 A3 A4 A5 B1 B2 B3 B4 B5 B6 B7 C1 C2 C3 C4 D Modules declared X X X X X ND ND ND ND ND ND ND X X X X X Geography AU"
+          },
+          "confidence": 0.84
+        },
+        {
+          "module": "B5",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": null,
+          "status": "not_declared",
+          "provenance": {
+            "pdf": "epd-ies-20602-001-holcim-vic-melbourne-metro-ecopact-ve322eamf-epd.pdf",
+            "sourcePage": 9,
+            "tableLabel": "Modules declared / system boundary",
+            "quote": "Module A1 A2 A3 A4 A5 B1 B2 B3 B4 B5 B6 B7 C1 C2 C3 C4 D Modules declared X X X X X ND ND ND ND ND ND ND X X X X X Geography AU"
+          },
+          "confidence": 0.84
+        },
+        {
+          "module": "B6",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": null,
+          "status": "not_declared",
+          "provenance": {
+            "pdf": "epd-ies-20602-001-holcim-vic-melbourne-metro-ecopact-ve322eamf-epd.pdf",
+            "sourcePage": 9,
+            "tableLabel": "Modules declared / system boundary",
+            "quote": "Module A1 A2 A3 A4 A5 B1 B2 B3 B4 B5 B6 B7 C1 C2 C3 C4 D Modules declared X X X X X ND ND ND ND ND ND ND X X X X X Geography AU"
+          },
+          "confidence": 0.84
+        },
+        {
+          "module": "B7",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": null,
+          "status": "not_declared",
+          "provenance": {
+            "pdf": "epd-ies-20602-001-holcim-vic-melbourne-metro-ecopact-ve322eamf-epd.pdf",
+            "sourcePage": 9,
+            "tableLabel": "Modules declared / system boundary",
+            "quote": "Module A1 A2 A3 A4 A5 B1 B2 B3 B4 B5 B6 B7 C1 C2 C3 C4 D Modules declared X X X X X ND ND ND ND ND ND ND X X X X X Geography AU"
+          },
+          "confidence": 0.84
+        },
+        {
+          "module": "C1",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": 0.532,
+          "status": "declared",
+          "provenance": {
+            "pdf": "epd-ies-20602-001-holcim-vic-melbourne-metro-ecopact-ve322eamf-epd.pdf",
+            "sourcePage": 15,
+            "tableLabel": "Abbreviation Unit A1-A3 A4 A5 C1 C2 C3 C4 D",
+            "quote": "GWP-Total kg CO2 eq. 105 2.05 8.81 0.532 3.99 7.61 1.28 -15.7"
+          },
+          "confidence": 0.9
+        },
+        {
+          "module": "C2",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": 3.99,
+          "status": "declared",
+          "provenance": {
+            "pdf": "epd-ies-20602-001-holcim-vic-melbourne-metro-ecopact-ve322eamf-epd.pdf",
+            "sourcePage": 15,
+            "tableLabel": "Abbreviation Unit A1-A3 A4 A5 C1 C2 C3 C4 D",
+            "quote": "GWP-Total kg CO2 eq. 105 2.05 8.81 0.532 3.99 7.61 1.28 -15.7"
+          },
+          "confidence": 0.9
+        },
+        {
+          "module": "C3",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": 7.61,
+          "status": "declared",
+          "provenance": {
+            "pdf": "epd-ies-20602-001-holcim-vic-melbourne-metro-ecopact-ve322eamf-epd.pdf",
+            "sourcePage": 15,
+            "tableLabel": "Abbreviation Unit A1-A3 A4 A5 C1 C2 C3 C4 D",
+            "quote": "GWP-Total kg CO2 eq. 105 2.05 8.81 0.532 3.99 7.61 1.28 -15.7"
+          },
+          "confidence": 0.9
+        },
+        {
+          "module": "C4",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": 1.28,
+          "status": "declared",
+          "provenance": {
+            "pdf": "epd-ies-20602-001-holcim-vic-melbourne-metro-ecopact-ve322eamf-epd.pdf",
+            "sourcePage": 15,
+            "tableLabel": "Abbreviation Unit A1-A3 A4 A5 C1 C2 C3 C4 D",
+            "quote": "GWP-Total kg CO2 eq. 105 2.05 8.81 0.532 3.99 7.61 1.28 -15.7"
+          },
+          "confidence": 0.9
+        },
+        {
+          "module": "D",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": -15.7,
+          "status": "declared",
+          "provenance": {
+            "pdf": "epd-ies-20602-001-holcim-vic-melbourne-metro-ecopact-ve322eamf-epd.pdf",
+            "sourcePage": 15,
+            "tableLabel": "Abbreviation Unit A1-A3 A4 A5 C1 C2 C3 C4 D",
+            "quote": "GWP-Total kg CO2 eq. 105 2.05 8.81 0.532 3.99 7.61 1.28 -15.7"
+          },
+          "confidence": 0.9
+        }
+      ]
+    }
+  ]
+}

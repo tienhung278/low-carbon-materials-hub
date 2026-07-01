@@ -1,0 +1,309 @@
+{
+  "schemaVersion": "1.2.0",
+  "schemaShape": {
+    "products": "One partial product record per source PDF. Unknown metadata is null.",
+    "carbonStages": "Lifecycle module GWP-total entries. Missing and not-declared values are never encoded as zero.",
+    "provenance": "Declared carbon values include PDF, page, table or section label, and source excerpt.",
+    "extraction": "Extractor version and SHA-256 hashes of the source PDF and extracted text."
+  },
+  "source": {
+    "pdf": "EPD_HUB-5394_2026-06-27_en.pdf",
+    "extractedText": "EPD_HUB-5394_2026-06-27_en.txt"
+  },
+  "extraction": {
+    "extractor": "scripts/generate-epd-data.mjs",
+    "extractorVersion": "generic-pdf-extractor@1.2.0",
+    "sourcePdfSha256": "5b25408a399734cf270ea7c7e60ede0b8fe9d0947e33dadf0023819a24f1bed0",
+    "extractedTextSha256": "026795e5f5a66e7c50e55bab8cc04285ec0b0339f1f4edc2c2e1b858339164fa"
+  },
+  "epd": {
+    "id": null,
+    "registrationNumber": null,
+    "pdfFile": "EPD_HUB-5394_2026-06-27_en.pdf",
+    "programOperator": "EPD Hub, hub@epdhub.com",
+    "standard": "EN 15804:2012+A2:2019/AC:2021 and ISO 14025",
+    "scope": "Cradle to gate with options, A4-A5, and modules C1-C4, D",
+    "publishedDate": "15.02.2026",
+    "validUntil": null
+  },
+  "extractionDiagnostics": [],
+  "products": [
+    {
+      "id": "an3220100enhanced",
+      "productName": "AN3220100Enhanced",
+      "manufacturer": "Tandy Concrete",
+      "manufacturingLocation": "21 Mackay Slade Point Road, Mackay, Australia",
+      "strengthMpa": 32,
+      "declaredUnit": "1 cubic meter",
+      "declaredUnitMassKg": 2352,
+      "scope": {
+        "description": "Cradle to gate with options, A4-A5, and modules C1-C4, D",
+        "standard": "EN 15804:2012+A2:2019/AC:2021 and ISO 14025"
+      },
+      "confidence": {
+        "productName": 0.75,
+        "manufacturer": 0.75,
+        "manufacturingLocation": 0.75,
+        "declaredUnit": 0.75,
+        "declaredUnitMassKg": 0.78,
+        "strengthMpa": 0.78,
+        "scopeDescription": 0.75,
+        "scopeStandard": 0.75
+      },
+      "carbonStages": [
+        {
+          "module": "A1",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": 213,
+          "status": "declared",
+          "provenance": {
+            "pdf": "EPD_HUB-5394_2026-06-27_en.pdf",
+            "sourcePage": 9,
+            "tableLabel": "Impact category Unit A1 A2 A3 A1-A3 A4 A5 B1 B2 B3 B4 B5 B6 B7 C1 C2 C3 C4 D",
+            "quote": "GWP - total1) kg CO2e 2,13E+02 1,59E+01 3,31E+00 2,32E+02 2,79E+00 1,51E+01 ND ND ND ND ND ND ND 4,48E+00 1,27E+01 7,20E+00 4,41E+00 -1,32E+01"
+          },
+          "confidence": 0.9
+        },
+        {
+          "module": "A2",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": 15.9,
+          "status": "declared",
+          "provenance": {
+            "pdf": "EPD_HUB-5394_2026-06-27_en.pdf",
+            "sourcePage": 9,
+            "tableLabel": "Impact category Unit A1 A2 A3 A1-A3 A4 A5 B1 B2 B3 B4 B5 B6 B7 C1 C2 C3 C4 D",
+            "quote": "GWP - total1) kg CO2e 2,13E+02 1,59E+01 3,31E+00 2,32E+02 2,79E+00 1,51E+01 ND ND ND ND ND ND ND 4,48E+00 1,27E+01 7,20E+00 4,41E+00 -1,32E+01"
+          },
+          "confidence": 0.9
+        },
+        {
+          "module": "A3",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": 3.31,
+          "status": "declared",
+          "provenance": {
+            "pdf": "EPD_HUB-5394_2026-06-27_en.pdf",
+            "sourcePage": 9,
+            "tableLabel": "Impact category Unit A1 A2 A3 A1-A3 A4 A5 B1 B2 B3 B4 B5 B6 B7 C1 C2 C3 C4 D",
+            "quote": "GWP - total1) kg CO2e 2,13E+02 1,59E+01 3,31E+00 2,32E+02 2,79E+00 1,51E+01 ND ND ND ND ND ND ND 4,48E+00 1,27E+01 7,20E+00 4,41E+00 -1,32E+01"
+          },
+          "confidence": 0.9
+        },
+        {
+          "module": "A1-A3",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": 232,
+          "status": "declared",
+          "provenance": {
+            "pdf": "EPD_HUB-5394_2026-06-27_en.pdf",
+            "sourcePage": 9,
+            "tableLabel": "Impact category Unit A1 A2 A3 A1-A3 A4 A5 B1 B2 B3 B4 B5 B6 B7 C1 C2 C3 C4 D",
+            "quote": "GWP - total1) kg CO2e 2,13E+02 1,59E+01 3,31E+00 2,32E+02 2,79E+00 1,51E+01 ND ND ND ND ND ND ND 4,48E+00 1,27E+01 7,20E+00 4,41E+00 -1,32E+01"
+          },
+          "confidence": 0.9
+        },
+        {
+          "module": "A4",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": 2.79,
+          "status": "declared",
+          "provenance": {
+            "pdf": "EPD_HUB-5394_2026-06-27_en.pdf",
+            "sourcePage": 9,
+            "tableLabel": "Impact category Unit A1 A2 A3 A1-A3 A4 A5 B1 B2 B3 B4 B5 B6 B7 C1 C2 C3 C4 D",
+            "quote": "GWP - total1) kg CO2e 2,13E+02 1,59E+01 3,31E+00 2,32E+02 2,79E+00 1,51E+01 ND ND ND ND ND ND ND 4,48E+00 1,27E+01 7,20E+00 4,41E+00 -1,32E+01"
+          },
+          "confidence": 0.9
+        },
+        {
+          "module": "A5",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": 15.1,
+          "status": "declared",
+          "provenance": {
+            "pdf": "EPD_HUB-5394_2026-06-27_en.pdf",
+            "sourcePage": 9,
+            "tableLabel": "Impact category Unit A1 A2 A3 A1-A3 A4 A5 B1 B2 B3 B4 B5 B6 B7 C1 C2 C3 C4 D",
+            "quote": "GWP - total1) kg CO2e 2,13E+02 1,59E+01 3,31E+00 2,32E+02 2,79E+00 1,51E+01 ND ND ND ND ND ND ND 4,48E+00 1,27E+01 7,20E+00 4,41E+00 -1,32E+01"
+          },
+          "confidence": 0.9
+        },
+        {
+          "module": "B1",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": null,
+          "status": "not_declared",
+          "provenance": {
+            "pdf": "EPD_HUB-5394_2026-06-27_en.pdf",
+            "sourcePage": 9,
+            "tableLabel": "Impact category Unit A1 A2 A3 A1-A3 A4 A5 B1 B2 B3 B4 B5 B6 B7 C1 C2 C3 C4 D",
+            "quote": "GWP - total1) kg CO2e 2,13E+02 1,59E+01 3,31E+00 2,32E+02 2,79E+00 1,51E+01 ND ND ND ND ND ND ND 4,48E+00 1,27E+01 7,20E+00 4,41E+00 -1,32E+01"
+          },
+          "confidence": 0.86
+        },
+        {
+          "module": "B2",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": null,
+          "status": "not_declared",
+          "provenance": {
+            "pdf": "EPD_HUB-5394_2026-06-27_en.pdf",
+            "sourcePage": 9,
+            "tableLabel": "Impact category Unit A1 A2 A3 A1-A3 A4 A5 B1 B2 B3 B4 B5 B6 B7 C1 C2 C3 C4 D",
+            "quote": "GWP - total1) kg CO2e 2,13E+02 1,59E+01 3,31E+00 2,32E+02 2,79E+00 1,51E+01 ND ND ND ND ND ND ND 4,48E+00 1,27E+01 7,20E+00 4,41E+00 -1,32E+01"
+          },
+          "confidence": 0.86
+        },
+        {
+          "module": "B3",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": null,
+          "status": "not_declared",
+          "provenance": {
+            "pdf": "EPD_HUB-5394_2026-06-27_en.pdf",
+            "sourcePage": 9,
+            "tableLabel": "Impact category Unit A1 A2 A3 A1-A3 A4 A5 B1 B2 B3 B4 B5 B6 B7 C1 C2 C3 C4 D",
+            "quote": "GWP - total1) kg CO2e 2,13E+02 1,59E+01 3,31E+00 2,32E+02 2,79E+00 1,51E+01 ND ND ND ND ND ND ND 4,48E+00 1,27E+01 7,20E+00 4,41E+00 -1,32E+01"
+          },
+          "confidence": 0.86
+        },
+        {
+          "module": "B4",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": null,
+          "status": "not_declared",
+          "provenance": {
+            "pdf": "EPD_HUB-5394_2026-06-27_en.pdf",
+            "sourcePage": 9,
+            "tableLabel": "Impact category Unit A1 A2 A3 A1-A3 A4 A5 B1 B2 B3 B4 B5 B6 B7 C1 C2 C3 C4 D",
+            "quote": "GWP - total1) kg CO2e 2,13E+02 1,59E+01 3,31E+00 2,32E+02 2,79E+00 1,51E+01 ND ND ND ND ND ND ND 4,48E+00 1,27E+01 7,20E+00 4,41E+00 -1,32E+01"
+          },
+          "confidence": 0.86
+        },
+        {
+          "module": "B5",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": null,
+          "status": "not_declared",
+          "provenance": {
+            "pdf": "EPD_HUB-5394_2026-06-27_en.pdf",
+            "sourcePage": 9,
+            "tableLabel": "Impact category Unit A1 A2 A3 A1-A3 A4 A5 B1 B2 B3 B4 B5 B6 B7 C1 C2 C3 C4 D",
+            "quote": "GWP - total1) kg CO2e 2,13E+02 1,59E+01 3,31E+00 2,32E+02 2,79E+00 1,51E+01 ND ND ND ND ND ND ND 4,48E+00 1,27E+01 7,20E+00 4,41E+00 -1,32E+01"
+          },
+          "confidence": 0.86
+        },
+        {
+          "module": "B6",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": null,
+          "status": "not_declared",
+          "provenance": {
+            "pdf": "EPD_HUB-5394_2026-06-27_en.pdf",
+            "sourcePage": 9,
+            "tableLabel": "Impact category Unit A1 A2 A3 A1-A3 A4 A5 B1 B2 B3 B4 B5 B6 B7 C1 C2 C3 C4 D",
+            "quote": "GWP - total1) kg CO2e 2,13E+02 1,59E+01 3,31E+00 2,32E+02 2,79E+00 1,51E+01 ND ND ND ND ND ND ND 4,48E+00 1,27E+01 7,20E+00 4,41E+00 -1,32E+01"
+          },
+          "confidence": 0.86
+        },
+        {
+          "module": "B7",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": null,
+          "status": "not_declared",
+          "provenance": {
+            "pdf": "EPD_HUB-5394_2026-06-27_en.pdf",
+            "sourcePage": 9,
+            "tableLabel": "Impact category Unit A1 A2 A3 A1-A3 A4 A5 B1 B2 B3 B4 B5 B6 B7 C1 C2 C3 C4 D",
+            "quote": "GWP - total1) kg CO2e 2,13E+02 1,59E+01 3,31E+00 2,32E+02 2,79E+00 1,51E+01 ND ND ND ND ND ND ND 4,48E+00 1,27E+01 7,20E+00 4,41E+00 -1,32E+01"
+          },
+          "confidence": 0.86
+        },
+        {
+          "module": "C1",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": 4.48,
+          "status": "declared",
+          "provenance": {
+            "pdf": "EPD_HUB-5394_2026-06-27_en.pdf",
+            "sourcePage": 9,
+            "tableLabel": "Impact category Unit A1 A2 A3 A1-A3 A4 A5 B1 B2 B3 B4 B5 B6 B7 C1 C2 C3 C4 D",
+            "quote": "GWP - total1) kg CO2e 2,13E+02 1,59E+01 3,31E+00 2,32E+02 2,79E+00 1,51E+01 ND ND ND ND ND ND ND 4,48E+00 1,27E+01 7,20E+00 4,41E+00 -1,32E+01"
+          },
+          "confidence": 0.9
+        },
+        {
+          "module": "C2",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": 12.7,
+          "status": "declared",
+          "provenance": {
+            "pdf": "EPD_HUB-5394_2026-06-27_en.pdf",
+            "sourcePage": 9,
+            "tableLabel": "Impact category Unit A1 A2 A3 A1-A3 A4 A5 B1 B2 B3 B4 B5 B6 B7 C1 C2 C3 C4 D",
+            "quote": "GWP - total1) kg CO2e 2,13E+02 1,59E+01 3,31E+00 2,32E+02 2,79E+00 1,51E+01 ND ND ND ND ND ND ND 4,48E+00 1,27E+01 7,20E+00 4,41E+00 -1,32E+01"
+          },
+          "confidence": 0.9
+        },
+        {
+          "module": "C3",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": 7.2,
+          "status": "declared",
+          "provenance": {
+            "pdf": "EPD_HUB-5394_2026-06-27_en.pdf",
+            "sourcePage": 9,
+            "tableLabel": "Impact category Unit A1 A2 A3 A1-A3 A4 A5 B1 B2 B3 B4 B5 B6 B7 C1 C2 C3 C4 D",
+            "quote": "GWP - total1) kg CO2e 2,13E+02 1,59E+01 3,31E+00 2,32E+02 2,79E+00 1,51E+01 ND ND ND ND ND ND ND 4,48E+00 1,27E+01 7,20E+00 4,41E+00 -1,32E+01"
+          },
+          "confidence": 0.9
+        },
+        {
+          "module": "C4",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": 4.41,
+          "status": "declared",
+          "provenance": {
+            "pdf": "EPD_HUB-5394_2026-06-27_en.pdf",
+            "sourcePage": 9,
+            "tableLabel": "Impact category Unit A1 A2 A3 A1-A3 A4 A5 B1 B2 B3 B4 B5 B6 B7 C1 C2 C3 C4 D",
+            "quote": "GWP - total1) kg CO2e 2,13E+02 1,59E+01 3,31E+00 2,32E+02 2,79E+00 1,51E+01 ND ND ND ND ND ND ND 4,48E+00 1,27E+01 7,20E+00 4,41E+00 -1,32E+01"
+          },
+          "confidence": 0.9
+        },
+        {
+          "module": "D",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": -13.2,
+          "status": "declared",
+          "provenance": {
+            "pdf": "EPD_HUB-5394_2026-06-27_en.pdf",
+            "sourcePage": 9,
+            "tableLabel": "Impact category Unit A1 A2 A3 A1-A3 A4 A5 B1 B2 B3 B4 B5 B6 B7 C1 C2 C3 C4 D",
+            "quote": "GWP - total1) kg CO2e 2,13E+02 1,59E+01 3,31E+00 2,32E+02 2,79E+00 1,51E+01 ND ND ND ND ND ND ND 4,48E+00 1,27E+01 7,20E+00 4,41E+00 -1,32E+01"
+          },
+          "confidence": 0.9
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,626 @@
+1	Created with One Click LCA ATILTS4020100Enhanced
+ENVIRONMENTAL PRODUCT DECLARATION
+IN ACCORDANCE WITH EN 15804+A2 & ISO 14025
+EPD HUB, HUB-5480
+Published on 20.02.2026, last updated on 20.02.2026, valid until 19.02.2031
+This EPD is intended for business-to-business and/or business-to-consumer communication. Life Cycle Assessment study has been performed in accordance with the
+requirements of EN 15804, EPD Hub PCR version 1.2 (24 Mar 2025) and JRC characterization factors EF 3.1. The manufacturer has the sole ownership, liability, and responsibility
+for the EPD. EPDs within the same product category but from different programs may not be comparable. EPDs of construction products may not be comparable if they do not
+comply with EN 15804 and if they are not compared in a building context.
+ATILTS4020100Enhanced
+Tandy Concrete
+
+-- 1 of 13 --
+
+2	Created with One Click LCA ATILTS4020100Enhanced
+MANUFACTURER AND SITE
+Manufacturer Tandy Concrete
+Address 21 Mackay Slade Point Road, Mackay,
+Australia
+Contact details sales@tandygroup.com.au
+Website www.tandygroup.com.au
+Place of production 21 Mackay Slade Point Road, Mackay,
+Australia
+Place(s) of raw
+material origin
+Mackay, Australia
+Place(s) of
+installation and use
+Mackay, Australia
+Period for data 1st July 2024 to 30th June 2025
+EPD STANDARDS, SCOPE AND VERIFICATION
+Program operator EPD Hub, hub@epdhub.com
+Reference standard EN 15804:2012+A2:2019/AC:2021
+and ISO 14025
+PCR EPD Hub Core PCR version 1.2, 24 Mar 2025
+cPCR EN 16757 Product Category Rules for
+concrete and concrete elements
+Sector Construction product
+Category of EPD Third party verified EPD
+Parent EPD number -
+Scope of the EPD Cradle to gate with options, A4-A5, and
+modules C1-C4, D
+EPD author Niki Jackson
+EPD verification Independent verification of this EPD and
+data, according to ISO 14025:
+ Internal verification
+ External verification
+EPD verifier Vera Durão, as an authorised verifier acting
+for EPD Hub Limited
+PRODUCT SPECIFICATION
+Product name ATILTS4020100Enhanced
+Product reference -
+Concrete type Ready-mix concrete
+Product standards EN 206
+Additional
+characteristic -
+GTIN (Global Trade Item
+Number) -
+NOBB (Norwegian
+Building Product Database) -
+A1-A3 Specific data
+(%) 99
+PRODUCT DESCRIPTION
+Tandy 40MPa Tiltup up concrete is designed to comply
+with the requirements of AS1379 - Specification and
+supply of concrete. Our technical expertise ensures
+that tilt up panels made with this concrete gain
+sufficient early strength to enable their lifting and
+placing without damage to the panel.
+Application: Tilt Up Panels
+PRODUCT CHARACTERISTICS
+Compressive strength class:
+S40
+Strength evaluation days:
+28 days
+Exposure class:
+B2
+ENVIRONMENTAL DATA SUMMARY
+Declared unit 1 cubic meter
+Declared unit mass, kg 2408
+GWP-total, A1-A3 (kg CO₂e) 280
+GWP-fossil, A1-A3 (kg CO₂e) 280
+Secondary material, inputs (%) 0,6
+Secondary material, outputs (%) 70
+Total energy use, A1-A3 (kWh) 215
+Net freshwater use, A1-A3 (m3) 6,73E‐01
+
+-- 2 of 13 --
+
+3	Created with One Click LCA ATILTS4020100Enhanced
+WHO WE ARE
+Tandy Concrete is an independently family-owned
+Australian pre-mixed concrete supply company proudly
+established in 1968. As part of the Tandy Group
+employing over 100 staff across Queensland. We have
+grown to be become a trusted and reliable concrete
+supplier throughout Central Queensland.
+We supply high-quality pre-mix concrete produced to
+Australian Standards ensuring our customers receive
+consistent and reliable materials to all construction
+applications. All raw materials are sourced from
+trusted suppliers and meet or exceed the required
+specifications.
+We operate fixed concrete batch plants in Airlie Beach,
+Mackay, Marian, Rockhampton and Yeppoon. We can
+also provide mobile site plants for major projects and
+remote locations. Our modern well-maintained
+transport fleet ensures we can confidently meet the
+evolving needs of our customers.
+We offer a full range of concrete products including not
+limited to:
+• N & S Grade (20–50+ MPa)
+• Flowable fill
+• Stabilised sands
+• Block fills
+• Spray mixes
+• Shotcrete
+Our fixed and mobile plants are supported by modern
+fleet of agitator trucks, including six-metre, nine-metre
+and mini agitators. These trucks can be moved from
+any of sites to meet the specific needs of each project.
+Through vertical integration Tandy Group also own and
+operate TMR approved hard rock quarries and multiple
+sand plants allowing us to maintain consistent quality,
+dependable supply and competitive pricing.
+Tandy Concrete has contributed to numerous
+significant projects including but not limited to:
+Project Name: Location:
+Catherine McAuley Mackay
+Resource Centre of Excellence Mackay
+Jenmar Mackay
+Richglen Mackay
+Aldi Mackay/Airlie
+Shute Harbour Units Airlie Beach
+Followmont Transport Mackay
+Hastings Deering Stage 2 Mackay
+Bunnings Stores Mackay
+Hastings Deering Stage 1 Mackay
+Alliance Aircraft Hanger Rockhampton
+Project Name: Location:
+Mental Health Unit Rockhampton
+St Brendan’s College Yeppoon
+Edge Apartments 12 Story Rockhampton
+Echelon Apartments 9 Story Rockhampton
+Hospital Bridge Mackay
+Gargett Bridge Gargett
+Hay Point Expansion – HPX 3 Hay Point
+We are equally proud to support local builders
+delivering high quality concrete solutions for
+residential, commercial, and civil applications across
+the region.
+QUALITY MANAGEMENT
+Tandy Concrete is committed to maintaining the
+highest standards of quality across all operations. Our
+quality management processes ensure every load of
+concrete meets industry, regulatory, and customer
+requirements.
+Our Quality Assurance Measures
+Regular Raw Material Testing
+All raw materials are tested regularly by external NATA-
+certified laboratories to ensure compliance and
+performance.
+Approved Material Sources
+All aggregates and raw materials used in concrete
+production are sourced exclusively from Department of
+Transport & Main Roads (DTMR) source assessed sites.
+Compliance with Australian Standards
+All concrete is manufactured in accordance with
+Australian Standard AS 1379 and all cement powders
+and chemical additives comply with their respective
+Australian Standards.
+Documented Mix Designs
+Every batch is produced to approved mix designs with
+detailed records of all additives logged, stored, and
+traceable in our Axi batch software.
+Plant Calibration
+All concrete plants undergo full weights and measures
+recalibration every six months by NATA-accredited
+calibrators.
+Fleet & Insurance
+Our transport fleet is fully insured, including $30
+million third-party property damage coverage.
+
+-- 3 of 13 --
+
+4	Created with One Click LCA ATILTS4020100Enhanced
+INNOVATION & CONTINUOUS IMPROVEMENT
+Innovation has always been integral to the way we op-
+erate. Over the years Tandy Concrete has delivered
+many industry firsts, driven by our willingness to ex-
+plore new solutions rather than limiting the services
+we provide. We continually invest in research, testing,
+and collaboration to ensure our products meet the
+evolving needs of our customers and the industries we
+support.
+Recent examples of our innovative concrete solutions
+include:
+High-strength underwater concrete:
+A specialized liquid concrete mix designed with an anti-
+washout admixture capable of being pumped 20
+meters underwater while maintaining structural
+integrity. This mix was developed for pylon
+remediation works in the Ocean at Hay Point Coal
+Terminal.
+High-performance fiber-reinforced mix:
+A custom fiber concrete mix design that delivered both
+exceptional strength and superior finish ability
+engineered specifically for super-flat flooring
+applications during the Hastings Deering robotic pallet
+racking up-grade.
+Lightweight concrete utilizing polystyrene beads:
+A carefully engineered lightweight mix incorporating
+expanded polystyrene beads to significantly reduce
+density and overall concrete weight. This solution is
+ideal for projects requiring lower loading on existing
+concrete structures, enabling safe upgrades and
+extensions without compromising structural
+performance. This mix was developed for a
+multimillion-dollar waterfront mansion on Airlie
+Beaches waterfront.
+These projects demonstrate our commitment to
+pushing boundaries, solving complex challenges, and
+delivering tailored solutions that meet the highest
+technical standards.
+CONCLUSION
+Tandy Concrete remains committed to delivering high-
+performing concrete solutions backed by reliability,
+technical expertise, and a genuine focus on customer
+success. With a strong regional footprint, integrated
+supply chain, and an ongoing drive for innovation we
+continue to support Central Queensland’s growth
+providing the foundations for projects of every scale.
+Our history, capability, and dedication ensure we are
+well positioned to meet the challenges of today and
+the opportunities of tomorrow.
+
+-- 4 of 13 --
+
+5	Created with One Click LCA ATILTS4020100Enhanced
+LIFE CYCLE ASSESSMENT
+SYSTEM BOUNDARY
+This EPD covers the life-cycle modules listed in the
+following table.
+Product stage
+Assembly stage
+Use stage
+End of life stage
+Beyond the system
+boundaries
+A1 A2 A3 A4 A5 B1 B2 B3 B4 B5 B6 B7 C1 C2 C3 C4 D
+x x x x x N
+D
+N
+D
+N
+D
+N
+D
+N
+D
+N
+D
+N
+D x x x x x
+Raw materials	
+Transport	
+Manufacturing	
+Transport	
+Assembly	
+Use
+Maintenance	
+Repair
+Replacement	
+Refurbishment	
+Operational energy	
+use	
+Operational water	
+use	
+Deconstr./demol.	
+Transport	
+Waste processing	
+Disposal
+Reuse, Recovery,	
+Recycling
+Not declared = ND.
+CUT-OFF CRITERIA
+The study does not exclude any modules or processes
+which are stated mandatory in the reference standard
+and the applied PCR. The study does not exclude any
+hazardous materials or substances. There is no
+neglected unit process more than 1% of total mass or
+energy flows. The module specific total neglected input
+and output flows also do not exceed 5% of energy
+usage or mass.
+The production of capital equipment, construction
+activities, and infrastructure, maintenance and
+operation of capital equipment, personnel-related
+activities, energy and water use related to company
+management and sales activities are excluded.
+VALIDATION OF DATA
+Data collection for production, transport, and packaging
+was conducted using time and site-specific information,
+as defined in the general information section on page 1
+and 2. Upstream process calculations rely on generic
+data as defined in the Bibliography section.
+Manufacturer-provided specific and generic data were
+used for the product’s manufacturing stage. The
+analysis was performed in One Click LCA EPD
+Generator, with the 'Cut-Off, EN 15804+A2' allocation
+method, and characterization factors according to EN
+15804:2012+A2:2019/AC:2021 and JRC EF 3.1.
+ALLOCATION, ESTIMATES AND ASSUMPTIONS
+All allocations are done as per the reference standards
+and the applied PCR. In this study, allocation has been
+done in the following ways:
+Data type Allocation
+Raw materials No allocation
+Packaging materials Not applicable
+Ancillary materials Allocated by mass
+Manufacturing energy and waste Allocated by mass
+• Economic allocation has been applied to the fly ash in
+the upstream generic process
+• Fuel used for mixing 1m3 of concrete was
+determined based on a 10-minute mixing time of the
+average load size of 6.2m3, for diesel burned in the full
+mixing mode of the concrete agitator barrel
+• A market-based approach is used in modelling the
+electricity mix utilised in the factory. Renewables have
+been removed to provide a conservative approach,
+with electricity being less than 0.3% of the total
+impact; this would have very little impact on the results
+• Distribution Loss Factor (DLF) of 1.033 was applied to
+the electricity
+• Electricity is composed of 81.10% Coal, 16.66% Gas
+and 2.24% Oil
+• Transport factors for raw materials, Aggregates 31-
+54km, Admixtures 950-980km, Cement 430-450km
+• A4, Distance of 11km is assumed
+• A5, 3% waste, and 73.62MJ of diesel consumed
+PRODUCT & MANUFACTURING SITES GROUPING
+Type of grouping No grouping
+Grouping method Not applicable
+Variation in GWP-fossil for A1-A3, % -
+This EPD is product and factory specific.
+PRODUCT RAW MATERIAL MAIN COMPOSITION
+The product is a ready-mix concrete consisting of
+aggregates, cement, filler, admixtures, and water. Main
+material categories as per EPD Hub GPI are shown
+below:
+Raw material
+category
+Amount, mass- % Material origin
+Metals 0 -
+Minerals 100 Australia
+Fossil materials 0 -
+Bio-based materials 0 -
+
+-- 5 of 13 --
+
+6	Created with One Click LCA ATILTS4020100Enhanced
+SUBSTANCES, REACH - VERY HIGH CONCERN
+The product does not contain any REACH SVHC
+substances in amounts greater than 0,1 % (1000 ppm).
+BIOGENIC CARBON CONTENT
+Product’s biogenic carbon content at the factory gate
+Biogenic carbon content in product, kg C 0
+
+-- 6 of 13 --
+
+7	Created with One Click LCA ATILTS4020100Enhanced
+PRODUCT LIFE CYCLE
+MANUFACTURING (A1-A3)
+The environmental impacts considered for the product
+stage cover the manufacturing of raw materials used in
+the production. Also, fuels used by machines, and
+handling of waste formed in the production processes
+at the manufacturing facilities are included in this
+stage. The study also considers the material losses
+occurring during the manufacturing processes as well
+as losses during electricity transmission.
+The use of green energy in manufacturing is
+demonstrated through contractual instruments (GOs,
+RECs, etc.), and its use is ensured throughout the
+validity period of this EPD.
+Ready-mix concrete production starts by transporting
+the binders, aggregates, and additives to the
+manufacturing site and storing them into closed silos
+and containers. The aggregates are then dosed onto a
+scale and transferred to a concrete mixer. In the mixer,
+cement is added to the aggregates, after which the
+material is mixed dry. Water and additives are then
+added to the mixture, followed by wet mixing. After
+mixing, the concrete mass is unloaded from the mixer
+into the tank of the concrete mixer truck, which is
+transported to the construction site.
+No packaging is included as the product is transported
+with mixer trucks.
+TRANSPORT AND INSTALLATION (A4-A5)
+The concrete is transported to the building site using
+an average lorry. Transportation impacts occurred from
+final products delivery to construction site cover fuel
+direct exhaust emissions, environmental impacts of
+fuel production, as well as related infrastructure
+emissions (A4).
+Installation includes the energy used for concrete
+application. This consists of the energy spent by a
+concrete mixer truck and a concrete pump. A
+production loss of % at installation is assumed (A5).
+PRODUCT USE AND MAINTENANCE (B1-B7)
+This EPD does not cover the use phase. Air, soil, and
+water impacts during the use phase have not been
+studied. Carbonation is not taken into account in this
+EPD.
+PRODUCT END OF LIFE (C1-C4, D)
+At the end of its life, the concrete is assumed to be part
+of a concrete building that is demolished using
+machinery, consuming energy in the form of diesel
+(C1).
+The concrete blocks gotten after the demolition are
+delivered 50 km by a lorry to the nearest construction
+waste treatment (C2). It is assumed that 100% of the
+demolished concrete is transported to a site where this
+waste is processed by, crushing the blocks to gravel.
+About 70% of concrete can be recycled this way (C3),
+with an assumption that non-reinforced concrete is
+being sorted. The remaining 30% of concrete is
+assumed to be sent to the landfill for disposal (C4). The
+crushed concrete received from waste treatment can
+be used as a replacement for virgin gravel or for raw
+materials in road construction (D). The process losses
+of the waste treatment plant are assumed to be
+negligible.
+LCA SOFTWARE AND BIBLIOGRAPHY
+This EPD has been created using One Click LCA
+Concrete EPD Generator v3.2.1. The LCA and EPD have
+been prepared according to the reference standards
+and ISO 14040/14044. Ecoinvent v3.10.1/3.11 and One
+Click LCA databases were used as sources of
+environmental data. Allocation used in Ecoinvent
+3.10.1/3.11 environmental data sources follow the
+methodology ‘allocation, cut-off, EN 15804+A2‘.
+AS 1379 2007 - Specification and supply of concrete
+AS 3600 2018 - Concrete Structures, Table 4.4
+Australian energy statistics 2025 - Table O, Australian
+electricity generation, by state and territory, by fuel
+type, physical units.
+https://www.energy.gov.au/publications/australian-
+energy-update-2025
+Australian Energy Market Operator - Distribution Loss
+Factors For The 2024/25 Financial Year.
+https://www.aemo.com.au/-
+/media/files/electricity/nem/security_and_reliability/lo
+ss_factors_and_regional_boundaries/2024-25-
+financial-year/distribution-loss-factors-for-2024-25.pdf
+Diesel used in the mixing of concrete. https://unique-
+mixer.com/news/How_much_diesel_does_a_self_loadi
+ng_concrete_mixer_consume_per_hour.html
+3
+
+-- 7 of 13 --
+
+8	Created with One Click LCA ATILTS4020100Enhanced
+MANUFACTURING PROCESS DIAGRAM (A1-A3)
+
+-- 8 of 13 --
+
+9 ATILTS4020100Enhanced	Created with One Click LCA
+ENVIRONMENTAL IMPACT DATA
+The estimated impact results are only relative statements which do not indicate the end points of the impact categories, exceeding threshold values, safety margins or risks.
+CORE ENVIRONMENTAL IMPACT INDICATORS – EN 15804+A2, EF 3.1
+Impact category Unit A1 A2 A3 A1-A3 A4 A5 B1 B2 B3 B4 B5 B6 B7 C1 C2 C3 C4 D
+GWP – total1) kg CO2e 2,59E+02 1,77E+01 3,39E+00 2,80E+02 2,85E+00 1,66E+01 ND ND ND ND ND ND ND 4,58E+00 1,30E+01 7,38E+00 4,51E+00 ‐1,35E+01
+GWP – fossil kg CO2e 2,59E+02 1,77E+01 3,39E+00 2,80E+02 2,85E+00 1,66E+01 ND ND ND ND ND ND ND 4,58E+00 1,30E+01 7,38E+00 4,51E+00 ‐1,35E+01
+GWP – biogenic kg CO2e ‐3,32E‐02 8,29E‐03 3,75E‐04 ‐2,46E‐02 6,46E‐04 5,64E‐05 ND ND ND ND ND ND ND 4,67E‐04 2,94E‐03 ‐7,53E‐04 ‐1,43E‐03 ‐4,24E‐02
+GWP – LULUC kg CO2e 1,58E‐02 1,34E‐02 3,31E‐04 2,96E‐02 1,28E‐03 1,95E‐03 ND ND ND ND ND ND ND 4,69E‐04 5,80E‐03 7,56E‐04 2,58E‐03 ‐1,87E‐02
+Ozone depletion pot. kg CFC-11e 2,98E‐06 2,31E‐07 5,33E‐08 3,27E‐06 4,21E‐08 2,25E‐07 ND ND ND ND ND ND ND 7,01E‐08 1,91E‐07 1,13E‐07 1,31E‐07 ‐1,13E‐06
+Acidification potential mol H+e 9,42E‐01 1,11E‐01 2,73E‐02 1,08E+00 9,72E‐03 1,04E‐01 ND ND ND ND ND ND ND 4,14E‐02 4,42E‐02 6,66E‐02 3,20E‐02 ‐8,83E‐02
+EP-freshwater2) kg Pe 4,40E‐02 2,34E‐03 2,35E‐04 4,66E‐02 2,22E‐04 1,67E‐03 ND ND ND ND ND ND ND 1,32E‐04 1,01E‐03 2,13E‐04 3,71E‐04 ‐7,99E‐04
+EP-marine kg Ne 4,56E‐02 4,22E‐02 1,09E‐02 9,87E‐02 3,19E‐03 3,57E‐02 ND ND ND ND ND ND ND 1,92E‐02 1,45E‐02 3,09E‐02 1,22E‐02 ‐1,91E‐02
+EP-terrestrial mol Ne 2,22E+00 4,59E‐01 1,19E‐01 2,80E+00 3,48E‐02 4,42E‐01 ND ND ND ND ND ND ND 2,10E‐01 1,58E‐01 3,38E‐01 1,33E‐01 ‐2,50E‐01
+POCP (“smog”)3) kg
+NMVOCe 5,31E‐01 1,45E‐01 3,57E‐02 7,12E‐01 1,43E‐02 1,29E‐01 ND ND ND ND ND ND ND 6,26E‐02 6,51E‐02 1,01E‐01 4,77E‐02 ‐6,41E‐02
+ADP-minerals & metals4) kg Sbe 2,03E‐05 4,72E‐05 1,27E‐06 6,88E‐05 7,95E‐06 6,32E‐06 ND ND ND ND ND ND ND 1,64E‐06 3,62E‐05 2,64E‐06 7,16E‐06 ‐1,36E‐04
+ADP-fossil resources MJ 3,88E+02 2,38E+02 4,37E+01 6,69E+02 4,14E+01 1,30E+02 ND ND ND ND ND ND ND 5,99E+01 1,88E+02 9,65E+01 1,11E+02 ‐2,01E+02
+Water use5) m3e depr. 4,73E+01 1,91E+00 7,24E+00 5,65E+01 2,04E‐01 1,99E+00 ND ND ND ND ND ND ND 1,50E‐01 9,29E‐01 2,41E‐01 3,19E‐01 ‐2,67E+01
+1) GWP = Global Warming Potential. 2) EP = Eutrophication potential. Required characterisation method and data are in kg P-eq. Multiply by 3,07 to get PO4e. 3) POCP = Photochemical ozone formation. 4) ADP = Abiotic depletion potential.
+5) EN 15804+A2 disclaimer for Abiotic depletion and Water use and optional indicators except Particulate matter and Ionizing radiation, human health. The results of these environmental impact indicators shall be used with care as the
+uncertainties on these results are high or as there is limited experience with the indicator.
+removalMarker-pef1
+
+-- 9 of 13 --
+
+10 ATILTS4020100Enhanced	Created with One Click LCA
+ADDITIONAL (OPTIONAL) ENVIRONMENTAL IMPACT INDICATORS – EN 15804+A2, EF 3.1
+Impact category Unit A1 A2 A3 A1-A3 A4 A5 B1 B2 B3 B4 B5 B6 B7 C1 C2 C3 C4 D
+Particulate matter Incidence 7,52E‐06 2,09E‐06 7,53E‐07 1,04E‐05 2,85E‐07 2,70E‐06 ND ND ND ND ND ND ND 1,18E‐06 1,30E‐06 1,44E‐05 7,28E‐07 ‐1,13E‐06
+Ionizing radiation6) kBq
+U235e 8,46E+02 4,70E‐01 2,72E‐02 8,46E+02 3,60E‐02 2,54E+01 ND ND ND ND ND ND ND 2,65E‐02 1,64E‐01 4,27E‐02 6,96E‐02 ‐3,19E+00
+Ecotoxicity (freshwater) CTUe 4,02E+02 4,23E+01 3,68E+00 4,48E+02 5,85E+00 2,02E+01 ND ND ND ND ND ND ND 3,30E+00 2,66E+01 5,31E+00 9,28E+00 ‐2,41E+02
+Human toxicity, cancer CTUh 4,18E‐07 3,69E‐09 3,15E‐10 4,22E‐07 4,71E‐10 1,35E‐08 ND ND ND ND ND ND ND 4,71E‐10 2,14E‐09 7,58E‐10 8,31E‐10 ‐1,40E‐08
+Human tox. non-cancer CTUh 1,30E‐05 1,38E‐07 9,20E‐09 1,31E‐05 2,68E‐08 4,12E‐07 ND ND ND ND ND ND ND 7,46E‐09 1,22E‐07 1,20E‐08 1,91E‐08 ‐2,57E‐07
+SQP7) - 7,39E+02 1,94E+02 6,09E+00 9,39E+02 4,17E+01 4,86E+01 ND ND ND ND ND ND ND 4,20E+00 1,89E+02 6,76E+00 2,18E+02 ‐1,93E+02
+6) EN 15804+A2 disclaimer for Ionizing radiation, human health. This impact category deals mainly with the eventual impact of low dose ionizing radiation on human health of the nuclear fuel cycle. It does not consider effects due to
+possible nuclear accidents, occupational exposure nor due to radioactive waste disposal in underground facilities. Potential ionizing radiation from the soil, from radon and from some construction materials is also not measured by this
+indicator. 7) SQP = Land use related impacts/soil quality.
+removalMarker-pef2
+USE OF NATURAL RESOURCES
+Impact category Unit A1 A2 A3 A1-A3 A4 A5 B1 B2 B3 B4 B5 B6 B7 C1 C2 C3 C4 D
+Renew. PER as energy8) MJ 1,35E+01 7,65E+00 3,13E‐01 2,15E+01 5,67E‐01 1,40E+00 ND ND ND ND ND ND ND 3,80E‐01 2,58E+00 6,11E‐01 1,07E+00 ‐1,98E+01
+Renew. PER as material MJ 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 ND ND ND ND ND ND ND 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00
+Total use of renew. PER MJ 1,35E+01 7,65E+00 3,13E‐01 2,15E+01 5,67E‐01 1,40E+00 ND ND ND ND ND ND ND 3,80E‐01 2,58E+00 6,11E‐01 1,07E+00 ‐1,98E+01
+Non-re. PER as energy MJ 3,72E+02 2,38E+02 4,38E+01 6,54E+02 4,14E+01 1,29E+02 ND ND ND ND ND ND ND 5,99E+01 1,88E+02 9,65E+01 1,11E+02 ‐2,06E+02
+Non-re. PER as material MJ 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 ND ND ND ND ND ND ND 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00
+Total use of non-re. PER MJ 3,72E+02 2,38E+02 4,38E+01 6,54E+02 4,14E+01 1,29E+02 ND ND ND ND ND ND ND 5,99E+01 1,88E+02 9,65E+01 1,11E+02 ‐2,06E+02
+Secondary materials kg 1,45E+01 2,18E‐01 1,41E‐02 1,47E+01 1,76E‐02 4,87E‐01 ND ND ND ND ND ND ND 2,49E‐02 8,01E‐02 4,01E‐02 2,78E‐02 ‐2,32E‐01
+Renew. secondary fuels MJ 1,19E‐06 1,25E‐03 4,84E‐05 1,29E‐03 2,24E‐04 2,01E‐04 ND ND ND ND ND ND ND 6,51E‐05 1,02E‐03 1,05E‐04 5,76E‐04 ‐1,60E‐03
+Non-ren. secondary
+fuels MJ 9,98E+01 0,00E+00 0,00E+00 9,98E+01 0,00E+00 2,99E+00 ND ND ND ND ND ND ND 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00
+Use of net fresh water m3 6,07E‐01 5,02E‐02 1,50E‐02 6,73E‐01 6,12E‐03 3,12E‐02 ND ND ND ND ND ND ND 3,96E‐03 2,78E‐02 6,38E‐03 1,15E‐01 ‐6,21E‐01
+8) PER = Primary energy resources.
+
+-- 10 of 13 --
+
+11 ATILTS4020100Enhanced	Created with One Click LCA
+END OF LIFE – WASTE
+Impact category Unit A1 A2 A3 A1-A3 A4 A5 B1 B2 B3 B4 B5 B6 B7 C1 C2 C3 C4 D
+Hazardous waste kg 2,62E+00 7,81E‐01 3,90E‐02 3,44E+00 7,01E‐02 2,29E‐01 ND ND ND ND ND ND ND 6,67E‐02 3,19E‐01 1,07E‐01 1,22E‐01 ‐1,56E+00
+Non-hazardous waste kg 5,03E+01 1,36E+01 6,05E‐01 6,45E+01 1,30E+00 3,74E+00 ND ND ND ND ND ND ND 9,09E‐01 5,90E+00 1,46E+00 2,79E+00 ‐2,90E+01
+Radioactive waste kg 6,66E‐04 1,15E‐04 5,52E‐06 7,87E‐04 8,82E‐06 3,64E‐05 ND ND ND ND ND ND ND 6,51E‐06 4,01E‐05 1,05E‐05 1,70E‐05 ‐3,99E‐04
+END OF LIFE – OUTPUT FLOWS
+Impact category Unit A1 A2 A3 A1-A3 A4 A5 B1 B2 B3 B4 B5 B6 B7 C1 C2 C3 C4 D
+Components for re-use kg 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 ND ND ND ND ND ND ND 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00
+Materials for recycling kg 0,00E+00 0,00E+00 1,50E+01 1,50E+01 0,00E+00 5,10E+01 ND ND ND ND ND ND ND 0,00E+00 0,00E+00 1,69E+03 0,00E+00 0,00E+00
+Materials for energy rec Kg 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 ND ND ND ND ND ND ND 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00
+Exported energy MJ 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 ND ND ND ND ND ND ND 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00
+Exported energy:
+Electricity MJ 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 ND ND ND ND ND ND ND 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00
+Exported energy: Heat MJ 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 ND ND ND ND ND ND ND 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00
+ENVIRONMENTAL IMPACTS – EN 15804+A1, CML
+Impact category Unit A1 A2 A3 A1-A3 A4 A5 B1 B2 B3 B4 B5 B6 B7 C1 C2 C3 C4 D
+Global Warming Pot. kg CO2e 2,59E+02 1,76E+01 3,37E+00 2,80E+02 2,84E+00 1,66E+01 ND ND ND ND ND ND ND 4,56E+00 1,29E+01 7,34E+00 4,47E+00 ‐1,67E+01
+Ozone depletion Pot. kg CFC-11e 1,09E‐06 1,85E‐07 4,35E‐08 1,32E‐06 3,36E‐08 1,40E‐07 ND ND ND ND ND ND ND 5,56E‐08 1,53E‐07 8,95E‐08 1,04E‐07 ‐1,15E‐07
+Acidification kg SO2e 7,81E‐02 8,27E‐02 2,00E‐02 1,81E‐01 7,42E‐03 5,56E‐02 ND ND ND ND ND ND ND 2,91E‐02 3,37E‐02 4,68E‐02 2,37E‐02 ‐8,03E‐02
+Eutrophication kg PO43e 4,75E‐02 1,81E‐02 4,39E‐03 7,00E‐02 1,81E‐03 1,39E‐02 ND ND ND ND ND ND ND 6,79E‐03 8,22E‐03 1,09E‐02 7,52E‐03 ‐1,58E‐02
+POCP (“smog”) kg C2H4e 6,85E‐03 6,46E‐03 1,36E‐03 1,47E‐02 6,62E‐04 4,23E‐03 ND ND ND ND ND ND ND 2,18E‐03 3,01E‐03 3,51E‐03 2,24E‐03 ‐7,15E‐03
+ADP-elements kg Sbe 2,03E‐05 4,60E‐05 1,23E‐06 6,75E‐05 7,76E‐06 6,17E‐06 ND ND ND ND ND ND ND 1,60E‐06 3,53E‐05 2,57E‐06 7,02E‐06 ‐9,16E‐05
+ADP-fossil MJ 3,86E+02 2,31E+02 4,34E+01 6,60E+02 4,08E+01 1,28E+02 ND ND ND ND ND ND ND 5,95E+01 1,85E+02 9,58E+01 1,10E+02 ‐2,06E+02
+
+-- 11 of 13 --
+
+12 ATILTS4020100Enhanced	Created with One Click LCA
+ADDITIONAL INDICATOR – GWP-GHG
+Impact category Unit A1 A2 A3 A1-A3 A4 A5 B1 B2 B3 B4 B5 B6 B7 C1 C2 C3 C4 D
+GWP-GHG 9) kg CO2e 2,59E+02 1,77E+01 3,39E+00 2,80E+02 2,85E+00 1,66E+01 ND ND ND ND ND ND ND 4,58E+00 1,30E+01 7,38E+00 4,51E+00 ‐1,35E+01
+9) This indicator includes all greenhouse gases excluding biogenic carbon dioxide uptake and emissions and biogenic carbon stored in the product. In addition, the characterisation factors for the flows - CH4 fossil, CH4 biogenic and Dinitrogen
+monoxide - were updated. This indicator is identical to the GWP-total of EN 15804:2012+A2:2019 except that the characterization factor for biogenic CO2 is set to zero.
+SCENARIO DOCUMENTATION
+DATA SOURCES
+Manufacturing energy scenario documentation – A3 (Energy data source)
+1. Construction, specialized activities, demolition and site preparation, Diesel, burned in building machine,
+World, ecoinvent 3.10.1, 0.10 kgCO2e/MJ
+2. Electricity, Electricity, consumption mix w/o renewables, Queensland, 2024, Australia, LCA study for
+country specific consumption mixes, OneClickLCA 2025, 1.08 kgCO2e/kWh
+Installation scenario documentation - A5 (Diesel consumption)
+1. Diesel, burned in building machine, World, ecoinvent 3.10.1, 0.1 kg CO2e/MJ
+TRANSPORT SCENARIO DOCUMENTATION - A4
+Scenario parameter Value
+Vehicle type used for transport (e.g., long distance
+truck, boat, etc.) / Vehicle type, Commission
+Directive 2007/37/EC (European Emission Standard)
+Concrete mixer truck
+Distance, km 11
+Capacity utilization (including empty return) % 50 %
+Bulk density of transported products / kg/m3 2,41E+03
+Volume capacity utilization factor (factor: =1 or <1 or
+≥1 for compressed or nested packaged products) 1
+INSTALLATION SCENARIO DOCUMENTATION - A5
+Scenario parameter Value
+Ancillary materials for installation (specified by
+material) / kg or other units as appropriate 0
+Water use / m³ 0
+Other resource use / kg 0
+Waste materials on the building site before waste
+processing, generated by the product's installation
+(specified by type) / kg
+7,22E+01
+Output materials as result of waste processing at the
+building site e.g. collection for recycling / kg 5,06E+01
+Output materials as result of waste processing at the
+building site e.g. collection for disposal / kg 2,17E+01
+Direct emissions to ambient air, soil and water / kg 0
+END OF LIFE SCENARIO DOCUMENTATION
+Scenario information Value
+Collection process – kg collected separately 0
+Collection process – kg collected with mixed
+construction waste 2408
+Recovery process – kg for re-use 0
+Recovery process – kg for recycling 1,69E+03
+Recovery process – kg for energy recovery 0
+Disposal (total) – kg for final deposition 7,22E+02
+Scenario assumptions e.g. transportation Market for transport, freight, lorry >32 metric ton,
+EURO5; 50km
+
+-- 12 of 13 --
+
+13	Created with One Click LCA ATILTS4020100Enhanced
+THIRD-PARTY VERIFICATION STATEMENT
+EPD Hub declares that this EPD is verified in accordance with ISO 14025 by an independent, third-party verifier. The
+project report on the Life Cycle Assessment and the report(s) on features of environmental relevance are filed at EPD
+Hub. EPD Hub PCR and ECO Platform verification checklist are used.
+EPD Hub is not able to identify any unjustified deviations from the PCR and EN 15804+A2 in the Environmental Product
+Declaration and its project report.
+EPD Hub maintains its independence as a third-party body; it was not involved in the execution of the LCA or in the
+development of the declaration and has no conflicts of interest regarding this verification.
+The company-specific data and upstream and downstream data have been examined as regards plausibility and
+consistency. The publisher is responsible for ensuring the factual integrity and legal compliance of this declaration.
+Program assistant: Xinyuan Zhang
+The software used in creation of this LCA and EPD is verified by EPD Hub to conform to the procedural and
+methodological requirements outlined in ISO 14025:2010, ISO 14040/14044, EN 15804+A2, and EPD Hub Core Product
+Category Rules and General Program Instructions.
+Verified tools
+Tool verifier: Imane Uald Lamkaddam
+Tool verification validity: 28 March 2025 - 27 March 2028
+
+-- 13 of 13 --
+

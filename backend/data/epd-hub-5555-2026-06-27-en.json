@@ -1,0 +1,183 @@
+{
+  "schemaVersion": "1.2.0",
+  "schemaShape": {
+    "products": "One partial product record per source PDF. Unknown metadata is null.",
+    "carbonStages": "Lifecycle module GWP-total entries. Missing and not-declared values are never encoded as zero.",
+    "provenance": "Declared carbon values include PDF, page, table or section label, and source excerpt.",
+    "extraction": "Extractor version and SHA-256 hashes of the source PDF and extracted text."
+  },
+  "source": {
+    "pdf": "EPD_HUB-5555_2026-06-27_en.pdf",
+    "extractedText": "EPD_HUB-5555_2026-06-27_en.txt"
+  },
+  "extraction": {
+    "extractor": "scripts/generate-epd-data.mjs",
+    "extractorVersion": "generic-pdf-extractor@1.2.0",
+    "sourcePdfSha256": "1c30cd335aac76270cafd02c3e6a0b8ceefe71bf06f37649502163c1d4a8b407",
+    "extractedTextSha256": "cdf437d58928b1a16dd786b6a1d57137f4f49b9ca9c67fb32a8bba9183034a44"
+  },
+  "epd": {
+    "id": null,
+    "registrationNumber": null,
+    "pdfFile": "EPD_HUB-5555_2026-06-27_en.pdf",
+    "programOperator": "EPD Hub, hub@epdhub.com",
+    "standard": "EN 15804:2012+A2:2019/AC:2021 and ISO 14025",
+    "scope": "Cradle-to-gate (A1-3) with modules C1-4, D",
+    "publishedDate": "26.02.2026",
+    "validUntil": null
+  },
+  "extractionDiagnostics": [],
+  "products": [
+    {
+      "id": "40mpa-20mm-enviro-50-scm-100sl-conc",
+      "productName": "40MPa 20mm Enviro 50% SCM 100SL Conc",
+      "manufacturer": "Boral Limited",
+      "manufacturingLocation": "Melbourne",
+      "strengthMpa": 40,
+      "declaredUnit": "1 cubic metre",
+      "declaredUnitMassKg": 2338,
+      "scope": {
+        "description": "Cradle-to-gate (A1-3) with modules C1-4, D",
+        "standard": "EN 15804:2012+A2:2019/AC:2021 and ISO 14025"
+      },
+      "confidence": {
+        "productName": 0.75,
+        "manufacturer": 0.75,
+        "manufacturingLocation": 0.75,
+        "declaredUnit": 0.75,
+        "declaredUnitMassKg": 0.78,
+        "strengthMpa": 0.8,
+        "scopeDescription": 0.75,
+        "scopeStandard": 0.75
+      },
+      "carbonStages": [
+        {
+          "module": "A1",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": 209,
+          "status": "declared",
+          "provenance": {
+            "pdf": "EPD_HUB-5555_2026-06-27_en.pdf",
+            "sourcePage": 13,
+            "tableLabel": "Impact category Unit A1 A2 A3 A1-A3",
+            "quote": "GWP - total1 kg CO2e 2.09E+02 6.12E+00 5.60E+00 2.20E+02"
+          },
+          "confidence": 0.9
+        },
+        {
+          "module": "A2",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": 6.12,
+          "status": "declared",
+          "provenance": {
+            "pdf": "EPD_HUB-5555_2026-06-27_en.pdf",
+            "sourcePage": 13,
+            "tableLabel": "Impact category Unit A1 A2 A3 A1-A3",
+            "quote": "GWP - total1 kg CO2e 2.09E+02 6.12E+00 5.60E+00 2.20E+02"
+          },
+          "confidence": 0.9
+        },
+        {
+          "module": "A3",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": 5.6,
+          "status": "declared",
+          "provenance": {
+            "pdf": "EPD_HUB-5555_2026-06-27_en.pdf",
+            "sourcePage": 13,
+            "tableLabel": "Impact category Unit A1 A2 A3 A1-A3",
+            "quote": "GWP - total1 kg CO2e 2.09E+02 6.12E+00 5.60E+00 2.20E+02"
+          },
+          "confidence": 0.9
+        },
+        {
+          "module": "A1-A3",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": 220,
+          "status": "declared",
+          "provenance": {
+            "pdf": "EPD_HUB-5555_2026-06-27_en.pdf",
+            "sourcePage": 13,
+            "tableLabel": "Impact category Unit A1 A2 A3 A1-A3",
+            "quote": "GWP - total1 kg CO2e 2.09E+02 6.12E+00 5.60E+00 2.20E+02"
+          },
+          "confidence": 0.9
+        },
+        {
+          "module": "C1",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": 4.45,
+          "status": "declared",
+          "provenance": {
+            "pdf": "EPD_HUB-5555_2026-06-27_en.pdf",
+            "sourcePage": 14,
+            "tableLabel": "Impact category Unit C1 C2 C3 C4 D",
+            "quote": "GWP - total kg CO2e 4.45E+00 1.26E+01 7.16E+00 4.38E+00 -1.28E+01"
+          },
+          "confidence": 0.9
+        },
+        {
+          "module": "C2",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": 12.6,
+          "status": "declared",
+          "provenance": {
+            "pdf": "EPD_HUB-5555_2026-06-27_en.pdf",
+            "sourcePage": 14,
+            "tableLabel": "Impact category Unit C1 C2 C3 C4 D",
+            "quote": "GWP - total kg CO2e 4.45E+00 1.26E+01 7.16E+00 4.38E+00 -1.28E+01"
+          },
+          "confidence": 0.9
+        },
+        {
+          "module": "C3",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": 7.16,
+          "status": "declared",
+          "provenance": {
+            "pdf": "EPD_HUB-5555_2026-06-27_en.pdf",
+            "sourcePage": 14,
+            "tableLabel": "Impact category Unit C1 C2 C3 C4 D",
+            "quote": "GWP - total kg CO2e 4.45E+00 1.26E+01 7.16E+00 4.38E+00 -1.28E+01"
+          },
+          "confidence": 0.9
+        },
+        {
+          "module": "C4",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": 4.38,
+          "status": "declared",
+          "provenance": {
+            "pdf": "EPD_HUB-5555_2026-06-27_en.pdf",
+            "sourcePage": 14,
+            "tableLabel": "Impact category Unit C1 C2 C3 C4 D",
+            "quote": "GWP - total kg CO2e 4.45E+00 1.26E+01 7.16E+00 4.38E+00 -1.28E+01"
+          },
+          "confidence": 0.9
+        },
+        {
+          "module": "D",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": -12.8,
+          "status": "declared",
+          "provenance": {
+            "pdf": "EPD_HUB-5555_2026-06-27_en.pdf",
+            "sourcePage": 14,
+            "tableLabel": "Impact category Unit C1 C2 C3 C4 D",
+            "quote": "GWP - total kg CO2e 4.45E+00 1.26E+01 7.16E+00 4.38E+00 -1.28E+01"
+          },
+          "confidence": 0.9
+        }
+      ]
+    }
+  ]
+}

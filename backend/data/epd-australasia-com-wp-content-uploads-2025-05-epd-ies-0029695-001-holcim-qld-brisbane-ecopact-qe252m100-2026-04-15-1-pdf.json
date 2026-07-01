@@ -1,0 +1,267 @@
+{
+  "schemaVersion": "1.2.0",
+  "schemaShape": {
+    "products": "One partial product record per source PDF. Unknown metadata is null.",
+    "carbonStages": "Lifecycle module GWP-total entries. Missing and not-declared values are never encoded as zero.",
+    "provenance": "Declared carbon values include PDF, page, table or section label, and source excerpt.",
+    "extraction": "Extractor version and SHA-256 hashes of the source PDF and extracted text."
+  },
+  "source": {
+    "pdf": "epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf.pdf",
+    "extractedText": "epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf.txt"
+  },
+  "extraction": {
+    "extractor": "scripts/generate-epd-data.mjs",
+    "extractorVersion": "generic-pdf-extractor@1.2.0",
+    "sourcePdfSha256": "f072d08ba944ea35e589a853d53a3a7100f10243f13dd44fc9a6a110b478811c",
+    "extractedTextSha256": "788ddb7105fb60ef975a19cdad7024ac3cde0d8b13dd00a544a261b4daf2e324"
+  },
+  "epd": {
+    "id": "epd-ies-0029695-001",
+    "registrationNumber": "EPD-IES-0029695:001",
+    "pdfFile": "epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf.pdf",
+    "programOperator": "EPD International AB",
+    "standard": "EN 15804:2012+A2:2019/AC:2021 serves as the core Product Category Rules (PCR)",
+    "scope": "The scope of this EPD is cradle to gate (modules A1-A3)",
+    "publishedDate": "15/4/2026",
+    "validUntil": "15/4/2031"
+  },
+  "extractionDiagnostics": [],
+  "products": [
+    {
+      "id": "qld-brisbane-ecopact-qe252m100-s25-20-100-ecopact-concrete-general",
+      "productName": "QLD - Brisbane - ECOPact - QE252M100 - S25/20/100 Ecopact Concrete - General",
+      "manufacturer": "Holcim (Australia) Pty Ltd",
+      "manufacturingLocation": "Brisbane City, Acacia Ridge, Beaudesert, Beenleigh, Boonah, Darra, Cleveland, Geebung, Narangba, Wacol, Murarrie, Caboolture, Brendale, Raceview.",
+      "strengthMpa": 25,
+      "declaredUnit": "1 m3 of ready-mix concrete.",
+      "declaredUnitMassKg": 2319,
+      "scope": {
+        "description": "The scope of this EPD is cradle to gate (modules A1-A3)",
+        "standard": "EN 15804:2012+A2:2019/AC:2021 serves as the core Product Category Rules (PCR)"
+      },
+      "confidence": {
+        "productName": 0.42,
+        "manufacturer": 0.65,
+        "manufacturingLocation": 0.65,
+        "declaredUnit": 0.65,
+        "declaredUnitMassKg": 0.78,
+        "strengthMpa": 0.8,
+        "scopeDescription": 0.65,
+        "scopeStandard": 0.75
+      },
+      "carbonStages": [
+        {
+          "module": "A1-A3",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": 146,
+          "status": "declared",
+          "provenance": {
+            "pdf": "epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf.pdf",
+            "sourcePage": 16,
+            "tableLabel": "Abbreviation Unit A1-A3 A4 A5 C1 C2 C3 C4 D",
+            "quote": "GWP-Total kg CO2 eq. 146 2.58 12.9 0.522 4.31 10.4 0 -18.5"
+          },
+          "confidence": 0.9
+        },
+        {
+          "module": "A4",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": 2.58,
+          "status": "declared",
+          "provenance": {
+            "pdf": "epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf.pdf",
+            "sourcePage": 16,
+            "tableLabel": "Abbreviation Unit A1-A3 A4 A5 C1 C2 C3 C4 D",
+            "quote": "GWP-Total kg CO2 eq. 146 2.58 12.9 0.522 4.31 10.4 0 -18.5"
+          },
+          "confidence": 0.9
+        },
+        {
+          "module": "A5",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": 12.9,
+          "status": "declared",
+          "provenance": {
+            "pdf": "epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf.pdf",
+            "sourcePage": 16,
+            "tableLabel": "Abbreviation Unit A1-A3 A4 A5 C1 C2 C3 C4 D",
+            "quote": "GWP-Total kg CO2 eq. 146 2.58 12.9 0.522 4.31 10.4 0 -18.5"
+          },
+          "confidence": 0.9
+        },
+        {
+          "module": "B1",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": null,
+          "status": "not_declared",
+          "provenance": {
+            "pdf": "epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf.pdf",
+            "sourcePage": 9,
+            "tableLabel": "Modules declared / system boundary",
+            "quote": "Module A1 A2 A3 A4 A5 B1 B2 B3 B4 B5 B6 B7 C1 C2 C3 C4 D Modules declared X X X X X ND ND ND ND ND ND ND X X X X X Geography GL O AU AU AU AU - - - - - - - AU AU AU AU AU"
+          },
+          "confidence": 0.84
+        },
+        {
+          "module": "B2",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": null,
+          "status": "not_declared",
+          "provenance": {
+            "pdf": "epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf.pdf",
+            "sourcePage": 9,
+            "tableLabel": "Modules declared / system boundary",
+            "quote": "Module A1 A2 A3 A4 A5 B1 B2 B3 B4 B5 B6 B7 C1 C2 C3 C4 D Modules declared X X X X X ND ND ND ND ND ND ND X X X X X Geography GL O AU AU AU AU - - - - - - - AU AU AU AU AU"
+          },
+          "confidence": 0.84
+        },
+        {
+          "module": "B3",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": null,
+          "status": "not_declared",
+          "provenance": {
+            "pdf": "epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf.pdf",
+            "sourcePage": 9,
+            "tableLabel": "Modules declared / system boundary",
+            "quote": "Module A1 A2 A3 A4 A5 B1 B2 B3 B4 B5 B6 B7 C1 C2 C3 C4 D Modules declared X X X X X ND ND ND ND ND ND ND X X X X X Geography GL O AU AU AU AU - - - - - - - AU AU AU AU AU"
+          },
+          "confidence": 0.84
+        },
+        {
+          "module": "B4",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": null,
+          "status": "not_declared",
+          "provenance": {
+            "pdf": "epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf.pdf",
+            "sourcePage": 9,
+            "tableLabel": "Modules declared / system boundary",
+            "quote": "Module A1 A2 A3 A4 A5 B1 B2 B3 B4 B5 B6 B7 C1 C2 C3 C4 D Modules declared X X X X X ND ND ND ND ND ND ND X X X X X Geography GL O AU AU AU AU - - - - - - - AU AU AU AU AU"
+          },
+          "confidence": 0.84
+        },
+        {
+          "module": "B5",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": null,
+          "status": "not_declared",
+          "provenance": {
+            "pdf": "epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf.pdf",
+            "sourcePage": 9,
+            "tableLabel": "Modules declared / system boundary",
+            "quote": "Module A1 A2 A3 A4 A5 B1 B2 B3 B4 B5 B6 B7 C1 C2 C3 C4 D Modules declared X X X X X ND ND ND ND ND ND ND X X X X X Geography GL O AU AU AU AU - - - - - - - AU AU AU AU AU"
+          },
+          "confidence": 0.84
+        },
+        {
+          "module": "B6",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": null,
+          "status": "not_declared",
+          "provenance": {
+            "pdf": "epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf.pdf",
+            "sourcePage": 9,
+            "tableLabel": "Modules declared / system boundary",
+            "quote": "Module A1 A2 A3 A4 A5 B1 B2 B3 B4 B5 B6 B7 C1 C2 C3 C4 D Modules declared X X X X X ND ND ND ND ND ND ND X X X X X Geography GL O AU AU AU AU - - - - - - - AU AU AU AU AU"
+          },
+          "confidence": 0.84
+        },
+        {
+          "module": "B7",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": null,
+          "status": "not_declared",
+          "provenance": {
+            "pdf": "epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf.pdf",
+            "sourcePage": 9,
+            "tableLabel": "Modules declared / system boundary",
+            "quote": "Module A1 A2 A3 A4 A5 B1 B2 B3 B4 B5 B6 B7 C1 C2 C3 C4 D Modules declared X X X X X ND ND ND ND ND ND ND X X X X X Geography GL O AU AU AU AU - - - - - - - AU AU AU AU AU"
+          },
+          "confidence": 0.84
+        },
+        {
+          "module": "C1",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": 0.522,
+          "status": "declared",
+          "provenance": {
+            "pdf": "epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf.pdf",
+            "sourcePage": 16,
+            "tableLabel": "Abbreviation Unit A1-A3 A4 A5 C1 C2 C3 C4 D",
+            "quote": "GWP-Total kg CO2 eq. 146 2.58 12.9 0.522 4.31 10.4 0 -18.5"
+          },
+          "confidence": 0.9
+        },
+        {
+          "module": "C2",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": 4.31,
+          "status": "declared",
+          "provenance": {
+            "pdf": "epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf.pdf",
+            "sourcePage": 16,
+            "tableLabel": "Abbreviation Unit A1-A3 A4 A5 C1 C2 C3 C4 D",
+            "quote": "GWP-Total kg CO2 eq. 146 2.58 12.9 0.522 4.31 10.4 0 -18.5"
+          },
+          "confidence": 0.9
+        },
+        {
+          "module": "C3",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": 10.4,
+          "status": "declared",
+          "provenance": {
+            "pdf": "epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf.pdf",
+            "sourcePage": 16,
+            "tableLabel": "Abbreviation Unit A1-A3 A4 A5 C1 C2 C3 C4 D",
+            "quote": "GWP-Total kg CO2 eq. 146 2.58 12.9 0.522 4.31 10.4 0 -18.5"
+          },
+          "confidence": 0.9
+        },
+        {
+          "module": "C4",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": 0,
+          "status": "declared",
+          "provenance": {
+            "pdf": "epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf.pdf",
+            "sourcePage": 16,
+            "tableLabel": "Abbreviation Unit A1-A3 A4 A5 C1 C2 C3 C4 D",
+            "quote": "GWP-Total kg CO2 eq. 146 2.58 12.9 0.522 4.31 10.4 0 -18.5"
+          },
+          "confidence": 0.9
+        },
+        {
+          "module": "D",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": -18.5,
+          "status": "declared",
+          "provenance": {
+            "pdf": "epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf.pdf",
+            "sourcePage": 16,
+            "tableLabel": "Abbreviation Unit A1-A3 A4 A5 C1 C2 C3 C4 D",
+            "quote": "GWP-Total kg CO2 eq. 146 2.58 12.9 0.522 4.31 10.4 0 -18.5"
+          },
+          "confidence": 0.9
+        }
+      ]
+    }
+  ]
+}

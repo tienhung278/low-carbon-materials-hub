@@ -1,0 +1,267 @@
+{
+  "schemaVersion": "1.2.0",
+  "schemaShape": {
+    "products": "One partial product record per source PDF. Unknown metadata is null.",
+    "carbonStages": "Lifecycle module GWP-total entries. Missing and not-declared values are never encoded as zero.",
+    "provenance": "Declared carbon values include PDF, page, table or section label, and source excerpt.",
+    "extraction": "Extractor version and SHA-256 hashes of the source PDF and extracted text."
+  },
+  "source": {
+    "pdf": "EPD-IES-0014769_P252080.pdf",
+    "extractedText": "EPD-IES-0014769_P252080.txt"
+  },
+  "extraction": {
+    "extractor": "scripts/generate-epd-data.mjs",
+    "extractorVersion": "generic-pdf-extractor@1.2.0",
+    "sourcePdfSha256": "a5513d7fb68350ee38c946332ae29eed3846d64ada197a86c9f4fa7683385a02",
+    "extractedTextSha256": "55426b5dc0893ec879fc3fcf31f4130356ec78597cf9b04e3ab60d76134e4d46"
+  },
+  "epd": {
+    "id": "number",
+    "registrationNumber": "Number",
+    "pdfFile": "EPD-IES-0014769_P252080.pdf",
+    "programOperator": "EPD International AB",
+    "standard": "ISO 14025, EN15804:A2",
+    "scope": "A1-A3 + A4-A5 + B1-B7 + C1-C4 + D, cradle-to-grave",
+    "publishedDate": null,
+    "validUntil": "2029-08-26"
+  },
+  "extractionDiagnostics": [],
+  "products": [
+    {
+      "id": "p252080",
+      "productName": "P252080",
+      "manufacturer": "Hanson Construction Materials Pty Ltd",
+      "manufacturingLocation": "Brisbane",
+      "strengthMpa": 25,
+      "declaredUnit": "1m3 of Concrete",
+      "declaredUnitMassKg": 2480,
+      "scope": {
+        "description": "A1-A3 + A4-A5 + B1-B7 + C1-C4 + D, cradle-to-grave",
+        "standard": "ISO 14025, EN15804:A2"
+      },
+      "confidence": {
+        "productName": 0.75,
+        "manufacturer": 0.75,
+        "manufacturingLocation": 0.75,
+        "declaredUnit": 0.75,
+        "declaredUnitMassKg": 0.78,
+        "strengthMpa": 0.78,
+        "scopeDescription": 0.75,
+        "scopeStandard": 0.45
+      },
+      "carbonStages": [
+        {
+          "module": "A1-A3",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": 127,
+          "status": "declared",
+          "provenance": {
+            "pdf": "EPD-IES-0014769_P252080.pdf",
+            "sourcePage": 21,
+            "tableLabel": "Core Environmental Impact Indicators",
+            "quote": "GWP-tot kg CO2 eq. 1.27E+02 2.45E+00 9.95E+00 -2.65E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 8.99E+00 8.85E+00 5.24E+00 2.79E+00 6.14E+00"
+          },
+          "confidence": 0.9
+        },
+        {
+          "module": "A4",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": 2.45,
+          "status": "declared",
+          "provenance": {
+            "pdf": "EPD-IES-0014769_P252080.pdf",
+            "sourcePage": 21,
+            "tableLabel": "Core Environmental Impact Indicators",
+            "quote": "GWP-tot kg CO2 eq. 1.27E+02 2.45E+00 9.95E+00 -2.65E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 8.99E+00 8.85E+00 5.24E+00 2.79E+00 6.14E+00"
+          },
+          "confidence": 0.9
+        },
+        {
+          "module": "A5",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": 9.95,
+          "status": "declared",
+          "provenance": {
+            "pdf": "EPD-IES-0014769_P252080.pdf",
+            "sourcePage": 21,
+            "tableLabel": "Core Environmental Impact Indicators",
+            "quote": "GWP-tot kg CO2 eq. 1.27E+02 2.45E+00 9.95E+00 -2.65E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 8.99E+00 8.85E+00 5.24E+00 2.79E+00 6.14E+00"
+          },
+          "confidence": 0.9
+        },
+        {
+          "module": "B1",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": -2.65,
+          "status": "declared",
+          "provenance": {
+            "pdf": "EPD-IES-0014769_P252080.pdf",
+            "sourcePage": 21,
+            "tableLabel": "Core Environmental Impact Indicators",
+            "quote": "GWP-tot kg CO2 eq. 1.27E+02 2.45E+00 9.95E+00 -2.65E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 8.99E+00 8.85E+00 5.24E+00 2.79E+00 6.14E+00"
+          },
+          "confidence": 0.9
+        },
+        {
+          "module": "B2",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": 0,
+          "status": "declared",
+          "provenance": {
+            "pdf": "EPD-IES-0014769_P252080.pdf",
+            "sourcePage": 21,
+            "tableLabel": "Core Environmental Impact Indicators",
+            "quote": "GWP-tot kg CO2 eq. 1.27E+02 2.45E+00 9.95E+00 -2.65E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 8.99E+00 8.85E+00 5.24E+00 2.79E+00 6.14E+00"
+          },
+          "confidence": 0.9
+        },
+        {
+          "module": "B3",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": 0,
+          "status": "declared",
+          "provenance": {
+            "pdf": "EPD-IES-0014769_P252080.pdf",
+            "sourcePage": 21,
+            "tableLabel": "Core Environmental Impact Indicators",
+            "quote": "GWP-tot kg CO2 eq. 1.27E+02 2.45E+00 9.95E+00 -2.65E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 8.99E+00 8.85E+00 5.24E+00 2.79E+00 6.14E+00"
+          },
+          "confidence": 0.9
+        },
+        {
+          "module": "B4",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": 0,
+          "status": "declared",
+          "provenance": {
+            "pdf": "EPD-IES-0014769_P252080.pdf",
+            "sourcePage": 21,
+            "tableLabel": "Core Environmental Impact Indicators",
+            "quote": "GWP-tot kg CO2 eq. 1.27E+02 2.45E+00 9.95E+00 -2.65E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 8.99E+00 8.85E+00 5.24E+00 2.79E+00 6.14E+00"
+          },
+          "confidence": 0.9
+        },
+        {
+          "module": "B5",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": 0,
+          "status": "declared",
+          "provenance": {
+            "pdf": "EPD-IES-0014769_P252080.pdf",
+            "sourcePage": 21,
+            "tableLabel": "Core Environmental Impact Indicators",
+            "quote": "GWP-tot kg CO2 eq. 1.27E+02 2.45E+00 9.95E+00 -2.65E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 8.99E+00 8.85E+00 5.24E+00 2.79E+00 6.14E+00"
+          },
+          "confidence": 0.9
+        },
+        {
+          "module": "B6",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": 0,
+          "status": "declared",
+          "provenance": {
+            "pdf": "EPD-IES-0014769_P252080.pdf",
+            "sourcePage": 21,
+            "tableLabel": "Core Environmental Impact Indicators",
+            "quote": "GWP-tot kg CO2 eq. 1.27E+02 2.45E+00 9.95E+00 -2.65E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 8.99E+00 8.85E+00 5.24E+00 2.79E+00 6.14E+00"
+          },
+          "confidence": 0.9
+        },
+        {
+          "module": "B7",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": 0,
+          "status": "declared",
+          "provenance": {
+            "pdf": "EPD-IES-0014769_P252080.pdf",
+            "sourcePage": 21,
+            "tableLabel": "Core Environmental Impact Indicators",
+            "quote": "GWP-tot kg CO2 eq. 1.27E+02 2.45E+00 9.95E+00 -2.65E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 8.99E+00 8.85E+00 5.24E+00 2.79E+00 6.14E+00"
+          },
+          "confidence": 0.9
+        },
+        {
+          "module": "C1",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": 8.99,
+          "status": "declared",
+          "provenance": {
+            "pdf": "EPD-IES-0014769_P252080.pdf",
+            "sourcePage": 21,
+            "tableLabel": "Core Environmental Impact Indicators",
+            "quote": "GWP-tot kg CO2 eq. 1.27E+02 2.45E+00 9.95E+00 -2.65E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 8.99E+00 8.85E+00 5.24E+00 2.79E+00 6.14E+00"
+          },
+          "confidence": 0.9
+        },
+        {
+          "module": "C2",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": 8.85,
+          "status": "declared",
+          "provenance": {
+            "pdf": "EPD-IES-0014769_P252080.pdf",
+            "sourcePage": 21,
+            "tableLabel": "Core Environmental Impact Indicators",
+            "quote": "GWP-tot kg CO2 eq. 1.27E+02 2.45E+00 9.95E+00 -2.65E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 8.99E+00 8.85E+00 5.24E+00 2.79E+00 6.14E+00"
+          },
+          "confidence": 0.9
+        },
+        {
+          "module": "C3",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": 5.24,
+          "status": "declared",
+          "provenance": {
+            "pdf": "EPD-IES-0014769_P252080.pdf",
+            "sourcePage": 21,
+            "tableLabel": "Core Environmental Impact Indicators",
+            "quote": "GWP-tot kg CO2 eq. 1.27E+02 2.45E+00 9.95E+00 -2.65E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 8.99E+00 8.85E+00 5.24E+00 2.79E+00 6.14E+00"
+          },
+          "confidence": 0.9
+        },
+        {
+          "module": "C4",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": 2.79,
+          "status": "declared",
+          "provenance": {
+            "pdf": "EPD-IES-0014769_P252080.pdf",
+            "sourcePage": 21,
+            "tableLabel": "Core Environmental Impact Indicators",
+            "quote": "GWP-tot kg CO2 eq. 1.27E+02 2.45E+00 9.95E+00 -2.65E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 8.99E+00 8.85E+00 5.24E+00 2.79E+00 6.14E+00"
+          },
+          "confidence": 0.9
+        },
+        {
+          "module": "D",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": 6.14,
+          "status": "declared",
+          "provenance": {
+            "pdf": "EPD-IES-0014769_P252080.pdf",
+            "sourcePage": 21,
+            "tableLabel": "Core Environmental Impact Indicators",
+            "quote": "GWP-tot kg CO2 eq. 1.27E+02 2.45E+00 9.95E+00 -2.65E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 8.99E+00 8.85E+00 5.24E+00 2.79E+00 6.14E+00"
+          },
+          "confidence": 0.9
+        }
+      ]
+    }
+  ]
+}

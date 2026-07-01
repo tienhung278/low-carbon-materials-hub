@@ -1,0 +1,73 @@
+{
+  "schemaVersion": "1.2.0",
+  "schemaShape": {
+    "products": "One partial product record per source PDF. Unknown metadata is null.",
+    "carbonStages": "Lifecycle module GWP-total entries. Missing and not-declared values are never encoded as zero.",
+    "provenance": "Declared carbon values include PDF, page, table or section label, and source excerpt.",
+    "extraction": "Extractor version and SHA-256 hashes of the source PDF and extracted text."
+  },
+  "source": {
+    "pdf": "epd-ies-0021165-sn252f100.pdf",
+    "extractedText": "epd-ies-0021165-sn252f100.txt"
+  },
+  "extraction": {
+    "extractor": "scripts/generate-epd-data.mjs",
+    "extractorVersion": "generic-pdf-extractor@1.2.0",
+    "sourcePdfSha256": "fdd8788e42b5fc0f8eb018f88bb9fd03263be518272906a589d660f71e29ab91",
+    "extractedTextSha256": "13342367d551b1a5df1af6760107710bc7800fae436acea6cf517f96a6b215b1"
+  },
+  "epd": {
+    "id": "epd-ies-0021165",
+    "registrationNumber": "EPD-IES-0021165",
+    "pdfFile": "epd-ies-0021165-sn252f100.pdf",
+    "programOperator": "EPD International AB",
+    "standard": "EN 15804 +A2:2019 serves as the core PCR",
+    "scope": null,
+    "publishedDate": "13-03-2025",
+    "validUntil": null
+  },
+  "extractionDiagnostics": [
+    {
+      "path": "products[0].carbonStages",
+      "message": "No reliable GWP-total table or A1-A3 summary row was found in extractable text."
+    },
+    {
+      "path": "products[0].manufacturingLocation",
+      "message": "No reliable value found in extractable text."
+    },
+    {
+      "path": "products[0].declaredUnitMassKg",
+      "message": "No reliable value found in extractable text."
+    },
+    {
+      "path": "products[0].strengthMpa",
+      "message": "No reliable value found in extractable text."
+    },
+    {
+      "path": "products[0].scope.description",
+      "message": "No reliable value found in extractable text."
+    }
+  ],
+  "products": [
+    {
+      "id": "sn252f100",
+      "productName": "SN252F100",
+      "manufacturer": "Adbri Limited",
+      "manufacturingLocation": null,
+      "strengthMpa": null,
+      "declaredUnit": "one cubic metre",
+      "declaredUnitMassKg": null,
+      "scope": {
+        "description": null,
+        "standard": "EN 15804 +A2:2019 serves as the core PCR"
+      },
+      "confidence": {
+        "productName": 0.6,
+        "manufacturer": 0.75,
+        "declaredUnit": 0.55,
+        "scopeStandard": 0.75
+      },
+      "carbonStages": []
+    }
+  ]
+}

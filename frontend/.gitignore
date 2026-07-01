@@ -1,0 +1,4 @@
+/.next/*
+!/.next/types/
+!/.next/types/*.d.ts
+/coverage/

@@ -1,0 +1,29 @@
+{
+  "name": "low-carbon-materials-hub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "data:extract": "node scripts/extract-pdf-text.mjs",
+    "data:generate": "node scripts/generate-epd-data.mjs",
+    "data:validate": "node scripts/validate-epd-data.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tienhung278/low-carbon-materials-hub.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/tienhung278/low-carbon-materials-hub/issues"
+  },
+  "homepage": "https://github.com/tienhung278/low-carbon-materials-hub#readme",
+  "devDependencies": {
+    "pdf-parse": "^2.4.5"
+  }
+}

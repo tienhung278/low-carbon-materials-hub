@@ -1,0 +1,271 @@
+{
+  "schemaVersion": "1.2.0",
+  "schemaShape": {
+    "products": "One partial product record per source PDF. Unknown metadata is null.",
+    "carbonStages": "Lifecycle module GWP-total entries. Missing and not-declared values are never encoded as zero.",
+    "provenance": "Declared carbon values include PDF, page, table or section label, and source excerpt.",
+    "extraction": "Extractor version and SHA-256 hashes of the source PDF and extracted text."
+  },
+  "source": {
+    "pdf": "epd-ies-0021754-001-acm-rockbank-ar2520.pdf",
+    "extractedText": "epd-ies-0021754-001-acm-rockbank-ar2520.txt"
+  },
+  "extraction": {
+    "extractor": "scripts/generate-epd-data.mjs",
+    "extractorVersion": "generic-pdf-extractor@1.2.0",
+    "sourcePdfSha256": "51924aff783d706210251d26bd972e8fc5e508162a91d9f42eefa27deed3333b",
+    "extractedTextSha256": "74a201cbe33bba03f679173e7ab4c33f0098c95e8a7e6e83efbb8a3735d2f2f1"
+  },
+  "epd": {
+    "id": "epd-ies-0021754-001",
+    "registrationNumber": "EPD-IES-0021754:001",
+    "pdfFile": "epd-ies-0021754-001-acm-rockbank-ar2520.pdf",
+    "programOperator": "EPD International AB",
+    "standard": "CEN standard EN 15804 served as the core Product Category Rules (PCR)",
+    "scope": "This EPD covers the cradle-to-gate plus end-of-life life cycle stages (modules A1-A3, C1-C4, D).",
+    "publishedDate": "2025-08-15",
+    "validUntil": "2030-08-15"
+  },
+  "extractionDiagnostics": [
+    {
+      "path": "products[0].strengthMpa",
+      "message": "No reliable value found in extractable text."
+    }
+  ],
+  "products": [
+    {
+      "id": "ar2520-pre-mixed-concrete",
+      "productName": "AR2520 pre-mixed concrete",
+      "manufacturer": "Aurora Construction Materials Epping Pty. Ltd. (Aurora)",
+      "manufacturingLocation": "Rockbank, Melbourne, Victoria",
+      "strengthMpa": null,
+      "declaredUnit": "1 cubic metre (m3) of Premixed concrete with a 25MPa strength grade and identifying",
+      "declaredUnitMassKg": 2270,
+      "scope": {
+        "description": "This EPD covers the cradle-to-gate plus end-of-life life cycle stages (modules A1-A3, C1-C4, D).",
+        "standard": "CEN standard EN 15804 served as the core Product Category Rules (PCR)"
+      },
+      "confidence": {
+        "productName": 0.42,
+        "manufacturer": 0.65,
+        "manufacturingLocation": 0.45,
+        "declaredUnit": 0.65,
+        "declaredUnitMassKg": 0.78,
+        "scopeDescription": 0.65,
+        "scopeStandard": 0.75
+      },
+      "carbonStages": [
+        {
+          "module": "A1-A3",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": 140,
+          "status": "declared",
+          "provenance": {
+            "pdf": "epd-ies-0021754-001-acm-rockbank-ar2520.pdf",
+            "sourcePage": 18,
+            "tableLabel": "Core Indicators",
+            "quote": "GWP-total kg CO2-eq. 1.40E+02 1.20E+01 1.45E+01 8.03E+00 8.61E-01 -9.79E+00"
+          },
+          "confidence": 0.9
+        },
+        {
+          "module": "A4",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": null,
+          "status": "not_declared",
+          "provenance": {
+            "pdf": "epd-ies-0021754-001-acm-rockbank-ar2520.pdf",
+            "sourcePage": 7,
+            "tableLabel": "Modules declared / system boundary",
+            "quote": "Scenario Scenario Scenario Scenario Modules Declared X X X ND ND ND ND ND ND ND ND ND X X X X X Geography AU, GLO"
+          },
+          "confidence": 0.84
+        },
+        {
+          "module": "A5",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": null,
+          "status": "not_declared",
+          "provenance": {
+            "pdf": "epd-ies-0021754-001-acm-rockbank-ar2520.pdf",
+            "sourcePage": 7,
+            "tableLabel": "Modules declared / system boundary",
+            "quote": "Scenario Scenario Scenario Scenario Modules Declared X X X ND ND ND ND ND ND ND ND ND X X X X X Geography AU, GLO"
+          },
+          "confidence": 0.84
+        },
+        {
+          "module": "B1",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": null,
+          "status": "not_declared",
+          "provenance": {
+            "pdf": "epd-ies-0021754-001-acm-rockbank-ar2520.pdf",
+            "sourcePage": 7,
+            "tableLabel": "Modules declared / system boundary",
+            "quote": "Scenario Scenario Scenario Scenario Modules Declared X X X ND ND ND ND ND ND ND ND ND X X X X X Geography AU, GLO"
+          },
+          "confidence": 0.84
+        },
+        {
+          "module": "B2",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": null,
+          "status": "not_declared",
+          "provenance": {
+            "pdf": "epd-ies-0021754-001-acm-rockbank-ar2520.pdf",
+            "sourcePage": 7,
+            "tableLabel": "Modules declared / system boundary",
+            "quote": "Scenario Scenario Scenario Scenario Modules Declared X X X ND ND ND ND ND ND ND ND ND X X X X X Geography AU, GLO"
+          },
+          "confidence": 0.84
+        },
+        {
+          "module": "B3",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": null,
+          "status": "not_declared",
+          "provenance": {
+            "pdf": "epd-ies-0021754-001-acm-rockbank-ar2520.pdf",
+            "sourcePage": 7,
+            "tableLabel": "Modules declared / system boundary",
+            "quote": "Scenario Scenario Scenario Scenario Modules Declared X X X ND ND ND ND ND ND ND ND ND X X X X X Geography AU, GLO"
+          },
+          "confidence": 0.84
+        },
+        {
+          "module": "B4",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": null,
+          "status": "not_declared",
+          "provenance": {
+            "pdf": "epd-ies-0021754-001-acm-rockbank-ar2520.pdf",
+            "sourcePage": 7,
+            "tableLabel": "Modules declared / system boundary",
+            "quote": "Scenario Scenario Scenario Scenario Modules Declared X X X ND ND ND ND ND ND ND ND ND X X X X X Geography AU, GLO"
+          },
+          "confidence": 0.84
+        },
+        {
+          "module": "B5",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": null,
+          "status": "not_declared",
+          "provenance": {
+            "pdf": "epd-ies-0021754-001-acm-rockbank-ar2520.pdf",
+            "sourcePage": 7,
+            "tableLabel": "Modules declared / system boundary",
+            "quote": "Scenario Scenario Scenario Scenario Modules Declared X X X ND ND ND ND ND ND ND ND ND X X X X X Geography AU, GLO"
+          },
+          "confidence": 0.84
+        },
+        {
+          "module": "B6",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": null,
+          "status": "not_declared",
+          "provenance": {
+            "pdf": "epd-ies-0021754-001-acm-rockbank-ar2520.pdf",
+            "sourcePage": 7,
+            "tableLabel": "Modules declared / system boundary",
+            "quote": "Scenario Scenario Scenario Scenario Modules Declared X X X ND ND ND ND ND ND ND ND ND X X X X X Geography AU, GLO"
+          },
+          "confidence": 0.84
+        },
+        {
+          "module": "B7",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": null,
+          "status": "not_declared",
+          "provenance": {
+            "pdf": "epd-ies-0021754-001-acm-rockbank-ar2520.pdf",
+            "sourcePage": 7,
+            "tableLabel": "Modules declared / system boundary",
+            "quote": "Scenario Scenario Scenario Scenario Modules Declared X X X ND ND ND ND ND ND ND ND ND X X X X X Geography AU, GLO"
+          },
+          "confidence": 0.84
+        },
+        {
+          "module": "C1",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": 12,
+          "status": "declared",
+          "provenance": {
+            "pdf": "epd-ies-0021754-001-acm-rockbank-ar2520.pdf",
+            "sourcePage": 18,
+            "tableLabel": "Core Indicators",
+            "quote": "GWP-total kg CO2-eq. 1.40E+02 1.20E+01 1.45E+01 8.03E+00 8.61E-01 -9.79E+00"
+          },
+          "confidence": 0.9
+        },
+        {
+          "module": "C2",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": 14.5,
+          "status": "declared",
+          "provenance": {
+            "pdf": "epd-ies-0021754-001-acm-rockbank-ar2520.pdf",
+            "sourcePage": 18,
+            "tableLabel": "Core Indicators",
+            "quote": "GWP-total kg CO2-eq. 1.40E+02 1.20E+01 1.45E+01 8.03E+00 8.61E-01 -9.79E+00"
+          },
+          "confidence": 0.9
+        },
+        {
+          "module": "C3",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": 8.03,
+          "status": "declared",
+          "provenance": {
+            "pdf": "epd-ies-0021754-001-acm-rockbank-ar2520.pdf",
+            "sourcePage": 18,
+            "tableLabel": "Core Indicators",
+            "quote": "GWP-total kg CO2-eq. 1.40E+02 1.20E+01 1.45E+01 8.03E+00 8.61E-01 -9.79E+00"
+          },
+          "confidence": 0.9
+        },
+        {
+          "module": "C4",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": 0.861,
+          "status": "declared",
+          "provenance": {
+            "pdf": "epd-ies-0021754-001-acm-rockbank-ar2520.pdf",
+            "sourcePage": 18,
+            "tableLabel": "Core Indicators",
+            "quote": "GWP-total kg CO2-eq. 1.40E+02 1.20E+01 1.45E+01 8.03E+00 8.61E-01 -9.79E+00"
+          },
+          "confidence": 0.9
+        },
+        {
+          "module": "D",
+          "indicator": "GWP-total",
+          "unit": "kg CO2 eq.",
+          "value": -9.79,
+          "status": "declared",
+          "provenance": {
+            "pdf": "epd-ies-0021754-001-acm-rockbank-ar2520.pdf",
+            "sourcePage": 18,
+            "tableLabel": "Core Indicators",
+            "quote": "GWP-total kg CO2-eq. 1.40E+02 1.20E+01 1.45E+01 8.03E+00 8.61E-01 -9.79E+00"
+          },
+          "confidence": 0.9
+        }
+      ]
+    }
+  ]
+}

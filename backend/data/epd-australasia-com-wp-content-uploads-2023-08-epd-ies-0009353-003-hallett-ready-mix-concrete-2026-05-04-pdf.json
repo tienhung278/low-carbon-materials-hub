@@ -1,0 +1,73 @@
+{
+  "schemaVersion": "1.2.0",
+  "schemaShape": {
+    "products": "One partial product record per source PDF. Unknown metadata is null.",
+    "carbonStages": "Lifecycle module GWP-total entries. Missing and not-declared values are never encoded as zero.",
+    "provenance": "Declared carbon values include PDF, page, table or section label, and source excerpt.",
+    "extraction": "Extractor version and SHA-256 hashes of the source PDF and extracted text."
+  },
+  "source": {
+    "pdf": "epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf.pdf",
+    "extractedText": "epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf.txt"
+  },
+  "extraction": {
+    "extractor": "scripts/generate-epd-data.mjs",
+    "extractorVersion": "generic-pdf-extractor@1.2.0",
+    "sourcePdfSha256": "a1498ebddec763e632ba5d3ea435a8dfd9f5da6342b0e41cf956231e58d9bcb7",
+    "extractedTextSha256": "00fd98a7496be6e5e21d451ce88bd74d5c546467b625e8e8feca7066409f84a0"
+  },
+  "epd": {
+    "id": "epd-ies-0009353-003",
+    "registrationNumber": "EPD-IES-0009353:003",
+    "pdfFile": "epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf.pdf",
+    "programOperator": "EPD International AB",
+    "standard": "EN 15804+A2 serve as the core Product Category Rules (PCR)",
+    "scope": null,
+    "publishedDate": "2026-05-04",
+    "validUntil": "2028-07-31"
+  },
+  "extractionDiagnostics": [
+    {
+      "path": "products[0].carbonStages",
+      "message": "No reliable GWP-total table or A1-A3 summary row was found in extractable text."
+    },
+    {
+      "path": "products[0].manufacturingLocation",
+      "message": "No reliable value found in extractable text."
+    },
+    {
+      "path": "products[0].declaredUnitMassKg",
+      "message": "No reliable value found in extractable text."
+    },
+    {
+      "path": "products[0].strengthMpa",
+      "message": "No reliable value found in extractable text."
+    },
+    {
+      "path": "products[0].scope.description",
+      "message": "No reliable value found in extractable text."
+    }
+  ],
+  "products": [
+    {
+      "id": "concrete-products",
+      "productName": "CONCRETE PRODUCTS",
+      "manufacturer": "Hallett Group Pty Ltd",
+      "manufacturingLocation": null,
+      "strengthMpa": null,
+      "declaredUnit": "1 m3 of Ready Mix concrete at the batching plant gate",
+      "declaredUnitMassKg": null,
+      "scope": {
+        "description": null,
+        "standard": "EN 15804+A2 serve as the core Product Category Rules (PCR)"
+      },
+      "confidence": {
+        "productName": 0.42,
+        "manufacturer": 0.75,
+        "declaredUnit": 0.5,
+        "scopeStandard": 0.75
+      },
+      "carbonStages": []
+    }
+  ]
+}

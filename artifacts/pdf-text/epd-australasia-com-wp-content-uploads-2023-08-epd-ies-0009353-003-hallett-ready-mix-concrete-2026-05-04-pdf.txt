@@ -1,0 +1,2295 @@
+ENVIRONMENTAL PRODUCT DECLARATION
+In accordance with ISO 14025:2006 and EN 15804:2012+A2:2019/AC:2021
+PROGRAMME: 	The International EPD ® System
+www.environdec.com
+PROGRAMME OPERATOR: 	EPD International AB
+LICENSEE: 	EPD Australasia
+www.epd-australasia.com
+EPD REGISTRATION NUMBER: 	EPD-IES-0009353:003
+DATE OF PUBLICATION (ISSUE): 	2026-05-04
+VALID FROM: 	2023-07-31
+DATE OF VALIDITY 	2028-07-31
+GEOGRAPHICAL SCOPE: 	Australia
+READY MIX
+CONCRETE PRODUCTS
+This an EPD of multiple products. Products included in this EPD are listed on page 9. An EPD
+may be updated or depublished if conditions change. To find the latest version of the EPD and
+to confirm its validity, see www.environdec.com.
+
+-- 1 of 37 --
+
+2 	CONCRETE | ENVIRONMENTAL PRODUCT DECLARATION
+WHAT IS AN
+ENVIRONMENTAL
+PRODUCT
+DECLARATION?
+INDEX
+This EPD covers the environmental impacts of Ready
+Mix concrete products when used in infrastructure,
+commercial buildings, and residential buildings. The
+products are manufactured at five batching plants
+around South Australia.
+This EPD is based on a "cradle-to-gate with modules
+C1–C4 and module D" Life Cycle Assessment (LCA),
+which includes production of the products as well as
+end-of-life. ‘Cradle’ refers to the raw material extraction
+and ‘the gate’ is the gate of the batching plants as the
+product is ready to go out to customers.
+An environmental product declaration (EPD) tells
+the environmental story of a product over its life
+cycle in a format that is clear and transparent.
+It is science-based, independently verified and
+publicly available. EPDs are often compared to
+the nutrition labels on food products.
+EPDs help manufacturers translate complex
+sustainability information about their product’s
+environmental footprint into simpler information
+that governments, companies, industry
+associations and end consumers can trust to
+make decisions.
+An EPD communicates the environmental
+impacts at different stages in a product’s life
+cycle. This includes for example greenhouse gas
+emissions plus a range of other environmental
+indicators, with results reported separately for
+each life cycle stage (product stage, construction
+stage, use stage and end-of-life stage).
+What is an environmental product declaration? 	2
+ABOUT
+Hallett Group 	4
+Our steps towards sustainability 	6
+READY MIX CONCRETE PRODUCTS
+Where we produce our Ready Mix concrete 	8
+Product life cycle 	8
+Manufacturing process 	10
+TECHNICAL INFORMATION
+Declared unit and industry classification 	10
+System boundary 	11
+Life cycle inventory (LCI) data and assumptions 	14
+Introduction to environmental impact indicators 	17
+RESULTS
+Types of indicators 	18
+Dry Creek | A1-A3 	20
+Elizabeth | A1-A3 	30
+Mile End | A1-A3 	36
+McLaren Vale | A1-A3 	56
+Osborne | A1-A3 	62
+End-of-life results modules C1-C4 + D 	68
+References 	70
+Programme-related information and verification 	71
+CONCRETE | ENVIRONMENTAL PRODUCT DECLARATION	
+3
+
+-- 2 of 37 --
+
+ABOUT
+HALLETT GROUP
+Hallett Group is the largest integrated building supplier, construction and
+mining materials company in South Australia. Our size and diversity give
+us an advantage in having a broad range of expertise to provide a balanced
+outcome for any project. We are well invested with the flexibility and agility
+to respond quickly and efficiently to any challenge or opportunity.
+We are a proud South Australian owned and
+operated Company that continues to invest in
+our future through fixed plant upgrades, new
+transport fleet, increasing mobile plant capability
+and improved technology. Our consistently strong
+order books across our diversified businesses and
+our equally diverse client base is a testament to
+the quality of our work and our commitment to
+being the very best at what we do.
+Most importantly, we are investing in people as
+our most important asset and our true competitive
+advantage. We recruit the most talented,
+collaborative and innovative people in the state
+and foster a continuous learning culture to ensure
+we remain at the top of our game. The diversity
+of our business means there are wide ranging
+opportunities for people to develop, learn and
+grow their careers.
+Our customer projects are supported by our
+extensive network of resources and technical
+expertise. Through this, we can reduce client
+project risks through co-ordinated design and
+consultation, project delivery, supply chain
+management and logistics capability.
+Hallett’s corporate vision is ‘be the dominant construction materials, mining
+materials and building products partner in South Australia and grow our
+business in attractive markets and industries’. This has resulted in our positive
+market reputation that is based on our values and business philosophy of:
+Customer Focused
+We are a partner that
+goes above and beyond to
+delight our customers and
+add real value, well beyond
+just our product offerings.
+Agile, Innovative,
+and Fastest
+We will be at the forefront
+of technology and
+innovation; we will be the
+fastest and most adaptive
+to identify, realise and seize
+opportunity.
+Respect and Integrity
+We will behave with
+professionalism and considered
+regard toward our internal
+and external stakeholders,
+fostering a diverse environment
+promoting candid constructive
+communication and ideas.
+Business Excellence
+We have a continual
+improvement mindset, we
+constantly evaluate ourselves
+and our business looking
+for ways to improve our
+safety, our sustainability, our
+service, our processes and
+most importantly our people.
+HALLET GROUP PRODUCT APPLICATIONS
+INFRASTRUCTURE – From bridges and highways to
+communications and utilities, we provide the infrastructure
+that keeps you connected and protected.
+COMMERCIAL – From high rise to shopfronts and stadiums,
+we provide interior and exterior solutions to create the
+beautiful, functional buildings where you work, shop and play.
+RESIDENTIAL – From paving for your driveway to timber for
+your patio and all-glass shower enclosures for your bathroom,
+we provide the function you need with the aesthetics you want.
+CONCRETE | ENVIRONMENTAL PRODUCT DECLARATION
+4	CONCRETE | ENVIRONMENTAL PRODUCT DECLARATION
+5
+
+-- 3 of 37 --
+
+REDUCING OUR ENVIRONMENTAL FOOTPRINT
+The Hallett Group is committed to achieving its net zero emissions goal for all
+operations by 2050.
+Hallett Group has developed a Net Zero Roadmap (with both short and long term
+targets) under the guidance from the GCCA 2050 Cement and Concrete Industry
+and the VDZ independent report ‘Decarbonisation Pathways for the Australian
+Cement and Concrete Sector.’
+Zero emission
+electricity
+and transport
+Innovation in
+concrete
+Increased use of
+Supplementary
+Cementitious
+Materials (SCMs)
+New CO2
+efficient
+cements
+Alternate fuels
+and green
+hydrogen
+Accounting
+for concrete
+to uptake CO2
+The GCCA 2050 Cement and Concrete Industry
+Roadmap for Net Zero Concrete is the collective
+commitment of the world’s leading cement and
+concrete companies to fully contribute to building the
+sustainable world of tomorrow.
+Find out more at the GCCA website.
+Decarbonisation Pathways for the Australian Cement
+and Concrete Sector.
+The key purpose of this report is to identify and
+communicate the critical pathways that will enable the
+cement and concrete sector value chain to continue to
+lower its CO 2 emissions and to decarbonise by 2050.
+Find out more
+Construction of cement
+storage silo as part of the
+Green Cement Distribution
+facility at Port Adelaide.
+OUR STEPS TOWARDS
+SUSTAINABILITY
+At Hallett Group, we believe environmentally responsible, safe
+operations benefit our communities and drive positive results
+for the long term. As an industry leader, Hallett Group’s aim has
+always been to meet – and strive to exceed – all federal, state and
+local environmental regulations.
+However, environmental sustainability means looking beyond what is required of a
+company by governments and regulators. We continue to make significant progress
+on reducing our carbon footprint, increasing our energy efficiency, increasing recycled
+water use, reducing waste and managing our land with biodiversity in mind. It’s the
+right thing to do for society, for our business and our stakeholders.
+CONCRETE | ENVIRONMENTAL PRODUCT DECLARATION
+6	CONCRETE | ENVIRONMENTAL PRODUCT DECLARATION
+7
+
+-- 4 of 37 --
+
+READY MIX CONCRETE
+PRODUCTS
+This EPD covers our Ready Mix concrete products.
+We supply a wide range of premixed concrete for a
+variety of applications.
+We provide 20 and 25 MPa concrete for use
+primarily in residential slabs, footings, driveways
+and paths and 32 and 40 MPa or higher strength
+concrete which is primarily used for industrial
+jobs where a greater resistance to loading and
+trafficking is required.
+At Hallett we strive to provide customers a range
+of different concrete mixes that can meet their
+technical and environmental needs. Hallett
+Group's Enviro Construct range offers low carbon
+mix designs to cater for many varied concrete
+applications.
+Enviro Construct:
+ Level 1
+Typical reduction of CO2 embedded 26 – 28 %
+ Level 2
+Typical reduction of CO2 embedded 35 – 37 %
+ Level 3
+Typical reduction of CO2 embedded 44 – 47 %
+Hallett also has access to Carbon Cure at
+particular plants which introduces CO2 into the
+concrete mixes permanently embedding CO2 into
+the concrete. However, no concrete products
+presented in this EPD use this technology.
+Hallett manufactures Ready Mix concrete
+products at five batching plants (see figure 2)
+around South Australia including:
+ Dry Creek | 140 Churchill Road North, Dry Creek
+ Elizabeth | Womma Road, Elizabeth West
+ Mile End | Cnr Railway Terrace and
+Manchester Street, Mile End
+ McLaren Vale | Long Gully Road, McLaren Vale
+ Osborne | Pelican Point Road, Outer Harbour
+Table 1. Concrete mix names, grades and Enviro Construct
+Mix name Density
+(kg/m3
+) No. of
+plants* Grade
+(MPa) Enviro
+Construct
+S1020 	PLC1 	2 290 	2 	10 	Level 1
+S1520 PLC1120 	2 030 	2 15 Level 1
+PLC2120 	2 090 	2 	Level 3
+N2010P - 	2 290 	1 20 -
+100 	2 280 	1 	-
+N2020P
+100 	2 290 	1
+20
+-
+120 	2 290 	1 	-
+Ref 	2 308 	5 	-
+F30 	2 308 	5 	Level 1
+S30 	2 297 	5 	Level 1
+S50 	2 293 	5 	Level 2
+S2020P 	200 	2 280 	1 	20 	-
+N2520P
+Ref 	2 312 	5
+25
+-
+F30 	2 310 	5 	Level 1
+T50 	2 311 	5 	Level 3
+S30 	2 301 	5 	Level 1
+S50 	2 296 	5 	Level 2
+S2520 PLC1 	2 270 	2 25 Level1
+E1100 	2 270 	1 	Level 1
+N3220P
+Ref 	2 351 	5
+32
+-
+F30 	2 347 	5 	Level 1
+T50 	2 346 	5 	Level 3
+S30 	2 338 	5 	Level 1
+S50 	2 332 	5 	Level 3
+S3220
+PLC2 	2 300 	2
+32
+Level 1
+LSLC2 	2 300 	2 	Level 3
+PLC2XYP 	2 340 	2 	Level 3
+PLC2120 	2 230 	2 	Level 2
+E1100 	2 320 	1 	Level 1
+N4020P
+Ref 	2 356 	5
+40
+-
+F30 	2 347 	5 	Level 1
+T50 	2 343 	5 	Level 3
+S30 	2 339 	5 	Level 1
+S50 	2 332 	5 	Level 3
+S4010 	SCPH 	2 390 	1 	40 	Level 1
+S4020
+E1100 	2 340 	1
+40
+Level 1
+E1150H 	2 310 	1 	Level 1
+E2 	2 400 	1 	Level 2
+Mix name Density
+(kg/m3
+) No. of
+plants* Grade
+(MPa) Enviro
+Construct
+S4020
+(cont'd)
+E2100 	2 330 	1
+40
+Level 2
+E2120 	2 360 	1 	Level 2
+E2150 	2 400 	1 	Level 2
+E2150F 	2 400 	1 	Level 2
+E2200 	2 400 	1 	Level 2
+E3150 	2 360 	1 	Level 3
+E3150F 	2 340 	1 	Level 3
+PTLC2 	2 350 	2 	Level 3
+COLLC1 	2 400 	2 	Level 1
+COLLC2 	2 400 	2 	Level 3
+PLC1120 	2 430 	2 	Level 1
+PLC2120 	2 250 	2 	Level 3
+PLC2XYP 	2 260 	2 	Level 3
+N5020P
+Ref 	2 367 	5
+50
+-
+F30 	2 353 	5 	Level 1
+T50 	2 348 	5 	Level 3
+S30 	2 345 	5 	Level 1
+S50 	2 336 	5 	Level 3
+S5010
+DW500D 	2 250 	1
+50
+Level 3
+DW500D3 	2 250 	1 	Level 3
+E1150H 	2 410 	1 	Level 1
+SCPLC2 	2 580 	2 	Level 1
+SCPH 	2 390 	1 	Level 1
+S5020 E1200 	2 300 	1 50 Level 1
+METALDIT 	2 310 	1 	Level 1
+S6510 SCPLC2 	2 410 	2 65 Level 3
+SCPEC2 	2 400 	2 	Level 2
+S6520 	PLC2120 	2 480 	2 65 Level 3
+E2150 	2 350 	1 	Level 2
+S8010 COLSCLC2 	2 500 	2 80 Level 3
+SCPEC2 	2 420 	2 	Level 2
+CLSM
+PEB 	2 020 	1
+N/A
+-
+SB 	2 000 	1 	Level 1
+3 	2 010 	1 	-
+4 	2 000 	1 	-
+5 	2 000 	1 	-
+15 	2 000 	1 	Level 1
+NOFINES - 	1 790 	1 	N/A 	-
+*No. of batching plants, 1 represents Mile End batching plant, 2
+represents Mile End and Dry Creek batching plants, whereas 5
+represents all batching plants across South Australia.
+RECOVERY
+IN THIS EPD 	IN THIS EPD
+PRODUCT STAGE 	IN USE	CONSTRUCTION 	END-OF-LIFE
+A1 	A2 	A3 	A4 	A5 	B1 - B7 	C1 	C2 	C3
+D
+C4
+PRODUCT LIFE CYCLE
+This is a 'cradle-to-gate with modules C1–C4
+and module D' type EPD. The product stage
+involves the extraction of all raw materials
+(cradle), transport to the batching plant, and the
+manufacturing/mixing of these materials to make
+ready-mix concrete ready to be distributed to
+customers (gate).
+The end-of-life stage includes the deconstruction
+of the concrete structure, the transportation to
+waste management facilities, and the recycling
+and landfilling of the concrete.
+The distribution and construction process
+(modules A4-A5) and use stages (B1-B7) are not
+modelled as these are best considered at building
+or structure level.
+Figure 1. Product life cycle and modules incl. in this EPD
+CONCRETE | ENVIRONMENTAL PRODUCT DECLARATION
+8	CONCRETE | ENVIRONMENTAL PRODUCT DECLARATION
+9
+
+-- 5 of 37 --
+
+SYSTEM BOUNDARY
+In Life Cycle Assessments (LCA), the system boundary is a line that divides the
+processes which are included from everything else. The system boundary of this EPD
+includes production (‘cradle-to-gate’, modules A1-A3), end-of-life (modules C1-C4) and
+the recovery potential of the concrete (module D) – as illustrated in Table 4 below.
+PRODUCT COMPOSITION
+Hallett’s concrete products declared in this report are composed
+of the following materials:
+Table 3. Material composition of Hallett’s Ready Mix concrete products
+Constituents
+portion of concrete
+by weight (%) 	Renewable
+material,
+weight (%)
+Post-
+consumer
+recycled
+content (%)	Min 	Max
+Cement 	3 	23 	0 	0
+Supplementary
+Cementitious Material
+(SCM)
+0 	16 	0 	0
+Aggregate 	0 	84 	0 	0
+Sand 	0 	87 	0 	0
+Admixture 	0 	0.52 	0 	0
+Water 	4 	10 	0 	0
+Packaging does not apply for Ready Mix concrete.
+Cement contains hexavalent
+chromium, which is listed as a
+Substance of Very High Concern
+(SVHC). (SVHC list is available at:
+https://echa.europa.eu/candidate-
+list-table). However, hexavalent
+chromium is only present in
+concrete as a trace element, which
+sits well below 0.1% concentration
+by mass.
+Table 4. Modules included in the scope of the EPD (X = declared module | ND = module not declared)
+PRODUCT
+STAGE
+CONSTRUCTION
+STAGE
+USE
+STAGE 	END-OF-LIFE 	RECOVERY
+Raw material supply	
+Transport
+	Manufacturing
+	Transport
+	Construction
+	Installation
+	Use
+	Maintenance	
+Repair
+Replacement
+	Refurbishment	
+Operational energy use
+	Operational water use
+	Deconstruction /
+	demolition
+	Transport
+	Waste processing
+	Disposal	
+Future reuse, recycling
+	or energy recovery	
+potential
+Module 	A1 	A2 	A3 	A4 	A5 	B1 	B2 	B3 	B4 	B5 	B6 	B7 	C1 	C2 	C3 	C4 	D
+Modules
+declared 	X 	X 	X 	ND 	ND 	ND 	ND 	ND 	ND 	ND 	ND 	ND 	X 	X 	X 	X 	X
+Geography
+AU,
+TH,
+VN
+GLO AU 	- 	- 	- 	- 	- 	- 	- 	- 	- 	AU 	AU 	AU 	AU 	AU
+Specific data 	5% - 26%* 	- 	- 	- 	- 	- 	- 	- 	- 	- 	- 	- 	- 	- 	-
+Variation –
+products 	Not relevant 	- 	- 	- 	- 	- 	- 	- 	- 	- 	- 	- 	- 	- 	-
+Variation -
+sites 	<10% 	- 	- 	- 	- 	- 	- 	- 	- 	- 	- 	- 	- 	- 	-
+*In the original EPD (EPD-IES-0009353:001), the specific data was estimated as >90%. In the last update
+(EPD-IES-0009353:002) and this version (EPD-IES-0009353:003), we have excluded cements from the
+specific data given for one cement source, a proxy Sphera dataset was chosen based on the verified cradle-
+to-gate carbon footprint results supplied by the cement manufacturer. The new specific data includes only
+aggregates, raw material transport, and electricity and water use at batching plants.
+Figure 2. Manufacturing process and batching plant locations
+MANUFACTURING PROCESS (A1-A3)
+END-OF-LIFE
+RECOVERY
+D
+HALLETT
+BATCHING
+PLANTS
+INPUT | RAW MATERIALS
+INPUT | ENERGY AND WATER
+UPSTREAM 	CORE
+OUTPUT |
+WASTEWATER TREATMENT
+TRANSPORT 	MANUFACTURING CONCRETE
+NATURAL SAND
+(HALLETT QUARRIES | SA)
+FLY ASH, GGBFS, ADMIXTURES
+(ASIA PACIFIC)
+CEMENT
+(ASIA PACIFIC)
+NATURAL SAND,
+AGGREGATES
+(HALLETT QUARRIES | SA)
+ELECTRICITY
+(SA GRID)
+FRESH WATER
+(MUNICIPAL)
+READY MIX
+CONCRETE
+(AT GATE)
+DIESEL
+GATE	CRADLE
+DOWNSTREAM - NOT ASSESSED 	DOWNSTREAM
+IN USE	CONSTRUCTION
+A4	A3	A2	A1 	A5 	B1 - B7 	C1 	C2 	C3 	C4
+OUTPUT | READY MIX
+CONCRETE
+Products ready to be
+transported to customers
+2
+	1
+3
+4
+5 1. Dry Creek
+2. Elizabeth
+3. Mile End
+4. McLaren Vale
+5. Osborne
+Batching plant locations
+DECLARED UNIT
+EPDs that do not cover the full product life
+cycle from raw material extraction through to
+end-of-life use the term “declared unit”, rather
+than functional unit. “Declared unit” will be
+used in this EPD and is defined as:
+1 m3 of Ready Mix concrete at
+the batching plant gate which is
+purchased by the customer and
+is paid for.
+Table 1 on page 9 presents the full list of
+Hallett Ready Mix concrete products and their
+densities. These products are used for buildings
+and infrastructure in a range of structural and
+decorative applications.
+Table 2. UN CPC and ANZSIC codes applicable to
+Hallett Ready Mix concrete products
+Product 	Classification 	Category
+Ready-mixed
+concrete
+UN CPC 375 	Articles of concrete,
+cement and plaster
+ANZSIC 20330 	Concrete – Ready Mix
+– except Dry Mix
+TECHNICAL INFORMATION
+INDUSTRY CLASSIFICATION
+The UN CPC and ANZSIC codes applicable to
+Hallett Ready Mix concrete products in this EPD
+are shown in Table 2.
+CONCRETE | ENVIRONMENTAL PRODUCT DECLARATION
+10	CONCRETE | ENVIRONMENTAL PRODUCT DECLARATION
+11
+
+-- 6 of 37 --
+
+12 	CONCRETE | ENVIRONMENTAL PRODUCT DECLARATION
+UPSTREAM
+A1 | Raw material supply
+ Extraction and processing
+of raw materials.
+ Generation of electricity
+from primary energy
+resources, also including
+their extraction, refining
+and transport. This
+includes energy needed for
+raw material supply and
+energy for manufacturing
+in core process.
+ Processing up to the
+end-of-waste state.
+A2 | Transportation
+ Transport of raw
+materials to Hallett
+batching plants.
+CORE
+A3 | Manufacturing
+ Material handling, concrete batching
+and mixing, washing down of plant
+and equipment, and production waste
+transport and disposal are included.
+END-OF-LIFE
+RECOVERY
+D
+HALLETT
+BATCHING
+PLANTS
+INPUT | RAW MATERIALS
+INPUT | ENERGY AND WATER
+UPSTREAM 	CORE
+OUTPUT |
+WASTEWATER TREATMENT
+TRANSPORT 	MANUFACTURING CONCRETE
+NATURAL SAND
+(HALLETT QUARRIES | SA)
+FLY ASH, GGBFS, ADMIXTURES
+(ASIA PACIFIC)
+CEMENT
+(ASIA PACIFIC)
+NATURAL SAND,
+AGGREGATES
+(HALLETT QUARRIES | SA)
+ELECTRICITY
+(SA GRID)
+FRESH WATER
+(MUNICIPAL)
+READY MIX
+CONCRETE
+(AT GATE)
+DIESEL
+GATE	CRADLE
+DOWNSTREAM - NOT ASSESSED 	DOWNSTREAM
+IN USE	CONSTRUCTION
+A4	A3	A2	A1 	A5 	B1 - B7 	C1 	C2 	C3 	C4
+EXCLUDED | NOT ASSESSED
+Modules A4 and A5 are not included in this EPD due to
+the wide variances in potential scenarios. Consequently,
+following streams are not included in this study:
+ Any ready-mix concrete which is left
+over after a job is completed.
+ Any concrete which is returned to the plant because
+of customers ordering more than what they need.
+ Any concrete left in the trucks which comes out
+when the trucks are cleaned out and washed.
+Figure 3. Manufacturing process – upstream, core, and downstream activities included in this EPD
+DOWNSTREAM
+C1 | Deconstruction /
+demolition
+ Demolition of the whole building
+including concrete, using a 100-
+kW construction excavator.
+C2 | Transport
+ Transport of concrete waste to
+waste processing.
+END-OF-LIFE
+RECOVERY
+D
+HALLETT
+BATCHING
+PLANTS
+INPUT | RAW MATERIALS
+INPUT | ENERGY AND WATER
+UPSTREAM 	CORE
+OUTPUT |
+WASTEWATER TREATMENT
+TRANSPORT 	MANUFACTURING CONCRETE
+NATURAL SAND
+(HALLETT QUARRIES | SA)
+FLY ASH, GGBFS, ADMIXTURES
+(ASIA PACIFIC)
+CEMENT
+(ASIA PACIFIC)
+NATURAL SAND,
+AGGREGATES
+(HALLETT QUARRIES | SA)
+ELECTRICITY
+(SA GRID)
+FRESH WATER
+(MUNICIPAL)
+READY MIX
+CONCRETE
+(AT GATE)
+DIESEL
+GATE	CRADLE
+DOWNSTREAM - NOT ASSESSED 	DOWNSTREAM
+IN USE	CONSTRUCTION
+A4	A3	A2	A1 	A5 	B1 - B7 	C1 	C2 	C3 	C4
+C3 | Waste processing
+ Processing of concrete waste into
+different waste flows.
+A high percentage of construction
+and demolition waste in
+Australia is recycled. However,
+understanding what percentage
+of Hallett products are recycled
+is not a straightforward task due
+to the lack of data. Consequently,
+using national waste report, 82%
+of concrete is estimated to be
+recycled at end-of-life and the
+rest is assumed to be landfilled
+(Blue Environment Pty Ltd, 2020).
+C4 | Disposal
+ 18% of concrete waste is disposed
+in landfill. An “Excavator, 100
+kW, construction” dataset
+is used as a proxy (Sphera,
+2022). Diesel rate is adjusted
+to reflect a proxy for landfill.
+D | Resource recovery stage
+ Potential related to the portion
+of concrete at the end-of-
+life which is recycled.
+ To calculate the potential for
+recovery, it is assumed that
+recycled concrete will be used
+to replace virgin crushed rock.
+Table 5. End-of-life scenarios for concrete
+Processes
+Quantity per m 3
+of concrete 	Unit 	Additional information
+Demolition 	0.396 	kg diesel for demolition 	Module C1 | 100-kW construction excavator
+for demolition
+Collection process specified by
+type
+2 332 	kg collected separately
+0 	kg collected with mixed
+construction waste
+Transport from demolition site to
+recovery/disposal sites
+50 	km transport 	Module C2
+Recovery system specified by
+type
+1 912 	kg for recycling 	Module C3 | Recycled concrete is assumed to
+replace virgin crushed rock
+0 	kg for re-use
+0 	kg for energy recovery
+Disposal to landfill 	420 	kg product or material
+for final deposition
+Module C4
+Assumptions for scenario
+development
+0.487 	kg diesel for disposal 	Module C4 | 100-kW construction excavator
+for disposal
+The results for Modules C1-C4 and D have
+been determined based on a representative
+mix with a density of 2 332 kg/m 3 . For mixes
+with other densities, the results can be scaled
+by mass in a linear fashion. For example, for
+mix S5010E1150H, which has a density of
+2 410 kg/m 3, the results for Modules C1-C4
+and D should be multiplied by 2 410/2 332
+(i.e. a factor 1.033). See Annex on page 70.
+CONCRETE | ENVIRONMENTAL PRODUCT DECLARATION	
+13
+
+-- 7 of 37 --
+
+LIFE CYCLE INVENTORY (LCI)
+DATA AND ASSUMPTIONS
+Primary data were used for the batching plants and quarries for the period 1 July 2020 to 31 June
+2021. Batching plant data were from Dry Creek, Elizabeth, Mile End, McLaren Vale, and Osborne,
+whereas quarry data were from Yaringa sands, Kulpara, McLaren Vale, Dry Creek, and Truro.
+Background data (e.g. for energy and transport processes, cement and blast furnace slag) have
+predominantly been sourced from Sphera Professional Life Cycle Inventory Database 2022 (Sphera
+2022), whereas South Australian electricity data were sourced from the AusLCI shadow database
+(v1.38). Most datasets have a reference year between 2016 and 2021 and all fall within the 10-year
+limit allowable for generic data under EN 15804.
+UPSTREAM DATA
+Cement
+Hallett Group imports cement from 2 separate
+sources in the Asia Pacific region. Cement
+datasets were not available in the Sphera LCI
+Database 2022 (Sphera, 2022). For one cement
+source, a proxy Sphera dataset was chosen based
+on the verified cradle-to-gate carbon footprint
+results supplied by the cement manufacturer. For
+the second cement source, clinker production
+was first modelled using the LCI data from the
+ecoinvent database and Sphera background
+datasets. Cement production was subsequently
+modelled using the cement composition data
+supplied by the cement manufacturer.
+Fly Ash
+Fly ash is imported from an Asian source, which
+is a by-product of coal combustion in power
+stations in India. Fly ash is treated as a waste
+material and only includes transport impact. If
+the dust was not utilised as a supplementary
+cementitious material, this material would
+otherwise have been landfilled and hence is
+classified as waste.
+Ground Granulated Blast Furnace Slag (GGBFS)
+Hallett imports Ground Granulated Blast Furnace
+Slag (GGBFS, a supplementary cementitious
+material) from a source in Asia. Blast furnace
+slag is a by-product in the blast furnace
+steel production process and receives some
+environmental impacts from pig iron production.
+ELECTRICITY
+Electricity has been modelled for core processes
+using the AusLCI data for the electricity mix used
+in the South Australia. The GWP-GHG of the
+electricity is 0.454 kg CO2eq./kWh.
+RECYCLING
+In Australia, the resource recovery and recycling
+rate for masonry materials was 82% in 2018/19
+(Blue Environment Pty Ltd, 2020). Based on this
+source, it has been assumed that 82% of concrete
+is recycled at end-of-life and the rest is landfilled.
+TRANSPORT
+Primary transport data was used for transport
+of production inputs (A2). Any wastes from
+the production process (A3) are assumed to be
+transported over a 50 km distance to a treatment
+or disposal site.
+Transport modes:
+ 	Truck (diesel), Euro 0 - 6 mix, 34 - 40 t
+gross weight / 27 t payload capacity.
+ 	Container ship (heavy fuel oil), 5 000 to
+200 000 dwt payload capacity, ocean going.
+ 	Bulk commodity carrier, 5 000 to
+200 000 dwt payload capacity, ocean going.
+CUT-OFF CRITERIA
+Personnel is excluded as per section 4.3.1 in the
+PCR (EPD International, 2021). Thinkstep-anz
+consistently excludes environmental impacts
+from infrastructure, construction, production
+equipment, and tools that are not directly
+consumed in the production process, (‘capital
+goods’) regardless of potential significance.
+High-quality infrastructure related data isn’t
+always available and there is no clear cut-off for
+what to include. For this reason, capital goods
+data are applied to LCA studies inconsistently.
+This is expected to lead to reduced consistency
+and comparability of EPDs. Capital goods were
+previously excluded from EPDs, thus including
+capital goods in current EPDs would further
+reduce their comparability.
+The amount of packaging used for admixtures
+is well below the materiality cut-off and these
+materials have been excluded.
+All other reported data were incorporated and
+modelled using the best available life cycle
+inventory data.
+CONCRETE | ENVIRONMENTAL PRODUCT DECLARATION
+14	CONCRETE | ENVIRONMENTAL PRODUCT DECLARATION
+15
+
+-- 8 of 37 --
+
+16 	CONCRETE | ENVIRONMENTAL PRODUCT DECLARATION
+ALLOCATION
+Ready Mix concrete
+Hallett produces a range of Ready Mix concrete
+products at its batching plants. Energy use for
+concrete production has been allocated to the
+products based on a volume basis (total m3 of
+Ready Mix concrete products).
+Aggregates
+Aggregates are produced through crushing
+of rock, which is graded in different sizes. The
+energy required for the crushing and screening
+does not differentiate between products.
+Therefore, aggregate production (including
+manufactured sand) has been allocated based on
+the mass of product.
+Ground Granulated Blast Furnace Slag
+Blast Furnace Slag is a by-product in the blast
+furnace steel production process. There is a
+significant demand for slag globally – especially
+in the Portland cement and concrete industry
+which drives the price of the slag globally. We
+used the Sphera dataset, which allocates the
+impacts between steel and blast furnace slag by
+using economic allocation (Sphera 2022). This
+allocation decision influences the environmental
+profile of concrete mixes that use GGBFS.
+End-of-life
+End-of-life allocation follows the requirements of
+EN15804:2012+A2:2019 § 6.4.3.3 and generally
+follows the polluter pays principle.
+SOFTWARE AND DATABASE
+The LCA software used is the LCA for Experts
+from Sphera, using the Sphera LCI Database
+2022 (Sphera, 2022).
+KEY ASSUMPTIONS
+CO 2 absorption
+CO2 absorption from carbonation is not
+considered due to high variability and
+uncertainty and to be conservative.
+Recycled concrete
+To calculate the potential for recovery, it is
+assumed that recycled concrete will be used to
+replace virgin crushed rock.
+LIFE CYCLE INVENTORY (LCI)
+DATA AND ASSUMPTIONS – CONTINUED
+CONCRETE | ENVIRONMENTAL PRODUCT DECLARATION 	17
+ENVIRONMENTAL IMPACT
+INDICATORS
+An introduction the core environmental impact indicators is provided below. The best-known
+effect of each indicator is listed in the descriptions and the abbreviations, in brackets, correspond
+to the labels in the following results tables.
+Table 6. Environmental impact indicators described
+Indicator and description
+Global Warming Potential
+(GWPt, GWPf, GWPb, GWPluluc)
+A measure of greenhouse gas emissions, such as CO2 and methane. These emissions are causing an increase
+in the absorption of radiation emitted by the sun, increasing the natural greenhouse effect. This may in
+turn have adverse impacts on ecosystem health, human health and material welfare. The Global Warming
+Potential (GWP) includes four sub indicators: total (GWPt), fossil (GWPf), biogenic (GWPb), and land-use
+and land-use change (GWPluluc).
+Ozone Depletion Potential (ODP)
+Depletion of the ozone layer leads to higher levels of UVB ultraviolet rays reaching the earth’s surface with
+detrimental effects on humans and plants. The Ozone Depletion Potential is a measure of air emissions that
+contribute to the depletion of the stratospheric ozone layer.
+Acidification potential (AP)
+A measure of emissions that cause acidifying effects to the environment. Acidification potential is a
+measure of a molecule’s capacity to increase the hydrogen ion (H+) concentration in the presence of water,
+thus decreasing the pH value. Potential effects include fish mortality, forest decline and the deterioration of
+building materials.
+Eutrophication Potential (EPfw, EPm, EPt)
+Eutrophication covers all potential impacts of excessively high levels of macronutrients, the most important
+of which are nitrogen (N) and phosphorus (P). In aquatic ecosystems where this term is mostly applied,
+this typically describes a degradation in water quality. Eutrophication can result in an undesirable change
+in the type of species that flourish and an increase in the production of biomass. As the decomposition of
+biomass consumes oxygen, eutrophication may decrease the available oxygen level in the water column and
+threaten fish in their ability to respire.
+Photochemical Ozone Creation Potential (POCP)
+Photochemical Ozone Creation Potential gives an indication of the emissions from precursors that
+contribute to ground level smog formation, mainly ozone (O3). Ground level ozone may be harmful to human
+health and ecosystems and may also damage crops. These emissions are produced by the reaction of volatile
+organic compounds (VOCs) and carbon monoxide in the presence of nitrogen oxides and UV light.
+Abiotic Resource Depletion (ADPmm, ADPf)
+The consumption of non-renewable resources decreases the availability of these resources and their
+associated functions in the future. Depletion of mineral resources and non-renewable energy resources are
+reported separately. Depletion of mineral resources is assessed based on total reserves.
+Water Depletion Potential (WDP)
+Water scarcity is a measure of the stress on a region due to water consumption.
+
+-- 9 of 37 --
+
+CORE ENVIRONMENTAL IMPACT
+INDICATORS | EN15804+A2
+The reported impact categories represent
+impact potentials, i.e., they are approximations
+of environmental impacts that could occur if
+the emissions would (a) follow the underlying
+impact pathway and (b) meet certain conditions
+in the receiving environment while doing so.
+The environmental impact results are therefore
+relative expressions only and do not predict
+actual impacts, the exceeding of thresholds,
+safety margins, or risks.
+Long-term emissions (>100 years) are not taken
+into consideration in the impact estimate.
+INDICATOR TYPES
+The following tables show the results grouped in seven categories, each looking at different types
+of indicators. The headings below provide descriptions for each of these categories. Each column of
+numbers represents one declared unit: 1 m3 of Ready Mix concrete at the batching plant gate which is
+purchased by the customer and is paid for.
+RESOURCE USE INDICATORS
+The resource use indicators describe the use
+of renewable and non-renewable material
+resources, renewable and non- renewable
+primary energy and water.
+Note: Water consumption: The FW indicator
+in the EPD results tables reports consumption
+(i.e. net use) of ‘blue water’ (which includes
+river water, lake water and ground water). This
+indicator deliberately excludes consumption
+of ’green water’ (rain water), as net loss should
+be interpreted as any additional water loss
+beyond what would occur in the original,
+natural system.
+Table 7. Core environmental impact indicators EN15804+A2
+Indicator 	abbr.
+Climate change (total) 	GWPt
+Climate change (fossil) 	GWPf
+Climate change (biogenic) 	GWPb
+Climate change (land use and land use change) 	GWPluluc
+Ozone depletion 	ODP
+Acidification potential 	AP
+Eutrophication potential – freshwater 	EPfw
+Eutrophication potential – marine 	EPm
+Eutrophication potential – terrestrial 	EPt
+Photochemical ozone creation potential 	POCP
+Abiotic depletion potential – minerals & metals 	ADPmm
+Abiotic depletion potential – fossil fuels 	ADPf
+Water Depletion Potential 	WDP
+Table 8. Life cycle inventory indicators on use of resources
+Indicator 	abbr.
+Use of renewable primary energy excluding renewable primary
+energy resources used as raw materials 	PERE
+Use of renewable primary energy resources used as raw
+materials 	PERM
+Total use of renewable primary energy resources 	PERT
+Use of non-renewable primary energy excluding non-renewable
+primary energy resources used as raw materials 	PENRE
+Use of non-renewable primary energy resources used as raw
+materials 	PENRM
+Total use of non-renewable primary energy resources 	PENRT
+Use of secondary material; 	SM
+Use of renewable secondary fuels 	RSF
+Use of non-renewable secondary fuels 	NRSF
+Total use of net fresh water 	FW
+Table 9. Life cycle inventory indicators on waste categories and
+output flows
+Indicator 	abbr.
+Hazardous waste disposed 	HWD
+Non-hazardous waste disposed 	NHWD
+Radioactive waste disposed 	RWD
+Components for reuse 	CRU
+Materials for energy recovery 	MER
+Materials for recycling 	MFR
+Exported electrical energy 	EEE
+Exported thermal energy 	EET
+Table 10. Biogenic carbon indicators
+Indicator 	abbr.
+Biogenic carbon content in product 	BCC-prod
+Biogenic carbon content in packaging 	BCC-pack
+WASTE CATEGORIES AND
+OUTPUT FLOWS
+Waste indicators describe waste generated
+within the life cycle of the product. Waste
+is categorised by hazard class. Output flows
+are categorised by receiving compartment or
+type of exported energy.
+BIOGENIC CARBON INDICATORS
+Biogenic carbon refers to the carbon stored
+in organic materials. This is sequestered
+during growth and released at end-of-life.
+EN15804+A2 requires the declaration of
+biogenic carbon content of the product and its
+packaging.
+Packaging does not apply for Ready Mix
+concrete.
+ENVIRONMENTAL IMPACT
+INDICATORS | EN15804+A1
+EN 15804+A1 core environmental impact
+categories aid with historical comparison and
+are used within various rating tools.
+ADDITIONAL ENVIRONMENTAL
+IMPACT INDICATORS
+These indicators are voluntarily included
+to facilitate modularity where an EPD is
+used as input data for creating another
+EPD downstream in the value chain (EPD
+International, 2021).
+**This indicator is calculated using the
+characterisation factors from the IPCC AR5
+report (IPCC 2013) and has been included in
+the EPD following the PCR.
+Table 11. Additional environmental impact indicators
+Indicator 	abbr.
+IPCC AR5 GWP-GHG** 	GWP-GHG
+Particulate matter emissions 	PM
+Ionising radiation – human health 	IRP
+Eco-toxicity (freshwater) 	ETPfw
+Human toxicity, cancer 	HTPc
+Human toxicity, non-cancer 	HTPnc
+Soil quality 	SQP
+Table 12. Environmental impact indicators EN15804+A1
+Indicator 	abbr.
+Global warming potential (total) 	GWP
+Ozone depletion potential 	ODP
+Acidification potential of land and water 	AP
+Eutrophication potential 	EP
+Photochemical ozone creation potential 	POCP
+Depletion abiotic resources – minerals & metals 	ADPE
+Depletion abiotic resources – fossil fuels 	ADPF
+CONCRETE | ENVIRONMENTAL PRODUCT DECLARATION
+18	CONCRETE | ENVIRONMENTAL PRODUCT DECLARATION
+19
+
+-- 10 of 37 --
+
+DRY CREEK | A1-A3
+CORE ENVIRONMENTAL IMPACT INDICATORS | EN15804+A2
+*The results of this environmental impact indicator shall be used with care as the uncertainties on
+these results are high or as there is limited experience with the indicator.
+CONCRETE | ENVIRONMENTAL PRODUCT DECLARATION 	21
+Table 13. Module A1-A3 Core environmental impact indicator results for 1 m3 of product produced at Dry Creek batch plant
+DRY CREEK | A1 - A3
+MIX NAME 	N2020P 	N2520P 	N3220P 	N4020P 	N5020P
+PARAMETER 	UNIT 	Ref 	F30 	S30 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50
+GWPt 	kg CO2
+-eq 	275 	203 	206 	162 	301 	221 	225 	171 	176 	344 	251 	255 	192 	198 	412 	299 	304 	227 	234 	506 	365 	370 	274 	282
+GWPf 	kg CO2
+-eq 	272 	201 	203 	159 	298 	219 	222 	168 	173 	340 	248 	253 	190 	196 	408 	296 	301 	224 	231 	502 	362 	366 	271 	279
+GWPb 	kg CO2
+-eq 	3.00 	2.52 	2.51 	2.18 	3.19 	2.65 	2.64 	2.28 	2.27 	3.51 	2.89 	2.88 	2.47 	2.45 	4.00 	3.25 	3.24 	2.72 	2.71 	4.60 	3.66 	3.65 	3.01 	3.00
+GWPluluc 	kg CO2
+-eq 	0.0175 	0.0127 	0.0134 	0.0111 	0.0192 	0.0138 	0.0148 	0.0109 	0.0122 	0.0220 	0.0158 	0.0169 	0.0124 	0.0139 	0.0266 	0.0190 	0.0201 	0.0147 	0.0165 	0.0329 	0.0234 	0.0246 	0.0179 	0.0200
+ODP 	kg CFC-11 eq 	6.65E-08 7.12E-08 6.96E-08 6.92E-08 6.31E-08 6.69E-08 6.54E-08 6.73E-08 6.50E-08 5.02E-08 5.39E-08 5.28E-08 5.42E-08 5.23E-08 3.47E-08 3.84E-08 3.75E-08 3.84E-08 3.71E-08 2.90E-08 3.36E-08 3.27E-08 3.36E-08 3.22E-08
+AP 	Mole of H+eq 	0.779 	0.631 	0.712 	0.706 	0.832 	0.668 	0.772 	0.628 	0.766 	0.918 	0.729 	0.841 	0.675 	0.834 	1.06 	0.827 	0.946 	0.749 	0.937 	1.25 	0.962 	1.09 	0.847 	1.08
+EPfw 	kg P eq 	2.15E-04 2.03E-04 2.04E-04 1.97E-04 2.19E-04 2.06E-04 2.07E-04 1.98E-04 2.00E-04 2.26E-04 2.11E-04 2.12E-04 2.02E-04 2.03E-04 2.38E-04 2.19E-04 2.21E-04 2.08E-04 2.10E-04 2.53E-04 2.30E-04 2.31E-04 2.15E-04 2.18E-04
+EPm 	kg N eq 	0.258 	0.211 	0.220 	0.199 	0.275 	0.223 	0.234 	0.196 	0.211 	0.303 	0.242 	0.255 	0.210 	0.228 	0.348 	0.274 	0.288 	0.234 	0.255 	0.410 	0.318 	0.332 	0.265 	0.291
+EPt 	Mole of N eq 	2.85 	2.32 	2.42 	2.19 	3.04 	2.45 	2.58 	2.15 	2.32 	3.35 	2.67 	2.81 	2.31 	2.51 	3.85 	3.03 	3.17 	2.57 	2.80 	4.54 	3.51 	3.66 	2.91 	3.20
+POCP 	kg NMVOC eq 	0.690 	0.557 	0.584 	0.527 	0.737 	0.590 	0.626 	0.515 	0.563 	0.817 	0.645 	0.684 	0.556 	0.611 	0.944 	0.734 	0.775 	0.621 	0.686 	1.12 	0.856 	0.899 	0.709 	0.787
+ADPmm* 	kg Sb-eq 	4.44E-06 3.37E-06 3.46E-06 2.86E-06 4.83E-06 3.64E-06 3.77E-06 2.93E-06 3.10E-06 5.41E-06 4.03E-06 4.16E-06 3.20E-06 3.39E-06 6.44E-06 4.74E-06 4.88E-06 3.71E-06 3.94E-06 7.86E-06 5.74E-06 5.89E-06 4.43E-06 4.71E-06
+ADPf* 	MJ 	1 180 	960 	1 000 	900 	1 260 	1 020 	1 070 	890 	960 	1 390 	1 110 	1 160 	960 	1 040 	1 600 	1 260 	1 310 	1 070 	1 160 	1 880 	1 460 	1 520 	1 210 	1 320
+WDP* 	m³ world equiv 	11.8 	10.0 	10.5 	9.75 	12.4 	10.4 	10.9 	9.31 	10.1 	13.4 	11.1 	11.7 	9.90 	10.7 	15.0 	12.3 	12.9 	10.8 	11.7 	17.1 	13.9 	14.5 	12.0 	13.0
+MIX NAME 	S1020 	S1520 	S2520 	S3220 	S4020 	S5010 	S6510 	S6520 	S8010
+PARAMETER 	UNIT 	PLC1 PLC1120 PLC2120 	PLC1 	PLC2 	LSLC2 	PLC2XYP PLC2120 	PTLC2 	COLLC1 	COLLC2 	PLC1120 	PLC2120 	PLC2XYP 	SCPLC2 	SCPLC2 	SCPEC2 	LC2120 	COLSCLC2 	SCPEC2
+GWPt 	kg CO2
+-eq 	146 	163 	114 	209 	227 	161 	168 	225 	196 	299 	207 	297 	196 	216 	306 	253 	316 	266 	290 	348
+GWPf 	kg CO2
+-eq 	145 	161 	112 	207 	225 	160 	167 	223 	194 	296 	205 	294 	194 	214 	303 	251 	313 	263 	288 	345
+GWPb 	kg CO2
+-eq 	1.69 	1.81 	1.44 	2.13 	2.27 	1.78 	1.85 	2.23 	1.99 	2.74 	2.04 	2.74 	1.98 	2.24 	2.67 	2.30 	2.80 	2.40 	2.44 	3.03
+GWPluluc 	kg CO2
+-eq 	0.00952 	0.0106 	0.00803 	0.0139 	0.0156 	0.0121 	0.0121 	0.0156 	0.0150 	0.0201 	0.0155 	0.0203 	0.0149 	0.0149 	0.0221 	0.0188 	0.0206 	0.0208 	0.0222 	0.0229
+ODP 	kg CFC-11 eq 	7.80E-08 	7.66E-08 	7.86E-08 	6.39E-08 	4.86E-08 	4.10E-08 	5.14E-08 	4.85E-08 	3.12E-08 	1.06E-07 	9.94E-08 	3.12E-08 	3.12E-08 	3.26E-08 	1.67E-07 	1.52E-07 	1.65E-07 	3.56E-08 	1.69E-07 	1.57E-07
+AP 	Mole of H+eq 	0.599 	0.641 	0.636 	0.771 	0.900 	0.847 	0.875 	0.890 	1.00 	1.03 	1.05 	1.02 	1.00 	1.08 	1.29 	1.25 	1.03 	1.31 	1.42 	1.12
+EPfw 	kg P eq 	1.94E-04 	1.96E-04 	1.89E-04 	2.05E-04 	2.13E-04 	1.98E-04 	2.09E-04 	2.10E-04 	2.05E-04 	2.26E-04 	2.12E-04 	2.21E-04 	2.05E-04 	2.36E-04 	2.33E-04 	2.28E-04 	2.34E-04 	2.19E-04 	2.34E-04 	2.41E-04
+EPm 	kg N eq 	0.182 	0.191 	0.168 	0.227 	0.251 	0.213 	0.226 	0.247 	0.246 	0.295 	0.255 	0.294 	0.245 	0.280 	0.324 	0.299 	0.305 	0.309 	0.333 	0.329
+EPt 	Mole of N eq 	2.00 	2.10 	1.84 	2.50 	2.73 	2.34 	2.41 	2.70 	2.69 	3.22 	2.76 	3.23 	2.67 	2.87 	3.50 	3.19 	3.28 	3.37 	3.57 	3.55
+POCP 	kg NMVOC eq 	0.477 	0.504 	0.442 	0.605 	0.667 	0.570 	0.589 	0.660 	0.661 	0.790 	0.682 	0.791 	0.658 	0.711 	0.872 	0.796 	0.808 	0.840 	0.894 	0.875
+ADPmm* 	kg Sb-eq 	2.59E-06 	2.82E-06 	2.16E-06 	3.55E-06 	3.98E-06 	2.91E-06 	3.33E-06 	3.86E-06 	3.53E-06 	5.14E-06 	3.92E-06 	4.90E-06 	3.53E-06 	4.69E-06 	5.62E-06 	4.99E-06 	5.60E-06 	4.78E-06 	5.66E-06 	6.15E-06
+ADPf* 	MJ 	820 	860 	760 	1 040 	1 170 	970 	1 080 	1 130 	1 120 	1 380 	1 190 	1 350 	1 120 	1 430 	1 530 	1 430 	1 450 	1 420 	1 580 	1 570
+WDP* 	m³ world equiv 	9.16 	9.33 	8.57 	10.5 	11.4 	9.97 	10.8 	11.1 	10.9 	12.6 	11.1 	12.7 	10.8 	13.3 	12.8 	12.1 	12.9 	13.1 	13.9 	13.6
+20	CONCRETE | ENVIRONMENTAL PRODUCT DECLARATION
+
+-- 11 of 37 --
+
+DRY CREEK | A1-A3
+RESOURCE USE INDICATORS
+CONCRETE | ENVIRONMENTAL PRODUCT DECLARATION 	23
+Table 14. Module A1-A3 Resource use indicators results for 1 m3 of product produced at Dry Creek batch plant
+DRY CREEK | A1 - A3
+MIX NAME 	N2020P 	N2520P 	N3220P 	N4020P 	N5020P
+PARAMETER 	UNIT 	Ref 	F30 	S30 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50
+PERE 	MJ	MJ 	113 	80.5 	83.1 	64.4 	125 	88.7 	92.1 	66.9 	71.4 	144 	102 	106 	76.7 	81.9 	175 	124 	128 	92.5 	98.6 	218 	154 	158 	114 	122
+PERM 	MJ	MJ 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+PERT 	MJ	MJ 	113 	80.5 	83.1 	64.4 	125 	88.7 	92.1 	66.9 	71.4 	144 	102 	106 	76.7 	81.9 	175 	124 	128 	92.5 	98.6 	218 	154 	158 	114 	122
+PENRE 	MJ	MJ 	1 180 	960 	1 000 	900 	1 260 	1 020 	1 070 	890 	960 	1 390 	1 110 	1 160 	960 	1 040 	1 600 	1 260 	1 320 	1 070 	1 160 	1 880 	1 460 	1 520 	1 210 	1 330
+PENRM 	MJ	MJ 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+PENRT 	MJ	MJ 	1 180 	960 	1 000 	900 	1 260 	1 020 	1 070 	890 	960 	1 390 	1 110 	1 160 	960 	1 040 	1 600 	1 260 	1 320 	1 070 	1 160 	1 880 	1 460 	1 520 	1 210 	1 330
+SM 	kg	kg 	0.0826 	49.7 	49.7 	106 	0.0914 	63.9 	63.9 	127 	127 	0.106 	69.0 	69.0 	142 	142 	0.130 	73.0 	73.0 	162 	162 	0.162 	76.1 	76.1 	187 	187
+RSF 	MJ	MJ 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+NRSF 	MJ	MJ 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+FW 	mm 33 	0.487 	0.416 	0.435 	0.405 	0.509 	0.431 	0.453 	0.389 	0.421 	0.550 	0.461 	0.484 	0.413 	0.446 	0.614 	0.507 	0.531 	0.448 	0.485 	0.701 	0.570 	0.595 	0.495 	0.537
+MIX NAME 	S1020 	S1520 	S2520 	S3220 	S4020 	S5010 	S6510 	S6520 	S8010
+PARAMETER 	UNIT 	PLC1 PLC1120 PLC2120 	PLC1 	PLC2 	LSLC2 	PLC2XYP PLC2120 	PTLC2 	COLLC1 	COLLC2 	PLC1120 	PLC2120 	PLC2XYP 	SCPLC2 	SCPLC2 	SCPEC2 	LC2120 	COLSCLC2 	SCPEC2
+PERE 	MJ	MJ 	56.3 	64.7 	43.7 	85.4 	95.8 	66.7 	71.0 	94.6 	84.3 	128 	89.7 	126 	84.3 	96.6 	136 	114 	136 	119 	132 	151
+PERM 	MJ	MJ 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+PERT 	MJ	MJ 	56.3 	64.7 	43.7 	85.4 	95.8 	66.7 	71.0 	94.6 	84.3 	128 	89.7 	126 	84.3 	96.6 	136 	114 	136 	119 	132 	151
+PENRE 	MJ	MJ 	820 	860 	760 	1 040 	1 170 	970 	1 080 	1 130 	1 120 	1 380 	1 190 	1 350 	1 120 	1 430 	1 530 	1 430 	1 450 	1 420 	1 580 	1 570
+PENRM 	MJ	MJ 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+PENRT 	MJ	MJ 	820 	860 	760 	1 040 	1 170 	970 	1 080 	1 130 	1 120 	1 380 	1 190 	1 350 	1 120 	1 430 	1 530 	1 430 	1 450 	1 420 	1 580 	1 570
+SM 	kg	kg 	54.8 	64.0 	128 	85.2 	142 	201 	201 	142 	255 	128 	267 	128 	255 	255 	292 	334 	211 	364 	395 	235
+RSF 	MJ	MJ 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+NRSF 	MJ	MJ 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+FW 	mm 33 	0.381 	0.390 	0.360 	0.438 	0.469 	0.417 	0.438 	0.461 	0.457 	0.521 	0.463 	0.527 	0.454 	0.511 	0.534 	0.502 	0.527 	0.545 	0.569 	0.554
+22	CONCRETE | ENVIRONMENTAL PRODUCT DECLARATION
+
+-- 12 of 37 --
+
+DRY CREEK | A1-A3
+WASTE CATEGORIES AND OUTPUT FLOWS
+Table 15. Module A1-A3 Waste categories and output flows results for 1 m3 of product produced at Dry Creek batch plant
+DRY CREEK | A1 - A3
+MIX NAME 	N2020P 	N2520P 	N3220P 	N4020P 	N5020P
+PARAMETER 	UNIT 	Ref 	F30 	S30 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50
+HWD 	kg 	0.00273 	0.00244 	0.00244 	0.00243 	0.00298 	0.00273 	0.00273 	0.00272 	0.00272 	0.00298 	0.00264 	0.00264 	0.00263 	0.00263 	0.00364 	0.00314 	0.00314 	0.00313 	0.00313 	0.00455 	0.00380 	0.00380 	0.00379 	0.00379
+NHWD 	kg 	1.48 	1.31 	1.32 	1.22 	1.55 	1.36 	1.37 	1.24 	1.25 	1.67 	1.45 	1.47 	1.32 	1.33 	1.84 	1.58 	1.59 	1.41 	1.43 	2.04 	1.72 	1.73 	1.50 	1.52
+RWD 	kg 	0.0271 	0.0192 	0.0192 	0.0140 	0.0299 	0.0212 	0.0212 	0.0155 	0.0155 	0.0346 	0.0244 	0.0245 	0.0178 	0.0178 	0.0422 	0.0298 	0.0298 	0.0216 	0.0217 	0.0526 	0.0371 	0.0371 	0.0269 	0.0270
+CRU 	kg 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+MFR 	kg 	30.1 	30.1 	30.1 	30.1 	30.1 	30.1 	30.1 	30.1 	30.1 	30.1 	30.1 	30.1 	30.1 	30.1 	30.1 	30.1 	30.1 	30.1 	30.1 	30.1 	30.1 	30.1 	30.1 	30.1
+MER 	kg 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+EEE 	MJ 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+EET 	MJ 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+MIX NAME 	S1020 	S1520 	S2520 	S3220 	S4020 	S5010 	S6510 	S6520 	S8010
+PARAMETER 	UNIT 	PLC1 PLC1120 PLC2120 	PLC1 	PLC2 	LSLC2 	PLC2XYP PLC2120 	PTLC2 	COLLC1 	COLLC2 	PLC1120 	PLC2120 	PLC2XYP 	SCPLC2 	SCPLC2 	SCPEC2 	LC2120 	COLSCLC2 	SCPEC2
+HWD 	kg 	0.00239 	0.00242 	0.00241 	0.00335 	0.00764 	0.00312 	0.0126 	0.00520 	0.00481 	0.00868 	0.00889 	0.00501 	0.00500 	0.0318 	0.0125 	0.0166 	0.0139 	0.00737 	0.0169 	0.0158
+NHWD 	kg 	1.17 	1.20 	1.09 	1.33 	1.39 	1.25 	1.26 	1.38 	1.31 	1.53 	1.31 	1.56 	1.31 	1.39 	1.49 	1.37 	1.49 	1.45 	1.38 	1.57
+RWD 	kg 	0.0127 	0.0146 	0.00880 	0.0195 	0.0219 	0.0135 	0.0161 	0.0213 	0.0173 	0.0300 	0.0191 	0.0290 	0.0174 	0.0246 	0.0305 	0.0253 	0.0330 	0.0247 	0.0291 	0.0369
+CRU 	kg 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+MFR 	kg 	30.1 	30.1 	30.1 	30.1 	30.1 	30.1 	30.1 	30.1 	30.1 	30.1 	30.1 	30.1 	30.1 	30.1 	30.1 	30.1 	30.1 	30.1 	30.1 	30.1
+MER 	kg 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+EEE 	MJ 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+EET 	MJ 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+CONCRETE | ENVIRONMENTAL PRODUCT DECLARATION
+24	CONCRETE | ENVIRONMENTAL PRODUCT DECLARATION
+25
+
+-- 13 of 37 --
+
+DRY CREEK | A1-A3
+ADDITIONAL ENVIRONMENTAL IMPACT INDICATORS
+BIOGENIC CARBON INDICATORS
+*The results of this environmental impact indicator shall be used with care as the
+uncertainties on these results are high or as there is limited experience with the
+indicator
+**This indicator is calculated using the characterisation factors from the IPCC AR5
+report (IPCC 2013) and has been included in the EPD following the PCR
+***This impact category deals mainly with the eventual impact of low dose ionizing
+radiation on human health of the nuclear fuel cycle. It does not consider effects due
+to possible nuclear accidents, occupational exposure nor due to radioactive waste
+disposal in underground facilities Potential ionizing radiation from the soil, from
+radon and some construction materials, is also not measured by this indicator.
+Table 16. Module A1-A3 Biogenic carbon indicators results for 1 m3 of product produced at Dry Creek batch plant
+DRY CREEK | A1 - A3
+MIX NAME 	N2020P 	N2520P 	N3220P 	N4020P 	N5020P
+PARAMETER 	UNIT 	Ref 	F30 	S30 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50
+BCC-prod 	kg C 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+Table 17. Module A1-A3 Additional environmental impact indicators results for 1 m3 of product produced at Dry Creek batch plant
+DRY CREEK | A1 - A3
+MIX NAME 	N2020P 	N2520P 	N3220P 	N4020P 	N5020P
+PARAMETER 	UNIT 	Ref 	F30 	S30 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50
+GWP-GHG** 	kg CO2
+-eq 	270 	200 	202 	158 	296 	217 	221 	168 	172 	338 	247 	251 	189 	195 	406 	295 	299 	223 	230 	499 	360 	364 	270 	278
+PM Disease
+incidences 	9.48E-06 7.81E-06 8.40E-06 7.98E-06 1.01E-05 8.23E-06 9.00E-06 7.50E-06 8.52E-06 1.11E-05 8.91E-06 9.74E-06 8.02E-06 9.19E-06 1.27E-05 1.00E-05 1.09E-05 8.85E-06 1.02E-05 1.49E-05 1.16E-05 1.25E-05 9.96E-06 1.16E-05
+IRP*** 	kBq U235 eq. 	4.50 	3.18 	3.18 	2.30 	4.98 	3.51 	3.51 	2.54 	2.54 	5.76 	4.06 	4.06 	2.93 	2.94 	7.03 	4.95 	4.95 	3.57 	3.57 	8.77 	6.17 	6.17 	4.45 	4.45
+ETP-fw* 	CTUe 	431 	354 	357 	311 	459 	374 	379 	321 	327 	507 	408 	413 	346 	353 	581 	460 	466 	384 	392 	682 	531 	537 	434 	445
+HTPc* 	CTUh 	2.80E-08 2.06E-08 2.08E-08 1.61E-08 3.07E-08 2.24E-08 2.28E-08 1.71E-08 1.76E-08 3.51E-08 2.56E-08 2.59E-08 1.94E-08 1.99E-08 4.23E-08 3.05E-08 3.09E-08 2.30E-08 2.35E-08 5.20E-08 3.74E-08 3.78E-08 2.78E-08 2.85E-08
+HTPnc* 	CTUh 	2.45E-06 1.76E-06 1.77E-06 1.32E-06 2.70E-06 1.93E-06 1.95E-06 1.43E-06 1.45E-06 3.11E-06 2.22E-06 2.23E-06 1.64E-06 1.66E-06 3.77E-06 2.68E-06 2.70E-06 1.97E-06 1.99E-06 4.67E-06 3.31E-06 3.33E-06 2.42E-06 2.45E-06
+SQP* 	Pt 	266 	250 	249 	235 	274 	255 	254 	241 	239 	287 	266 	266 	249 	248 	303 	278 	277 	257 	256 	316 	286 	286 	259 	259
+MIX NAME 	S1020 	S1520 	S2520 	S3220 	S4020 	S5010 	S6510 	S6520 	S8010
+PARAMETER 	UNIT 	PLC1 PLC1120 PLC2120 	PLC1 	PLC2 	LSLC2 	PLC2XYP PLC2120 	PTLC2 	COLLC1 	COLLC2 	PLC1120 	PLC2120 	PLC2XYP 	SCPLC2 	SCPLC2 	SCPEC2 	LC2120 	COLSCLC2 	SCPEC2
+GWP-GHG** 	kg CO2
+-eq 	144 	160 	112 	205 	224 	159 	165 	222 	193 	295 	203 	292 	193 	212 	301 	249 	311 	262 	286 	343
+PM Disease
+incidences 	7.09E-06 	7.46E-06 	7.01E-06 	8.85E-06 	9.97E-06 	8.98E-06 	9.36E-06 	9.84E-06 	1.04E-05 	1.15E-05 	1.08E-05 	1.14E-05 	1.04E-05 	1.14E-05 	1.34E-05 	1.27E-05 	1.16E-05 	1.33E-05 	1.42E-05 	1.26E-05
+IRP*** 	kBq U235 eq. 	2.08 	2.41 	1.42 	3.20 	3.51 	2.20 	2.40 	3.46 	2.80 	4.85 	3.01 	4.78 	2.80 	3.38 	4.84 	3.86 	5.24 	3.99 	4.50 	5.84
+ETP-fw* 	CTUe 	294 	304 	254 	363 	397 	317 	352 	386 	358 	475 	378 	466 	356 	457 	489 	444 	500 	440 	484 	540
+HTPc* 	CTUh 	1.46E-08 	1.64E-08 	1.11E-08 	2.10E-08 	2.27E-08 	1.59E-08 	1.64E-08 	2.26E-08 	1.95E-08 	3.02E-08 	2.04E-08 	3.00E-08 	1.94E-08 	2.07E-08 	3.06E-08 	2.49E-08 	3.18E-08 	2.65E-08 	2.87E-08 	3.51E-08
+HTPnc* 	CTUh 	1.19E-06 	1.36E-06 	8.59E-07 	1.78E-06 	1.92E-06 	1.28E-06 	1.30E-06 	1.91E-06 	1.59E-06 	2.60E-06 	1.66E-06 	2.60E-06 	1.59E-06 	1.64E-06 	2.59E-06 	2.05E-06 	2.75E-06 	2.21E-06 	2.39E-06 	3.05E-06
+SQP* 	Pt 	230 	225 	217 	246 	250 	237 	235 	246 	235 	285 	255 	267 	230 	233 	286 	262 	280 	243 	252 	284
+MIX NAME 	S1020 	S1520 	S2520 	S3220 	S4020 	S5010 	S6510 	S6520 	S8010
+PARAMETER 	UNIT 	PLC1 PLC1120 PLC2120 	PLC1 	PLC2 	LSLC2 	PLC2XYP PLC2120 	PTLC2 	COLLC1 	COLLC2 	PLC1120 	PLC2120 	PLC2XYP 	SCPLC2 	SCPLC2 	SCPEC2 	LC2120 	COLSCLC2 	SCPEC2
+BCC-prod 	kg C 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+CONCRETE | ENVIRONMENTAL PRODUCT DECLARATION
+26	CONCRETE | ENVIRONMENTAL PRODUCT DECLARATION
+27
+
+-- 14 of 37 --
+
+ENVIRONMENTAL IMPACT INDICATORS | EN15804+A1
+DRY CREEK | A1-A3
+CONCRETE | ENVIRONMENTAL PRODUCT DECLARATION 	29
+Table 18. Module A1-A3 Environmental impact indicators EN15804+A1 for 1 m3 of product produced at Dry Creek batch plant
+DRY CREEK | A1 - A3
+MIX NAME 	N2020P 	N2520P 	N3220P 	N4020P 	N5020P
+PARAMETER 	UNIT 	Ref 	F30 	S30 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50
+GWP 	kg CO2
+-eq 	272 	201 	204 	160 	298 	219 	223 	169 	174 	340 	249 	253 	190 	196 	408 	296 	301 	225 	231 	502 	362 	366 	271 	279
+ODP 	kg CFC11
+-eq. 	4.64E-08 4.95E-08 4.84E-08 4.82E-08 4.40E-08 4.66E-08 4.56E-08 4.68E-08 4.53E-08 3.51E-08 3.76E-08 3.68E-08 3.78E-08 3.65E-08 2.44E-08 2.69E-08 2.63E-08 2.69E-08 2.59E-08 2.05E-08 2.36E-08 2.30E-08 2.36E-08 2.26E-08
+AP 	kg SO2
+-eq 	0.586 	0.474 	0.543 	0.548 	0.627 	0.502 	0.592 	0.478 	0.598 	0.693 	0.549 	0.646 	0.515 	0.652 	0.801 	0.624 	0.727 	0.572 	0.735 	0.949 	0.728 	0.835 	0.648 	0.845
+EP 	kg PO 4
+3- -eq. 	0.0900 	0.0736 	0.0767 	0.0694 	0.0959 	0.0778 	0.0817 	0.0684 	0.0737 	0.106 	0.0847 	0.0890 	0.0735 	0.0796 	0.121 	0.0957 	0.100 	0.0816 	0.0888 	0.143 	0.111 	0.115 	0.0924 	0.101
+POCP 	kg C 2 H 4 -eq. 	0.0255 	0.0159 	0.0191 	0.0164 	0.0288 	0.0183 	0.0224 	0.0140 	0.0194 	0.0343 	0.0221 	0.0265 	0.0168 	0.0230 	0.0434 	0.0284 	0.0331 	0.0215 	0.0288 	0.0559 	0.0373 	0.0421 	0.0279 	0.0368
+ADPE 	kg Sb eq. 	4.62E-06 3.49E-06 3.59E-06 2.95E-06 5.02E-06 3.78E-06 3.90E-06 3.03E-06 3.20E-06 5.63E-06 4.18E-06 4.32E-06 3.31E-06 3.50E-06 6.70E-06 4.93E-06 5.07E-06 3.84E-06 4.08E-06 8.19E-06 5.97E-06 6.12E-06 4.60E-06 4.88E-06
+ADPF 	MJ 	1 100 	910 	950 	860 	1 170 	960 	1 010 	850 	920 	1 290 	1 040 	1 090 	910 	990 	1 480 	1 170 	1 230 	1 010 	1 100 	1 730 	1 350 	1 410 	1 140 	1 250
+MIX NAME 	S1020 	S1520 	S2520 	S3220 	S4020 	S5010 	S6510 	S6520 	S8010
+PARAMETER 	UNIT 	PLC1 PLC1120 PLC2120 	PLC1 	PLC2 	LSLC2 	PLC2XYP PLC2120 	PTLC2 	COLLC1 	COLLC2 	PLC1120 	PLC2120 	PLC2XYP 	SCPLC2 	SCPLC2 	SCPEC2 	LC2120 	COLSCLC2 	SCPEC2
+GWP 	kg CO2
+-eq 	145 	161 	112 	206 	225 	159 	166 	223 	194 	296 	204 	294 	193 	213 	302 	250 	312 	263 	287 	345
+ODP 	kg CFC11
+-eq. 	5.43E-08 	5.33E-08 	5.47E-08 	4.46E-08 	3.42E-08 	2.87E-08 	3.64E-08 	3.40E-08 	2.20E-08 	7.42E-08 	6.95E-08 	2.20E-08 	2.20E-08 	2.46E-08 	1.17E-07 	1.07E-07 	1.15E-07 	2.52E-08 	1.19E-07 	1.10E-07
+AP 	kg SO2
+-eq 	0.457 	0.492 	0.499 	0.595 	0.703 	0.673 	0.695 	0.696 	0.801 	0.796 	0.835 	0.792 	0.800 	0.862 	1.02 	1.00 	0.795 	1.06 	1.14 	0.865
+EP 	kg PO 4
+3- -eq. 	0.0635 	0.0667 	0.0588 	0.0792 	0.0878 	0.0744 	0.0792 	0.0862 	0.0856 	0.103 	0.0890 	0.102 	0.0851 	0.0986 	0.113 	0.104 	0.106 	0.107 	0.116 	0.115
+POCP 	kg C 2 H 4 -eq. 	0.0116 	0.0142 	0.0112 	0.0214 	0.0272 	0.0214 	0.0230 	0.0268 	0.0293 	0.0356 	0.0312 	0.0355 	0.0293 	0.0335 	0.0456 	0.0414 	0.0368 	0.0448 	0.0500 	0.0420
+ADPE 	kg Sb eq. 	2.67E-06 	2.92E-06 	2.22E-06 	3.67E-06 	4.12E-06 	2.99E-06 	3.43E-06 	4.00E-06 	3.64E-06 	5.33E-06 	4.04E-06 	5.08E-06 	3.64E-06 	4.84E-06 	5.81E-06 	5.15E-06 	5.81E-06 	4.94E-06 	5.84E-06 	6.39E-06
+ADPF 	MJ 	790 	820 	730 	980 	1 110 	930 	1 040 	1 070 	1 070 	1 300 	1 140 	1 270 	1 070 	1 360 	1 440 	1 360 	1 360 	1 350 	1 490 	1 470
+28	CONCRETE | ENVIRONMENTAL PRODUCT DECLARATION
+
+-- 15 of 37 --
+
+ELIZABETH | A1-A3
+CORE ENVIRONMENTAL IMPACT INDICATORS | EN15804+A2
+*The results of this environmental impact indicator shall be used with care as the uncertainties on
+these results are high or as there is limited experience with the indicator.
+CONCRETE | ENVIRONMENTAL PRODUCT DECLARATION 	31
+Table 19. Module A1-A3 Core environmental impact indicator results for 1 m3 of product produced at Elizabeth batch plant
+ELIZABETH | A1 - A3
+MIX NAME 	N2020P 	N2520P 	N3220P 	N4020P 	N5020P
+PARAMETER 	UNIT 	Ref 	F30 	S30 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50
+GWPt 	kg CO2
+-eq 	281 	209 	212 	168 	306 	227 	231 	177 	181 	349 	257 	261 	198 	204 	417 	304 	308 	232 	239 	510 	370 	374 	279 	287
+GWPf 	kg CO2
+-eq 	277 	206 	209 	165 	302 	224 	228 	174 	179 	345 	253 	257 	195 	201 	412 	301 	305 	229 	236 	505 	366 	370 	276 	284
+GWPb 	kg CO2
+-eq 	3.33 	2.85 	2.84 	2.51 	3.51 	2.98 	2.97 	2.62 	2.60 	3.84 	3.22 	3.21 	2.79 	2.78 	4.31 	3.56 	3.55 	3.04 	3.02 	4.92 	3.98 	3.97 	3.33 	3.31
+GWPluluc 	kg CO2
+-eq 	0.0175 	0.0127 	0.0135 	0.0112 	0.0192 	0.0139 	0.0149 	0.0110 	0.0123 	0.0220 	0.0159 	0.0169 	0.0124 	0.0139 	0.0266 	0.0190 	0.0201 	0.0147 	0.0165 	0.0328 	0.0234 	0.0246 	0.0179 	0.0200
+ODP 	kg CFC-11 eq 	6.60E-08 7.07E-08 6.91E-08 6.87E-08 6.26E-08 6.64E-08 6.49E-08 6.68E-08 6.45E-08 4.98E-08 5.35E-08 5.23E-08 5.37E-08 5.19E-08 3.43E-08 3.80E-08 3.70E-08 3.80E-08 3.66E-08 2.86E-08 3.32E-08 3.23E-08 3.31E-08 3.17E-08
+AP 	Mole of H+eq 	0.767 	0.620 	0.700 	0.694 	0.818 	0.656 	0.759 	0.615 	0.753 	0.904 	0.715 	0.827 	0.662 	0.820 	1.04 	0.812 	0.930 	0.734 	0.921 	1.24 	0.947 	1.07 	0.832 	1.06
+EPfw 	kg P eq 	2.16E-04 2.04E-04 2.05E-04 1.98E-04 2.20E-04 2.07E-04 2.08E-04 1.99E-04 2.00E-04 2.27E-04 2.12E-04 2.13E-04 2.03E-04 2.04E-04 2.38E-04 2.20E-04 2.21E-04 2.08E-04 2.10E-04 2.54E-04 2.31E-04 2.32E-04 2.16E-04 2.18E-04
+EPm 	kg N eq 	0.264 	0.217 	0.226 	0.205 	0.281 	0.229 	0.240 	0.202 	0.217 	0.309 	0.248 	0.261 	0.216 	0.234 	0.353 	0.279 	0.293 	0.239 	0.260 	0.415 	0.323 	0.337 	0.270 	0.296
+EPt 	Mole of N eq 	2.92 	2.39 	2.49 	2.26 	3.10 	2.52 	2.65 	2.22 	2.39 	3.41 	2.74 	2.88 	2.38 	2.57 	3.90 	3.08 	3.23 	2.63 	2.86 	4.59 	3.56 	3.71 	2.97 	3.25
+POCP 	kg NMVOC eq 	0.692 	0.559 	0.587 	0.530 	0.738 	0.591 	0.627 	0.517 	0.564 	0.816 	0.646 	0.684 	0.557 	0.611 	0.942 	0.733 	0.774 	0.620 	0.685 	1.11 	0.855 	0.897 	0.708 	0.786
+ADPmm* 	kg Sb-eq 	4.56E-06 3.49E-06 3.59E-06 2.99E-06 4.94E-06 3.76E-06 3.88E-06 3.06E-06 3.22E-06 5.52E-06 4.14E-06 4.27E-06 3.31E-06 3.50E-06 6.53E-06 4.84E-06 4.98E-06 3.81E-06 4.04E-06 7.95E-06 5.83E-06 5.99E-06 4.53E-06 4.81E-06
+ADPf* 	MJ 	1 260 	1 050 	1 090 	990 	1 340 	1 100 	1 150 	980 	1 040 	1 470 	1 190 	1 240 	1 040 	1 120 	1 670 	1 330 	1 390 	1 150 	1 240 	1 950 	1 530 	1 590 	1 290 	1 400
+WDP* 	m³ world equiv 	12.1 	10.3 	10.8 	10.0 	12.5 	10.6 	11.1 	9.51 	10.3 	13.5 	11.2 	11.8 	10.0 	10.9 	14.9 	12.3 	12.9 	10.8 	11.7 	17.1 	13.9 	14.5 	12.0 	13.0
+30	CONCRETE | ENVIRONMENTAL PRODUCT DECLARATION
+
+-- 16 of 37 --
+
+ELIZABETH | A1-A3
+WASTE CATEGORIES AND OUTPUT FLOWS
+RESOURCE USE INDICATORS
+CONCRETE | ENVIRONMENTAL PRODUCT DECLARATION 	33
+Table 20. Module A1-A3 Resource use indicators results for 1 m3 of product produced at Elizabeth batch plant
+ELIZABETH | A1 - A3
+MIX NAME 	N2020P 	N2520P 	N3220P 	N4020P 	N5020P
+PARAMETER 	UNIT 	Ref 	F30 	S30 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50
+PERE 	MJ	MJ 	113 	80.7 	83.3 	64.7 	125 	88.8 	92.2 	67.1 	71.6 	144 	102 	106 	76.9 	82.0 	175 	124 	128 	92.6 	98.7 	218 	154 	158 	114 	121
+PERM 	MJ	MJ 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+PERT 	MJ	MJ 	113 	80.7 	83.3 	64.7 	125 	88.8 	92.2 	67.1 	71.6 	144 	102 	106 	76.9 	82.0 	175 	124 	128 	92.6 	98.7 	218 	154 	158 	114 	121
+PENRE 	MJ	MJ 	1 260 	1 050 	1 090 	990 	1 340 	1 100 	1 150 	980 	1 040 	1 470 	1 190 	1 240 	1 040 	1 120 	1 670 	1 330 	1 390 	1 150 	1 240 	1 950 	1 530 	1 590 	1 290 	1 400
+PENRM 	MJ	MJ 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+PENRT 	MJ	MJ 	1 260 	1 050 	1 090 	990 	1 340 	1 100 	1 150 	980 	1 040 	1 470 	1 190 	1 240 	1 040 	1 120 	1 670 	1 330 	1 390 	1 150 	1 240 	1 950 	1 530 	1 590 	1 290 	1 400
+SM 	kg	kg 	0.0822 	49.5 	49.5 	106 	0.0910 	63.6 	63.6 	126 	126 	0.106 	68.7 	68.7 	141 	141 	0.129 	72.7 	72.7 	161 	161 	0.161 	75.8 	75.8 	187 	187
+RSF 	MJ	MJ 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+NRSF 	MJ	MJ 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+FW 	mm 33 	0.495 	0.423 	0.443 	0.413 	0.514 	0.436 	0.458 	0.395 	0.426 	0.553 	0.464 	0.487 	0.416 	0.449 	0.612 	0.506 	0.530 	0.447 	0.483 	0.699 	0.569 	0.593 	0.494 	0.535
+Table 21. Module A1-A3 Waste categories and output flows results for 1 m3 of product produced at Elizabeth batch plant
+ELIZABETH | A1 - A3
+MIX NAME 	N2020P 	N2520P 	N3220P 	N4020P 	N5020P
+PARAMETER 	UNIT 	Ref 	F30 	S30 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50
+HWD 	kg 	0.00272 	0.00243 	0.00243 	0.00242 	0.00297 	0.00271 	0.00271 	0.00271 	0.00271 	0.00297 	0.00263 	0.00263 	0.00262 	0.00262 	0.00363 	0.00312 	0.00312 	0.00311 	0.00311 	0.00453 	0.00378 	0.00378 	0.00377 	0.00377
+NHWD 	kg 	1.29 	1.13 	1.13 	1.03 	1.35 	1.17 	1.18 	1.05 	1.06 	1.47 	1.26 	1.27 	1.12 	1.14 	1.64 	1.39 	1.40 	1.22 	1.24 	1.84 	1.53 	1.54 	1.31 	1.33
+RWD 	kg 	0.0270 	0.0191 	0.0191 	0.0140 	0.0298 	0.0211 	0.0212 	0.0154 	0.0155 	0.0344 	0.0244 	0.0244 	0.0177 	0.0178 	0.0420 	0.0297 	0.0297 	0.0215 	0.0216 	0.0524 	0.0370 	0.0370 	0.0268 	0.0269
+CRU 	kg 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+MFR 	kg 	20.1 	20.1 	20.1 	20.1 	20.1 	20.1 	20.1 	20.1 	20.1 	20.1 	20.1 	20.1 	20.1 	20.1 	20.1 	20.1 	20.1 	20.1 	20.1 	20.1 	20.1 	20.1 	20.1 	20.1
+MER 	kg 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+EEE 	MJ 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+EET 	MJ 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+32	CONCRETE | ENVIRONMENTAL PRODUCT DECLARATION
+
+-- 17 of 37 --
+
+ENVIRONMENTAL IMPACT INDICATORS | EN15804+A1
+ELIZABETH | A1-A3
+ADDITIONAL ENVIRONMENTAL IMPACT INDICATORS
+BIOGENIC CARBON INDICATORS
+*The results of this environmental impact indicator shall be used with
+care as the uncertainties on these results are high or as there is limited
+experience with the indicator
+**This indicator is calculated using the characterisation factors from the
+IPCC AR5 report (IPCC 2013) and has been included in the EPD following
+the PCR
+***This impact category deals mainly with the eventual impact of low
+dose ionizing radiation on human health of the nuclear fuel cycle. It does
+not consider effects due to possible nuclear accidents, occupational
+exposure nor due to radioactive waste disposal in underground
+facilities Potential ionizing radiation from the soil, from radon and some
+construction materials, is also not measured by this indicator.
+CONCRETE | ENVIRONMENTAL PRODUCT DECLARATION 	35
+Table 22. Module A1-A3 Biogenic carbon indicators results for 1 m3 of product produced at Elizabeth batch plant
+ELIZABETH | A1 - A3
+MIX NAME 	N2020P 	N2520P 	N3220P 	N4020P 	N5020P
+PARAMETER 	UNIT 	Ref 	F30 	S30 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50
+BCC-prod 	kg C 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+Table 23. Module A1-A3 Additional environmental impact indicators results for 1 m3 of product produced at Elizabeth batch plant
+ELIZABETH | A1 - A3
+MIX NAME 	N2020P 	N2520P 	N3220P 	N4020P 	N5020P
+PARAMETER 	UNIT 	Ref 	F30 	S30 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50
+GWP-GHG** 	kg CO2
+-eq 	276 	205 	208 	164 	301 	223 	226 	173 	178 	343 	252 	256 	194 	200 	410 	299 	303 	228 	234 	502 	364 	368 	274 	282
+PM Disease
+incidences 	8.81E-06 7.14E-06 7.73E-06 7.31E-06 9.39E-06 7.55E-06 8.31E-06 6.82E-06 7.84E-06 1.04E-05 8.22E-06 9.05E-06 7.33E-06 8.50E-06 1.19E-05 9.32E-06 1.02E-05 8.13E-06 9.52E-06 1.41E-05 1.08E-05 1.18E-05 9.24E-06 1.09E-05
+IRP*** 	kBq U235 eq. 	4.48 	3.17 	3.17 	2.30 	4.96 	3.50 	3.50 	2.53 	2.54 	5.74 	4.04 	4.05 	2.92 	2.93 	7.00 	4.93 	4.93 	3.56 	3.56 	8.74 	6.14 	6.15 	4.43 	4.44
+ETP-fw* 	CTUe 	469 	393 	396 	349 	496 	412 	416 	359 	365 	543 	444 	449 	382 	389 	615 	495 	500 	418 	427 	716 	565 	571 	469 	479
+HTPc* 	CTUh 	2.86E-08 2.11E-08 2.14E-08 1.67E-08 3.12E-08 2.30E-08 2.33E-08 1.77E-08 1.81E-08 3.56E-08 2.61E-08 2.64E-08 1.99E-08 2.04E-08 4.27E-08 3.10E-08 3.14E-08 2.35E-08 2.40E-08 5.24E-08 3.78E-08 3.82E-08 2.83E-08 2.90E-08
+HTPnc* 	CTUh 	2.46E-06 1.78E-06 1.79E-06 1.34E-06 2.71E-06 1.95E-06 1.96E-06 1.45E-06 1.47E-06 3.12E-06 2.23E-06 2.25E-06 1.65E-06 1.68E-06 3.77E-06 2.69E-06 2.71E-06 1.98E-06 2.01E-06 4.67E-06 3.32E-06 3.34E-06 2.43E-06 2.46E-06
+SQP* 	Pt 	284 	269 	268 	254 	290 	271 	271 	257 	256 	301 	280 	280 	264 	262 	313 	288 	288 	267 	266 	326 	296 	296 	269 	270
+Table 24. Module A1-A3 Environmental impact indicators EN15804+A1 for 1 m3 of product produced at Elizabeth batch plant
+ELIZABETH | A1 - A3
+MIX NAME 	N2020P 	N2520P 	N3220P 	N4020P 	N5020P
+PARAMETER 	UNIT 	Ref 	F30 	S30 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50
+GWP 	kg CO2
+-eq 	278 	207 	210 	166 	303 	224 	228 	175 	179 	345 	254 	258 	196 	201 	413 	301 	305 	230 	236 	506 	366 	371 	276 	284
+ODP 	kg CFC11
+-eq. 	4.60E-08 4.92E-08 4.81E-08 4.78E-08 4.36E-08 4.62E-08 4.52E-08 4.65E-08 4.49E-08 3.48E-08 3.73E-08 3.65E-08 3.74E-08 3.62E-08 2.41E-08 2.66E-08 2.60E-08 2.66E-08 2.56E-08 2.02E-08 2.33E-08 2.27E-08 2.33E-08 2.23E-08
+AP 	kg SO2
+-eq 	0.573 	0.460 	0.530 	0.535 	0.612 	0.488 	0.578 	0.464 	0.583 	0.678 	0.534 	0.631 	0.501 	0.637 	0.785 	0.608 	0.711 	0.557 	0.719 	0.932 	0.712 	0.818 	0.632 	0.828
+EP 	kg PO 4
+3- -eq. 	0.0921 	0.0759 	0.0789 	0.0716 	0.0979 	0.0799 	0.0838 	0.0705 	0.0758 	0.108 	0.0866 	0.0909 	0.0755 	0.0815 	0.123 	0.0974 	0.102 	0.0833 	0.0905 	0.144 	0.112 	0.117 	0.0941 	0.103
+POCP 	kg C 2 H 4 -eq. 	0.0139 	0.00440 	0.00754 	0.00485 	0.0172 	0.00676 	0.0108 	0.00243 	0.00782 	0.0227 	0.0106 	0.0149 	0.00530 	0.0114 	0.0317 	0.0169 	0.0215 	0.00995 	0.0172 	0.0442 	0.0256 	0.0304 	0.0163 	0.0251
+ADPE 	kg Sb eq. 	4.73E-06 3.61E-06 3.71E-06 3.08E-06 5.13E-06 3.89E-06 4.02E-06 3.15E-06 3.32E-06 5.74E-06 4.29E-06 4.43E-06 3.43E-06 3.62E-06 6.80E-06 5.03E-06 5.17E-06 3.95E-06 4.18E-06 8.28E-06 6.07E-06 6.22E-06 4.70E-06 4.98E-06
+ADPF 	MJ 	1 190 	990 	1 030 	950 	1 250 	1 040 	1 090 	930 	1 000 	1 370 	1 120 	1 170 	990 	1 070 	1 550 	1 250 	1 310 	1 080 	1 170 	1 810 	1 430 	1 490 	1 210 	1 320
+34	CONCRETE | ENVIRONMENTAL PRODUCT DECLARATION
+
+-- 18 of 37 --
+
+MILE END | A1-A3
+CORE ENVIRONMENTAL IMPACT INDICATORS | EN15804+A2
+*The results of this environmental impact indicator shall be used with care as the uncertainties on
+these results are high or as there is limited experience with the indicator.
+CONCRETE | ENVIRONMENTAL PRODUCT DECLARATION 	37
+Table 25. Module A1-A3 Core environmental impact indicator results for 1 m3 of product produced at Mile End batch plant
+MILE END | A1 - A3
+MIX NAME 	N2010P 	N2020P 	N2520P 	N3220P 	N4020P
+PARAMETER 	UNIT 	- 	100 	100 	120 	Ref 	F30 	S30 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50
+GWPt 	kg CO2
+-eq 	193 	199 	230 	238 	266 	195 	198 	154 	291 	213 	216 	163 	168 	334 	242 	246 	184 	190 	402 	290 	294 	218 	225
+GWPf 	kg CO2
+-eq 	190 	196 	226 	234 	263 	192 	195 	151 	288 	210 	214 	160 	165 	330 	240 	244 	182 	188 	398 	287 	291 	216 	222
+GWPb 	kg CO2
+-eq 	3.14 	3.22 	3.64 	3.75 	2.87 	2.40 	2.39 	2.06 	3.06 	2.53 	2.52 	2.17 	2.15 	3.39 	2.77 	2.76 	2.35 	2.34 	3.87 	3.12 	3.11 	2.61 	2.59
+GWPluluc 	kg CO2
+-eq 	0.00952 	0.00987 	0.0108 	0.0111 	0.0171 	0.0124 	0.0131 	0.0108 	0.0188 	0.0135 	0.0145 	0.0106 	0.0119 	0.0216 	0.0155 	0.0165 	0.0121 	0.0136 	0.0261 	0.0186 	0.0198 	0.0144 	0.0161
+ODP 	kg CFC-11 eq 	7.17E-08 7.17E-08 7.17E-08 7.17E-08 6.62E-08 7.07E-08 6.92E-08 6.88E-08 6.27E-08 6.65E-08 6.51E-08 6.69E-08 6.46E-08 5.00E-08 5.37E-08 5.25E-08 5.39E-08 5.21E-08 3.46E-08 3.83E-08 3.74E-08 3.83E-08 3.70E-08
+AP 	Mole of H+eq 	0.605 	0.623 	0.620 	0.639 	0.641 	0.495 	0.575 	0.569 	0.693 	0.532 	0.634 	0.491 	0.628 	0.779 	0.591 	0.702 	0.538 	0.695 	0.918 	0.688 	0.806 	0.611 	0.797
+EPfw 	kg P eq 	1.84E-04 1.84E-04 1.84E-04 1.85E-04 2.12E-04 2.01E-04 2.02E-04 1.95E-04 2.17E-04 2.04E-04 2.05E-04 1.96E-04 1.97E-04 2.24E-04 2.09E-04 2.10E-04 1.99E-04 2.01E-04 2.35E-04 2.17E-04 2.18E-04 2.05E-04 2.07E-04
+EPm 	kg N eq 	0.188 	0.193 	0.208 	0.214 	0.220 	0.173 	0.182 	0.162 	0.237 	0.185 	0.197 	0.158 	0.174 	0.265 	0.205 	0.217 	0.173 	0.191 	0.309 	0.236 	0.249 	0.196 	0.217
+EPt 	Mole of N eq 	2.09 	2.15 	2.32 	2.39 	2.43 	1.91 	2.01 	1.78 	2.61 	2.04 	2.17 	1.74 	1.91 	2.92 	2.26 	2.39 	1.90 	2.09 	3.42 	2.60 	2.75 	2.15 	2.38
+POCP 	kg NMVOC eq 	0.488 	0.502 	0.541 	0.557 	0.585 	0.453 	0.480 	0.424 	0.632 	0.486 	0.521 	0.412 	0.459 	0.710 	0.540 	0.579 	0.453 	0.506 	0.835 	0.628 	0.669 	0.516 	0.580
+ADPmm* 	kg Sb-eq 	1.62E-06 1.66E-06 1.71E-06 1.75E-06 4.29E-06 3.23E-06 3.32E-06 2.73E-06 4.68E-06 3.50E-06 3.62E-06 2.80E-06 2.96E-06 5.25E-06 3.88E-06 4.01E-06 3.06E-06 3.25E-06 6.26E-06 4.58E-06 4.73E-06 3.56E-06 3.79E-06
+ADPf* 	MJ 	826 	843 	885 	908 	1 080 	870 	910 	810 	1 160 	930 	980 	800 	870 	1 290 	1 020 	1 070 	870 	950 	1 500 	1 160 	1 220 	980 	1 070
+WDP* 	m³ world equiv 	8.10 	8.39 	8.46 	8.57 	10.1 	8.31 	8.81 	8.06 	10.6 	8.66 	9.21 	7.59 	8.38 	11.6 	9.36 	9.93 	8.14 	8.97 	13.1 	10.5 	11.0 	8.97 	9.87
+MIX NAME 	N5020P 	S1020 	S1520 	S2020P 	S2520 	S3220 	S4010
+PARAMETER 	UNIT 	Ref 	F30 	S30 	T50 	S50 	PLC1 	PLC1120 	PLC2120 	200 	PLC1 	E1100 	PLC2 	LSLC2 	PLC2XYP 	PLC2120 	E1100 	SCPH
+GWPt 	kg CO2
+-eq 	495 	355 	360 	265 	273 	139 	155 	106 	232 	200 	187 	219 	153 	160 	216 	231 	305
+GWPf 	kg CO2
+-eq 	490 	352 	356 	262 	270 	137 	154 	105 	228 	198 	184 	216 	151 	158 	214 	228 	301
+GWPb 	kg CO2
+-eq 	4.47 	3.54 	3.52 	2.89 	2.87 	1.70 	1.81 	1.45 	3.58 	2.13 	2.97 	2.27 	1.79 	1.86 	2.24 	3.54 	4.47
+GWPluluc 	kg CO2
+-eq 	0.0324 	0.0230 	0.0242 	0.0175 	0.0196 	0.00927 	0.0104 	0.00778 	0.0114 	0.0136 	0.0100 	0.0153 	0.0117 	0.0118 	0.0152 	0.0122 	0.0139
+ODP 	kg CFC-11 eq 	2.90E-08 	3.35E-08 	3.26E-08 	3.35E-08 	3.21E-08 	7.76E-08 	7.60E-08 	7.80E-08 	7.19E-08 	6.35E-08 	6.35E-08 	4.84E-08 	4.09E-08 	5.12E-08 	4.83E-08 	4.87E-08 	1.91E-07
+AP 	Mole of H+eq 	1.11 	0.822 	0.945 	0.708 	0.933 	0.463 	0.505 	0.501 	0.692 	0.633 	0.669 	0.760 	0.707 	0.735 	0.751 	0.813 	0.807
+EPfw 	kg P eq 	2.51E-04 	2.28E-04 	2.29E-04 	2.13E-04 	2.15E-04 	1.92E-04 	1.94E-04 	1.87E-04 	1.87E-04 	2.03E-04 	1.83E-04 	2.10E-04 	1.96E-04 	2.06E-04 	2.07E-04 	1.92E-04 	2.00E-04
+EPm 	kg N eq 	0.371 	0.279 	0.293 	0.227 	0.252 	0.145 	0.154 	0.132 	0.218 	0.189 	0.192 	0.213 	0.175 	0.188 	0.209 	0.232 	0.267
+EPt 	Mole of N eq 	4.10 	3.08 	3.23 	2.49 	2.77 	1.59 	1.69 	1.44 	2.41 	2.08 	2.13 	2.31 	1.92 	1.99 	2.28 	2.54 	2.91
+POCP 	kg NMVOC eq 	1.01 	0.749 	0.791 	0.603 	0.680 	0.375 	0.402 	0.341 	0.566 	0.500 	0.502 	0.562 	0.465 	0.484 	0.555 	0.602 	0.687
+ADPmm* 	kg Sb-eq 	7.67E-06 	5.57E-06 	5.72E-06 	4.27E-06 	4.55E-06 	2.46E-06 	2.69E-06 	2.04E-06 	1.89E-06 	3.41E-06 	1.67E-06 	3.83E-06 	2.76E-06 	3.19E-06 	3.72E-06 	2.14E-06 	2.64E-06
+ADPf* 	MJ 	1 780 	1 360 	1 420 	1 120 	1 230 	740 	780 	670 	939 	950 	845 	1 080 	880 	990 	1 040 	1 030 	1 160
+WDP* 	m³ world equiv 	15.2 	12.0 	12.6 	10.1 	11.1 	7.56 	7.75 	6.94 	9.15 	8.81 	7.90 	9.61 	8.08 	9.01 	9.31 	9.42 	10.0
+36	CONCRETE | ENVIRONMENTAL PRODUCT DECLARATION
+
+-- 19 of 37 --
+
+MILE END | A1-A3
+CORE ENVIRONMENTAL IMPACT INDICATORS | EN15804+A2 CONT'D
+MIX NAME 	S5020 	S6510 	S6520 	S8010 	CLSM 	NO FINES
+PARAMETER 	UNIT 	E1200 	METALDIT 	SCPLC2 	SCPEC2 	PLC2120 	E2150 	COLSCLC2 	SCPEC2 	PEB 	SB 	3 	4 	5 	15 	-
+GWPt 	kg CO2
+-eq 	292 	288 	245 	307 	257 	326 	282 	339 	88.9 	142 	72.7 	85.1 	97.5 	167 	167
+GWPf 	kg CO2
+-eq 	288 	284 	242 	304 	255 	322 	279 	336 	87.3 	139 	71.3 	83.6 	95.9 	164 	165
+GWPb 	kg CO2
+-eq 	4.18 	4.31 	2.31 	2.80 	2.40 	4.50 	2.45 	3.02 	1.58 	2.50 	1.37 	1.53 	1.69 	2.58 	2.64
+GWPluluc 	kg CO2
+-eq 	0.0157 	0.0135 	0.0185 	0.0203 	0.0204 	0.0192 	0.0218 	0.0225 	0.00407 	0.00759 	0.00321 	0.00380 	0.00440 	0.00743 	0.00883
+ODP 	kg CFC-11 eq 	7.21E-08 	7.19E-08 	1.51E-07 	1.63E-07 	3.56E-08 	7.23E-08 	1.68E-07 	1.56E-07 	2.16E-07 	1.23E-09 	2.22E-07 	2.19E-07 	2.16E-07 	2.38E-07 	1.24E-09
+AP 	Mole of H+eq 	1.01 	0.759 	1.11 	0.894 	1.17 	1.34 	1.28 	0.980 	0.290 	0.544 	0.267 	0.296 	0.324 	0.486 	0.537
+EPfw 	kg P eq 	1.94E-04 	1.89E-04 	2.26E-04 	2.32E-04 	2.17E-04 	2.02E-04 	2.32E-04 	2.39E-04 	1.74E-04 	1.80E-04 	1.79E-04 	1.80E-04 	1.80E-04 	1.88E-04 	1.72E-04
+EPm 	kg N eq 	0.281 	0.252 	0.262 	0.267 	0.271 	0.330 	0.296 	0.292 	0.101 	0.156 	0.0922 	0.101 	0.110 	0.160 	0.169
+EPt 	Mole of N eq 	3.09 	2.80 	2.78 	2.87 	2.95 	3.61 	3.16 	3.13 	1.12 	1.73 	1.02 	1.12 	1.22 	1.77 	1.89
+POCP 	kg NMVOC eq 	0.740 	0.657 	0.693 	0.704 	0.734 	0.878 	0.790 	0.770 	0.250 	0.404 	0.229 	0.254 	0.278 	0.411 	0.439
+ADPmm* 	kg Sb-eq 	2.53E-06 	2.12E-06 	4.85E-06 	5.45E-06 	4.63E-06 	3.12E-06 	5.51E-06 	6.00E-06 	1.06E-06 	1.30E-06 	1.59E-06 	1.64E-06 	1.70E-06 	2.20E-06 	1.27E-06
+ADPf* 	MJ 	1 200 	1 060 	1 340 	1 360 	1 330 	1 420 	1 490 	1 480 	467 	709 	469 	500 	530 	734 	707
+WDP* 	m³ world equiv 	10.4 	9.63 	10.7 	11.4 	11.3 	11.4 	12.5 	12.0 	6.30 	7.38 	6.57 	6.75 	6.94 	8.09 	4.42
+Table 25 cont'd. Module A1-A3 Core environmental impact indicator results for 1 m3 of product produced at Mile End batch plant
+MILE END | A1 - A3
+MIX NAME 	S4020 	S5010
+PARAMETER 	UNIT 	E1100 	E1150H 	E2 	E2100 	E2120 	E2150 	E2150F 	E2200 	E3150 	E3150F 	PTLC2 	COLLC1 	COLLC2 PLC1120 PLC2120 PLC2XYP DW500D DW500D3 	E1150H 	SCPLC2 	SCPH
+GWPt 	kg CO2
+-eq 	267 	270 	227 	215 	231 	229 	226 	229 	175 	173 	188 	290 	198 	287 	187 	207 	252 	253 	294 	297 	306
+GWPf 	kg CO2
+-eq 	263 	266 	224 	212 	228 	225 	223 	226 	172 	170 	186 	287 	196 	285 	185 	205 	248 	250 	290 	294 	301
+GWPb 	kg CO2
+-eq 	3.91 	4.05 	3.34 	3.19 	3.39 	3.36 	3.38 	3.37 	2.67 	2.64 	1.99 	2.74 	2.05 	2.74 	1.99 	2.25 	3.61 	3.63 	4.44 	2.67 	4.51
+GWPluluc 	kg CO2
+-eq 	0.0145 	0.0127 	0.0135 	0.0126 	0.0134 	0.0135 	0.0123 	0.0135 	0.0103 	0.0103 	0.0147 	0.0197 	0.0151 	0.0199 	0.0146 	0.0146 	0.0133 	0.0133 	0.0136 	0.0217 	0.0139
+ODP 	kg CFC-11 eq 	7.19E-08 	7.20E-08 	7.18E-08 	7.20E-08 	7.21E-08 	7.19E-08 	7.21E-08 	7.20E-08 	7.22E-08 	7.21E-08 	3.11E-08 	1.05E-07 	9.88E-08 	3.12E-08 	3.11E-08 	3.25E-08 	1.30E-07 	1.30E-07 	7.21E-08 	1.66E-07 	1.66E-07
+AP 	Mole of H+eq 	0.929 	0.720 	0.945 	0.898 	0.962 	0.953 	0.840 	0.954 	0.787 	0.780 	0.863 	0.886 	0.907 	0.878 	0.860 	0.936 	0.875 	0.879 	0.776 	1.15 	0.807
+EPfw 	kg P eq 	1.88E-04 	1.89E-04 	1.87E-04 	1.89E-04 	1.94E-04 	1.90E-04 	1.91E-04 	1.91E-04 	1.92E-04 	1.89E-04 	2.03E-04 	2.24E-04 	2.10E-04 	2.19E-04 	2.03E-04 	2.33E-04 	1.96E-04 	1.98E-04 	1.94E-04 	2.31E-04 	2.00E-04
+EPm 	kg N eq 	0.257 	0.240 	0.239 	0.230 	0.246 	0.242 	0.232 	0.243 	0.203 	0.200 	0.208 	0.257 	0.218 	0.255 	0.207 	0.241 	0.249 	0.252 	0.258 	0.287 	0.267
+EPt 	Mole of N eq 	2.86 	2.66 	2.65 	2.53 	2.69 	2.67 	2.53 	2.67 	2.18 	2.16 	2.27 	2.80 	2.35 	2.80 	2.25 	2.45 	2.71 	2.72 	2.85 	3.09 	2.92
+POCP 	kg NMVOC eq 	0.681 	0.623 	0.635 	0.606 	0.646 	0.640 	0.603 	0.642 	0.522 	0.517 	0.555 	0.685 	0.578 	0.685 	0.552 	0.604 	0.646 	0.649 	0.670 	0.769 	0.689
+ADPmm* 	kg Sb-eq 	2.21E-06 	2.06E-06 	2.12E-06 	2.14E-06 	2.39E-06 	2.23E-06 	2.18E-06 	2.26E-06 	2.11E-06 	2.01E-06 	3.39E-06 	4.99E-06 	3.77E-06 	4.74E-06 	3.38E-06 	4.53E-06 	2.49E-06 	2.56E-06 	2.26E-06 	5.48E-06 	2.61E-06
+ADPf* 	MJ 	1 090 	1 020 	1 030 	1 010 	1 100 	1 060 	1 030 	1 070 	949 	919 	1 030 	1 290 	1 100 	1 250 	1 020 	1 330 	1 110 	1 130 	1 110 	1 440 	1 170
+WDP* 	m³ world equiv 	9.49 	9.37 	9.03 	9.01 	9.54 	9.26 	9.20 	9.32 	8.74 	8.52 	9.10 	11.0 	9.47 	10.9 	9.01 	11.4 	10.9 	11.1 	9.98 	11.3 	10.0
+CONCRETE | ENVIRONMENTAL PRODUCT DECLARATION
+38	CONCRETE | ENVIRONMENTAL PRODUCT DECLARATION
+39
+
+-- 20 of 37 --
+
+MILE END | A1-A3
+RESOURCE USE INDICATORS
+MIX NAME 	N5020P 	S1020 	S1520 	S2020P 	S2520 	S3220 	S4010
+PARAMETER 	UNIT 	Ref 	F30 	S30 	T50 	S50 	PLC1 	PLC1120 	PLC2120 	200 	PLC1 	E110 	PLC2 	LSLC2 	PLC2XYP 	PLC2120 	E110 	SCPH
+PERE 	MJ	MJ 	216 	152 	156 	113 	120 	55.3 	63.6 	42.8 	46.5 	84.1 	39.4 	94.3 	65.5 	69.8 	93.2 	50.7 	61.4
+PERM 	MJ	MJ 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+PERT 	MJ	MJ 	216 	152 	156 	113 	120 	55.3 	63.6 	42.8 	46.5 	84.1 	39.4 	94.3 	65.5 	69.8 	93.2 	50.7 	61.4
+PENRE 	MJ	MJ 	1 780 	1 360 	1 420 	1 120 	1 230 	740 	780 	670 	939 	950 	845 	1 080 	880 	990 	1 040 	1 030 	1 160
+PENRM 	MJ	MJ 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+PENRT 	MJ	MJ 	1 780 	1 360 	1 420 	1 120 	1 230 	740 	780 	670 	939 	950 	845 	1 080 	880 	990 	1 040 	1 030 	1 160
+SM 	kg	kg 	0.160 	75.3 	75.3 	186 	186 	54.2 	63.2 	126 	42.2 	84.3 	98.3 	140 	199 	199 	140 	123 	139
+RSF 	MJ	MJ 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+NRSF 	MJ	MJ 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+FW 	mm 33 	0.642 	0.513 	0.537 	0.439 	0.480 	0.332 	0.343 	0.311 	0.416 	0.386 	0.369 	0.414 	0.360 	0.382 	0.407 	0.425 	0.456
+Table 26. Module A1-A3 Resource use indicators results for 1 m3 of product produced at Mile End batch plant
+MILE END | A1 - A3
+MIX NAME 	N2010P 	N2020P 	N2520P 	N3220P 	N4020P
+PARAMETER 	UNIT 	- 	100 	100 	120 	Ref 	F30 	S30 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50
+PERE 	MJ	MJ 	38.0 	39.5 	43.3 	44.9 	112 	79.2 	81.8 	63.3 	123 	87.4 	90.7 	65.8 	70.3 	142 	101 	104 	75.5 	80.6 	173 	122 	126 	91.1 	97.2
+PERM 	MJ	MJ 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+PERT 	MJ	MJ 	38.0 	39.5 	43.3 	44.9 	112 	79.2 	81.8 	63.3 	123 	87.4 	90.7 	65.8 	70.3 	142 	101 	104 	75.5 	80.6 	173 	122 	126 	91.1 	97.2
+PENRE 	MJ	MJ 	826 	844 	885 	908 	1 080 	870 	910 	810 	1 160 	930 	980 	800 	870 	1 290 	1 020 	1 070 	870 	950 	1 500 	1 160 	1 220 	980 	1 070
+PENRM 	MJ	MJ 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+PENRT 	MJ	MJ 	826 	844 	885 	908 	1 080 	870 	910 	810 	1 160 	930 	980 	800 	870 	1 290 	1 020 	1 070 	870 	950 	1 500 	1 160 	1 220 	980 	1 070
+SM 	kg	kg 	48.2 	50.2 	0.140 	0.146 	0.0817 	49.2 	49.2 	105 	0.0905 	63.2 	63.2 	125 	125 	0.105 	68.2 	68.2 	140 	140 	0.128 	72.3 	72.3 	160 	160
+RSF 	MJ	MJ 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+NRSF 	MJ	MJ 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+FW 	mm 33 	0.374 	0.385 	0.394 	0.400 	0.435 	0.364 	0.384 	0.354 	0.456 	0.379 	0.401 	0.337 	0.368 	0.495 	0.407 	0.430 	0.359 	0.392 	0.557 	0.451 	0.475 	0.392 	0.429
+CONCRETE | ENVIRONMENTAL PRODUCT DECLARATION
+40	CONCRETE | ENVIRONMENTAL PRODUCT DECLARATION
+41
+
+-- 21 of 37 --
+
+MILE END | A1-A3
+RESOURCE USE INDICATORS CONT'D
+MIX NAME 	S5020 	S6510 	S6520 	S8010 	CLSM 	NO FINES
+PARAMETER 	UNIT 	E1200 	METALDIT 	SCPLC2 	SCPEC2 	LC2120 	E2150 	COLSCLC2 	SCPEC2 	PEB 	SB 	3 	4 	5 	15 	-
+PERE 	MJ	MJ 	64.5 	56.1 	112 	134 	117 	79.0 	131 	149 	15.2 	29.9 	13.5 	16.0 	18.4 	33.0 	33.1
+PERM 	MJ	MJ 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+PERT 	MJ	MJ 	64.5 	56.1 	112 	134 	117 	79.0 	131 	149 	15.2 	29.9 	13.5 	16.0 	18.4 	33.0 	33.1
+PENRE 	MJ	MJ 	1 200 	1 060 	1 340 	1 360 	1 330 	1 420 	1 490 	1 480 	467 	709 	469 	500 	530 	734 	707
+PENRM 	MJ	MJ 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+PENRT 	MJ	MJ 	1 200 	1 060 	1 340 	1 360 	1 330 	1 420 	1 490 	1 480 	467 	709 	469 	500 	530 	734 	707
+SM 	kg	kg 	162 	133 	331 	209 	361 	326 	391 	233 	33.1 	90.3 	0.0321 	0.0409 	0.0496 	70.3 	42.2
+RSF 	MJ	MJ 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+NRSF 	MJ	MJ 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+FW 	mm 33 	0.476 	0.445 	0.458 	0.481 	0.490 	0.526 	0.524 	0.508 	0.287 	0.339 	0.285 	0.295 	0.304 	0.358 	0.256
+Table 26 cont'd. Module A1-A3 Resource use indicators results for 1 m3 of product produced at Mile End batch plant
+MILE END | A1 - A3
+MIX NAME 	S4020 	S5010
+PARAMETER 	UNIT 	E1100 	E1150H 	E2 	E2100 	E2120 	E2150 	E2150F 	E2200 	E3150 	E3150F 	PTLC2 	COLLC1 	COLLC2 PLC1120 PLC2120 PLC2XYP DW500D DW500D3 	E1150H 	SCPLC2 	SCPH
+PERE 	MJ	MJ 	57.4 	58.0 	52.5 	50.5 	55.3 	53.6 	50.8 	53.9 	43.5 	42.4 	83.0 	126 	88.4 	125 	83.0 	95.1 	56.3 	57.0 	58.0 	134 	61.5
+PERM 	MJ	MJ 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+PERT 	MJ	MJ 	57.4 	58.0 	52.5 	50.5 	55.3 	53.6 	50.8 	53.9 	43.5 	42.4 	83.0 	126 	88.4 	125 	83.0 	95.1 	56.3 	57.0 	58.0 	134 	61.5
+PENRE 	MJ	MJ 	1 090 	1 110 	1 030 	1 010 	1 100 	1 060 	1 030 	1 070 	949 	919 	1 030 	1 290 	1 100 	1 260 	1 020 	1 330 	1 110 	1 130 	1 110 	1 440 	1 170
+PENRM 	MJ	MJ 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+PENRT 	MJ	MJ 	1 090 	1 110 	1 030 	1 010 	1 100 	1 060 	1 030 	1 070 	949 	919 	1 030 	1 290 	1 100 	1 260 	1 020 	1 330 	1 110 	1 130 	1 110 	1 440 	1 170
+SM 	kg	kg 	148 	169 	221 	206 	221 	221 	221 	221 	287 	287 	253 	126 	265 	126 	253 	253 	251 	251 	169 	289 	139
+RSF 	MJ	MJ 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+NRSF 	MJ	MJ 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+FW 	mm 33 	0.444 	0.455 	0.422 	0.415 	0.434 	0.428 	0.419 	0.429 	0.389 	0.384 	0.401 	0.469 	0.412 	0.470 	0.398 	0.455 	0.474 	0.478 	0.455 	0.490 	0.456
+CONCRETE | ENVIRONMENTAL PRODUCT DECLARATION
+42	CONCRETE | ENVIRONMENTAL PRODUCT DECLARATION
+43
+
+-- 22 of 37 --
+
+MILE END | A1-A3
+WASTE CATEGORIES AND OUTPUT FLOWS
+CONCRETE | ENVIRONMENTAL PRODUCT DECLARATION 	45
+Table 27. Module A1-A3 Waste categories and output flows results for 1 m3 of product produced at Mile End batch plant
+MILE END | A1 - A3
+MIX NAME 	N2010P 	N2020P 	N2520P 	N3220P 	N4020P
+PARAMETER 	UNIT 	- 	100 	100 	120 	Ref 	F30 	S30 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50
+HWD 	kg 	0.00283 	0.00294 	0.00278 	0.00289 	0.00270 	0.00241 	0.00241 	0.00240 	0.00295 	0.00270 	0.00270 	0.00269 	0.00269 	0.00295 	0.00261 	0.00261 	0.00261 	0.00261 	0.00360 	0.00310 	0.00310 	0.00309 	0.00309
+NHWD 	kg 	6.48 	6.48 	6.48 	6.49 	6.83 	6.67 	6.68 	6.57 	6.90 	6.72 	6.73 	6.60 	6.61 	7.02 	6.81 	6.82 	6.67 	6.68 	7.19 	6.94 	6.95 	6.76 	6.78
+RWD 	kg 	0.00344 	0.00357 	0.00401 	0.00417 	0.0267 	0.0189 	0.0189 	0.0138 	0.0295 	0.0209 	0.0210 	0.0152 	0.0153 	0.0341 	0.0241 	0.0242 	0.0175 	0.0176 	0.0417 	0.0294 	0.0294 	0.0213 	0.0214
+CRU 	kg 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+MFR 	kg 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+MER 	kg 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+EEE 	MJ 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+EET 	MJ 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+MIX NAME 	N5020P 	S1020 	S1520 	S2020P 	S2520 	S3220 	S4010
+PARAMETER 	UNIT 	Ref 	F30 	S30 	T50 	S50 	PLC1 	PLC1120 	PLC2120 	200 	PLC1 	E110 	PLC2 	LSLC2 	PLC2XYP 	PLC2120 	E110 	SCPH
+HWD 	kg 	0.00451 	0.00376 	0.00376 	0.00375 	0.00375 	0.00236 	0.00239 	0.00238 	0.00555 	0.00331 	0.00346 	0.00756 	0.00308 	0.0125 	0.00514 	0.00921 	0.0139
+NHWD 	kg 	7.38 	7.07 	7.08 	6.85 	6.87 	6.53 	6.56 	6.45 	6.45 	6.68 	6.42 	6.74 	6.60 	6.61 	6.73 	6.49 	6.43
+RWD 	kg 	0.0520 	0.0367 	0.0367 	0.0266 	0.0266 	0.0125 	0.0144 	0.00865 	0.00477 	0.0192 	0.00353 	0.0217 	0.0133 	0.0158 	0.0210 	0.00566 	0.00802
+CRU 	kg 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+MFR 	kg 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+MER 	kg 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+EEE 	MJ 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+EET 	MJ 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+44	CONCRETE | ENVIRONMENTAL PRODUCT DECLARATION
+
+-- 23 of 37 --
+
+MILE END | A1-A3
+WASTE CATEGORIES AND OUTPUT FLOWS CONT'D
+Table 27 cont'd. Module A1-A3 Waste categories and output flows results for 1 m3 of product produced at Mile End batch plant
+MILE END | A1 - A3
+MIX NAME 	S4020 	S5010
+PARAMETER 	UNIT 	E1100 	E1150H 	E2 	E2100 	E2120 	E2150 	E2150F 	E2200 	E3150 	E3150F 	PTLC2 	COLLC1 	COLLC2 PLC1120 PLC2120 PLC2XYP DW500D DW500D3 	E1150H 	SCPLC2 	SCPH
+HWD 	kg 	0.00488 	0.00750 	0.00436 	0.00707 	0.0105 	0.00681 	0.00918 	0.00748 	0.0119 	0.00948 	0.00476 	0.00859 	0.00880 	0.00496 	0.00495 	0.0315 	0.0130 	0.0146 	0.00939 	0.0124 	0.0139
+NHWD 	kg 	6.45 	6.42 	6.43 	6.41 	6.44 	6.44 	6.43 	6.44 	6.38 	6.37 	6.67 	6.88 	6.67 	6.91 	6.66 	6.74 	6.36 	6.37 	6.52 	6.84 	6.46
+RWD 	kg 	0.00508 	0.00589 	0.00431 	0.00484 	0.00596 	0.00497 	0.00558 	0.00515 	0.00548 	0.00485 	0.0171 	0.0296 	0.0189 	0.0287 	0.0171 	0.0243 	0.00698 	0.00742 	0.00670 	0.0302 	0.00802
+CRU 	kg 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+MFR 	kg 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+MER 	kg 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+EEE 	MJ 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+EET 	MJ 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+MIX NAME 	S5020 	S6510 	S6520 	S8010 	CLSM 	NOFINES
+PARAMETER 	UNIT 	E1200 	METALDIT 	SCPLC2 	SCPEC2 	PLC2120 	E2150 	COLSCLC2 	SCPEC2 	PEB 	SB 	3 	4 	5 	15 	-
+HWD 	kg 	0.00955 	0.00667 	0.0164 	0.0138 	0.00730 	0.0133 	0.0167 	0.0157 	1.81E-05 	0.00240 	0.00411 	0.00412 	0.00412 	0.00802 	0.00117
+NHWD 	kg 	6.44 	6.46 	6.72 	6.85 	6.81 	6.49 	6.74 	6.92 	6.15 	6.48 	6.15 	6.16 	6.17 	6.22 	6.25
+RWD 	kg 	0.00668 	0.00593 	0.0250 	0.0326 	0.0245 	0.00805 	0.0288 	0.0365 	0.00119 	0.00255 	0.00191 	0.00210 	0.00229 	0.00431 	0.00275
+CRU 	kg 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+MFR 	kg 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+MER 	kg 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+EEE 	MJ 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+EET 	MJ 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+CONCRETE | ENVIRONMENTAL PRODUCT DECLARATION
+46	CONCRETE | ENVIRONMENTAL PRODUCT DECLARATION
+47
+
+-- 24 of 37 --
+
+MILE END | A1-A3
+BIOGENIC CARBON INDICATORS
+Table 28. Module A1-A3 Biogenic carbon indicators results for 1 m3 of product produced at Mile End batch plant
+MILE END | A1 - A3
+MIX NAME 	N2010P 	N2020P 	N2520P 	N3220P 	N4020P
+PARAMETER 	UNIT 	- 	100 	100 	120 	Ref 	F30 	S30 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50
+BCC-prod 	kg C 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+MIX NAME 	N5020P 	S1020 	S1520 	S2020P 	S2520 	S3220 	S4010
+PARAMETER 	UNIT 	Ref 	F30 	S30 	T50 	S50 	PLC1 	PLC1120 	PLC2120 	200 	PLC1 	E1100 	PLC2 	LSLC2 	PLC2XYP 	PLC2120 	E1100 	SCPH
+BCC-prod 	kg C 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+MIX NAME 	S4020 	S5010
+PARAMETER 	UNIT 	E1100 	E1150H 	E2 	E2100 	E2120 	E2150 	E2150F 	E2200 	E3150 	E3150F 	PTLC2 	COLLC1 	COLLC2 PLC1120 PLC2120 PLC2XYP DW500D DW500D3 	E1150H 	SCPLC2 	SCPH
+BCC-prod 	kg C 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+MIX NAME 	S5020 	S6510 	S6520 	S8010 	CLSM 	NOFINES
+PARAMETER 	UNIT 	E1200 	METALDIT 	SCPLC2 	SCPEC2 	LC2120 	E2150 	COLSCLC2 	SCPEC2 	PEB 	SB 	3 	4 	5 	15 	-
+BCC-prod 	kg C 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+ADDITIONAL ENVIRONMENTAL IMPACT INDICATORS
+Table 29. Module A1-A3 Additional environmental impact indicators results for 1 m3 of product produced at Mile End batch plant
+MILE END | A1 - A3
+MIX NAME 	N2010P 	N2020P 	N2520P 	N3220P 	N4020P
+PARAMETER 	UNIT 	- 	100 	100 	120 	Ref 	F30 	S30 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50
+GWP-GHG** 	kg CO2
+-eq 	189 	195 	225 	233 	261 	191 	194 	151 	287 	209 	213 	160 	164 	329 	238 	242 	181 	186 	396 	285 	290 	215 	221
+PM Disease
+incidences 	6.40E-06 6.60E-06 6.87E-06 7.08E-06 7.22E-06 5.57E-06 6.15E-06 5.73E-06 7.81E-06 5.98E-06 6.74E-06 5.26E-06 6.27E-06 8.78E-06 6.65E-06 7.47E-06 5.77E-06 6.93E-06 1.04E-05 7.75E-06 8.62E-06 6.58E-06 7.96E-06
+IRP*** 	kBq U235 eq. 	0.504 	0.523 	0.603 	0.626 	4.44 	3.13 	3.14 	2.27 	4.91 	3.47 	3.47 	2.51 	2.51 	5.69 	4.01 	4.01 	2.89 	2.90 	6.95 	4.89 	4.89 	3.52 	3.53
+ETP-fw* 	CTUe 	218 	220 	229 	233 	398 	322 	325 	279 	426 	342 	346 	289 	295 	473 	375 	380 	314 	320 	546 	427 	432 	351 	360
+HTPc* 	CTUh 	1.84E-08 1.91E-08 2.20E-08 2.28E-08 2.73E-08 1.99E-08 2.02E-08 1.55E-08 3.00E-08 2.18E-08 2.21E-08 1.66E-08 1.70E-08 3.44E-08 2.49E-08 2.52E-08 1.88E-08 1.93E-08 4.14E-08 2.98E-08 3.02E-08 2.23E-08 2.29E-08
+HTPnc* 	CTUh 	1.01E-06 1.05E-06 1.22E-06 1.26E-06 2.41E-06 1.72E-06 1.74E-06 1.29E-06 2.65E-06 1.90E-06 1.91E-06 1.40E-06 1.42E-06 3.06E-06 2.18E-06 2.20E-06 1.61E-06 1.63E-06 3.71E-06 2.64E-06 2.65E-06 1.93E-06 1.96E-06
+SQP* 	Pt 	186 	184 	182 	184 	219 	204 	203 	190 	226 	208 	207 	194 	192 	238 	218 	217 	201 	200 	252 	228 	227 	207 	206
+CONCRETE | ENVIRONMENTAL PRODUCT DECLARATION
+48	CONCRETE | ENVIRONMENTAL PRODUCT DECLARATION
+49
+
+-- 25 of 37 --
+
+ADDITIONAL ENVIRONMENTAL IMPACT INDICATORS CONT'D
+*The results of this environmental impact indicator shall be used with care as the
+uncertainties on these results are high or as there is limited experience with the
+indicator
+**This indicator is calculated using the characterisation factors from the IPCC AR5
+report (IPCC 2013) and has been included in the EPD following the PCR
+***This impact category deals mainly with the eventual impact of low dose ionizing
+radiation on human health of the nuclear fuel cycle. It does not consider effects due
+to possible nuclear accidents, occupational exposure nor due to radioactive waste
+disposal in underground facilities Potential ionizing radiation from the soil, from
+radon and some construction materials, is also not measured by this indicator.
+Table 29 cont'd. Module A1-A3 Additional environmental impact indicators results for 1 m3 of product produced at Mile End batch plant
+MILE END | A1 - A3
+MIX NAME 	N5020P 	S1020 	S1520 	S2020 	S2520 	S3220 	S4010
+PARAMETER 	UNIT 	Ref 	F30 	S30 	T50 	S50 	PLC1 	PLC1120 	PLC2120 	200 	PLC1 	E1100 	PLC2 	LSLC2 	PLC2XYP 	PLC2120 	E1100 	SCPH
+GWP-GHG** 	kg CO2
+-eq 	488 	350 	354 	261 	269 	136 	153 	104 	227 	197 	183 	215 	150 	157 	213 	226 	299
+PM Disease
+incidences 	1.25E-05 	9.27E-06 	1.02E-05 	7.68E-06 	9.35E-06 	4.86E-06 	5.23E-06 	4.78E-06 	7.44E-06 	6.59E-06 	6.83E-06 	7.70E-06 	6.70E-06 	7.08E-06 	7.57E-06 	8.33E-06 	8.93E-06
+IRP*** 	kBq U235 eq. 	8.67 	6.10 	6.10 	4.39 	4.40 	2.05 	2.37 	1.40 	0.664 	3.16 	0.502 	3.47 	2.16 	2.37 	3.42 	0.724 	1.01
+ETP-fw* 	CTUe 	646 	497 	502 	401 	411 	263 	274 	224 	239 	330 	218 	364 	283 	318 	353 	257 	288
+HTPc* 	CTUh 	5.11E-08 	3.66E-08 	3.69E-08 	2.71E-08 	2.78E-08 	1.41E-08 	1.58E-08 	1.06E-08 	2.21E-08 	2.04E-08 	1.78E-08 	2.21E-08 	1.53E-08 	1.58E-08 	2.19E-08 	2.19E-08 	2.90E-08
+HTPnc* 	CTUh 	4.61E-06 	3.26E-06 	3.28E-06 	2.38E-06 	2.41E-06 	1.17E-06 	1.33E-06 	8.36E-07 	1.22E-06 	1.74E-06 	9.78E-07 	1.88E-06 	1.25E-06 	1.27E-06 	1.87E-06 	1.20E-06 	1.60E-06
+SQP* 	Pt 	265 	235 	235 	209 	209 	187 	183 	173 	163 	200 	164 	201 	185 	185 	197 	165 	191
+MIX NAME 	S4020 	S5010
+PARAMETER 	UNIT 	E1100 	E1150H 	E2 	E2100 	E2120 	E2150 	E2150F 	E2200 	E3150 	E3150F 	PTLC2 	COLLC1 	COLLC2 PLC1120 PLC2120 PLC2XYP DW500D DW500D3 	E1150H 	SCPLC2 	SCPH
+GWP-GHG** 	kg CO2
+-eq 	261 	265 	222 	211 	227 	224 	221 	225 	171 	169 	185 	285 	195 	283 	184 	203 	247 	248 	288 	293 	300
+PM Disease
+incidences 	9.44E-06 	8.01E-06 	9.18E-06 	8.76E-06 	9.39E-06 	9.27E-06 	8.47E-06 	9.30E-06 	7.64E-06 	7.54E-06 	8.14E-06 	9.18E-06 	8.54E-06 	9.13E-06 	8.09E-06 	9.12E-06 	9.01E-06 	9.07E-06 	8.63E-06 	1.11E-05 8.94E-06
+IRP*** 	kBq U235 eq. 	0.728 	0.806 	0.609 	0.635 	0.742 	0.662 	0.710 	0.677 	0.631 	0.580 	2.76 	4.79 	2.97 	4.72 	2.76 	3.34 	0.858 	0.893 	0.898 	4.78 	1.01
+ETP-fw* 	CTUe 	254 	254 	242 	244 	264 	252 	254 	254 	243 	233 	325 	442 	347 	433 	323 	423 	271 	277 	276 	459 	290
+HTPc* 	CTUh 	2.54E-08 	2.58E-08 	2.15E-08 	2.04E-08 	2.18E-08 	2.17E-08 	2.14E-08 	2.17E-08 	1.64E-08 	1.63E-08 	1.88E-08 	2.95E-08 	1.98E-08 	2.93E-08 	1.88E-08 	2.00E-08 	2.38E-08 	2.39E-08 	2.80E-08 	2.99E-08 2.90E-08
+HTPnc* 	CTUh 	1.40E-06 	1.43E-06 	1.18E-06 	1.11E-06 	1.19E-06 	1.19E-06 	1.17E-06 	1.19E-06 	8.87E-07 	8.81E-07 	1.56E-06 	2.56E-06 	1.63E-06 	2.56E-06 	1.56E-06 	1.61E-06 	1.31E-06 	1.31E-06 	1.55E-06 	2.56E-06 1.60E-06
+SQP* 	Pt 	155 	144 	157 	152 	156 	158 	156 	158 	146 	143 	185 	239 	209 	217 	180 	183 	179 	179 	174 	247 	191
+MIX NAME 	S5020 	S6510 	S6520 	S8010 	CLSM 	NOFINES
+PARAMETER 	UNIT 	E1200 	METALDIT 	SCPLC2 	SCPEC2 	PLC2120 	E2150 	COLSCLC2 	SCPEC2 	PEB 	SB 	3 	4 	5 	15 	-
+GWP-GHG** 	kg CO2
+-eq 	286 	282 	241 	302 	253 	320 	277 	334 	86.9 	139 	71.0 	83.2 	95.4 	163 	164
+PM Disease
+incidences 	1.03E-05 	8.44E-06 	1.04E-05 	9.38E-06 	1.10E-05 	1.30E-05 	1.20E-05 	1.03E-05 	3.06E-06 	5.47E-06 	2.88E-06 	3.20E-06 	3.51E-06 	5.30E-06 	5.75E-06
+IRP*** 	kBq U235 eq. 	0.886 	0.832 	3.82 	5.18 	3.94 	1.02 	4.45 	5.78 	0.196 	0.363 	0.230 	0.262 	0.293 	0.541 	0.428
+ETP-fw* 	CTUe 	278 	260 	415 	468 	407 	312 	453 	508 	144 	194 	146 	151 	156 	194 	185
+HTPc* 	CTUh 	2.77E-08 	2.75E-08 	2.43E-08 	3.11E-08 	2.58E-08 	3.08E-08 	2.81E-08 	3.44E-08 	8.56E-09 	1.35E-08 	6.97E-09 	8.17E-09 	9.37E-09 	1.59E-08 	1.60E-08
+HTPnc* 	CTUh 	1.53E-06 	1.53E-06 	2.02E-06 	2.71E-06 	2.18E-06 	1.69E-06 	2.36E-06 	3.01E-06 	4.60E-07 	7.33E-07 	3.70E-07 	4.38E-07 	5.05E-07 	8.71E-07 	8.87E-07
+SQP* 	Pt 	141 	155 	224 	240 	195 	145 	214 	244 	162 	159 	164 	163 	163 	171 	83.6
+MILE END | A1-A3
+CONCRETE | ENVIRONMENTAL PRODUCT DECLARATION
+50	CONCRETE | ENVIRONMENTAL PRODUCT DECLARATION
+51
+
+-- 26 of 37 --
+
+ENVIRONMENTAL IMPACT INDICATORS | EN15804+A1
+MILE END | A1-A3
+CONCRETE | ENVIRONMENTAL PRODUCT DECLARATION 	53
+Table 30. Module A1-A3 Environmental impact indicators EN15804+A1 for 1 m3 of product produced at Mile End batch plant
+MILE END | A1 - A3
+MIX NAME 	N2010P 	N2020P 	N2520P 	N3220P 	N4020P
+PARAMETER 	UNIT 	- 	100 	100 	120 	Ref 	F30 	S30 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50
+GWP 	kg CO2
+-eq 	191 	197 	228 	236 	263 	193 	195 	152 	288 	210 	214 	161 	166 	331 	240 	244 	182 	188 	398 	287 	291 	216 	223
+ODP 	kg CFC11
+-eq. 	4.99E-08 4.99E-08 4.99E-08 4.99E-08 4.61E-08 4.93E-08 4.82E-08 4.79E-08 4.37E-08 4.63E-08 4.53E-08 4.66E-08 4.50E-08 3.50E-08 3.75E-08 3.66E-08 3.76E-08 3.63E-08 2.43E-08 2.68E-08 2.62E-08 2.68E-08 2.59E-08
+AP 	kg SO2
+-eq 	0.458 	0.472 	0.461 	0.476 	0.477 	0.366 	0.435 	0.440 	0.517 	0.394 	0.483 	0.370 	0.488 	0.583 	0.440 	0.536 	0.407 	0.542 	0.690 	0.514 	0.616 	0.463 	0.624
+EP 	kg PO 4
+3- -eq. 	0.0662 	0.0680 	0.0732 	0.0753 	0.0771 	0.0610 	0.0640 	0.0568 	0.0829 	0.0651 	0.0690 	0.0558 	0.0610 	0.0926 	0.0719 	0.0761 	0.0608 	0.0668 	0.108 	0.0827 	0.0872 	0.0687 	0.0759
+POCP 	kg C 2 H 4 -eq. 	0.00860 	0.00949 	0.0101 	0.0110 	0.0195 	0.0101 	0.0132 	0.0105 	0.0228 	0.0124 	0.0164 	0.00814 	0.0135 	0.0283 	0.0162 	0.0205 	0.0110 	0.0171 	0.0372 	0.0224 	0.0270 	0.0155 	0.0228
+ADPE 	kg Sb eq. 	1.65E-06 1.69E-06 1.74E-06 1.78E-06 4.46E-06 3.35E-06 3.44E-06 2.82E-06 4.86E-06 3.63E-06 3.76E-06 2.90E-06 3.06E-06 5.47E-06 4.03E-06 4.17E-06 3.17E-06 3.36E-06 6.53E-06 4.77E-06 4.91E-06 3.70E-06 3.93E-06
+ADPF 	MJ 	810 	827 	867 	888 	1 010 	820 	860 	770 	1 080 	870 	920 	760 	830 	1 200 	950 	1 000 	820 	900 	1 380 	1 080 	1 140 	920 	1 010
+MIX NAME 	N5020P 	S1020 	S1520 	S2020P 	S2520 	S3220 	S4010
+PARAMETER 	UNIT 	Ref 	F30 	S30 	T50 	S50 	PLC1 	PLC1120 	PLC2120 	200 	PLC1 	E1100 	PLC2 	LSLC2 	PLC2XYP 	PLC2120 	E1100 	SCPH
+GWP 	kg CO2
+-eq 	490 	352 	356 	262 	270 	137 	154 	105 	230 	198 	185 	216 	151 	158 	214 	229 	303
+ODP 	kg CFC11
+-eq. 	2.05E-08 	2.36E-08 	2.30E-08 	2.35E-08 	2.26E-08 	5.40E-08 	5.29E-08 	5.43E-08 	5.02E-08 	4.43E-08 	4.42E-08 	3.41E-08 	2.86E-08 	3.63E-08 	3.39E-08 	3.43E-08 	1.33E-07
+AP 	kg SO2
+-eq 	0.836 	0.617 	0.723 	0.538 	0.732 	0.350 	0.384 	0.391 	0.523 	0.485 	0.515 	0.593 	0.561 	0.584 	0.585 	0.630 	0.602
+EP 	kg PO 4
+3- -eq. 	0.129 	0.0976 	0.102 	0.0794 	0.0881 	0.0511 	0.0542 	0.0463 	0.0768 	0.0665 	0.0677 	0.0749 	0.0615 	0.0663 	0.0733 	0.0816 	0.0942
+POCP 	kg C 2 H 4 -eq. 	0.0496 	0.0311 	0.0359 	0.0219 	0.0306 	0.00587 	0.00833 	0.00535 	0.0132 	0.0155 	0.0113 	0.0212 	0.0155 	0.0171 	0.0207 	0.0179 	0.0190
+ADPE 	kg Sb eq. 	8.00E-06 	5.80E-06 	5.95E-06 	4.44E-06 	4.72E-06 	2.54E-06 	2.78E-06 	2.09E-06 	1.92E-06 	3.53E-06 	1.70E-06 	3.97E-06 	2.85E-06 	3.29E-06 	3.85E-06 	2.17E-06 	2.69E-06
+ADPF 	MJ 	1 630 	1 260 	1 320 	1 040 	1 150 	700 	730 	650 	918 	890 	829 	1 010 	840 	940 	980 	1 010 	1 130
+52	CONCRETE | ENVIRONMENTAL PRODUCT DECLARATION
+
+-- 27 of 37 --
+
+ENVIRONMENTAL IMPACT INDICATORS | EN15804+A1 CONT'D
+MILE END | A1-A3
+Table 30 cont'd. Module A1-A3 Environmental impact indicators EN15804+A1 for 1 m3 of product produced at Mile End batch plant
+MILE END | A1 - A3
+MIX NAME 	S4020 	S5010
+PARAMETER 	UNIT 	E1100 	E1150H 	E2 	E2100 	E2120 	E2150 	E2150F 	E2200 	E3150 	E3150F 	PTLC2 	COLLC1 	COLLC2 PLC1120 PLC2120 PLC2XYP DW500D DW500D3 	E1150H 	SCPLC2 	SCPH
+GWP 	kg CO2
+-eq 	264 	268 	225 	213 	229 	226 	224 	227 	173 	171 	185 	287 	196 	284 	185 	204 	250 	251 	292 	294 	303
+ODP 	kg CFC11
+-eq. 	5.01E-08 	5.04E-08 	5.01E-08 	5.03E-08 	5.07E-08 	5.03E-08 	5.05E-08 	5.04E-08 	5.08E-08 	5.06E-08 	2.19E-08 	7.36E-08 	6.91E-08 	2.20E-08 	2.20E-08 	2.45E-08 	9.07E-08 	9.08E-08 	5.06E-08 	1.16E-07 1.16E-07
+AP 	kg SO2
+-eq 	0.721 	0.538 	0.746 	0.708 	0.759 	0.751 	0.653 	0.753 	0.621 	0.615 	0.689 	0.685 	0.724 	0.680 	0.688 	0.749 	0.675 	0.678 	0.581 	0.912 	0.603
+EP 	kg PO 4
+3- -eq. 	0.0902 	0.0847 	0.0837 	0.0808 	0.0866 	0.0850 	0.0815 	0.0853 	0.0716 	0.0703 	0.0727 	0.0901 	0.0763 	0.0894 	0.0722 	0.0855 	0.0879 	0.0887 	0.0911 	0.100 	0.0944
+POCP 	kg C 2 H 4 -eq. 	0.0231 	0.0154 	0.0228 	0.0209 	0.0237 	0.0231 	0.0189 	0.0232 	0.0160 	0.0156 	0.0233 	0.0295 	0.0252 	0.0294 	0.0232 	0.0274 	0.0212 	0.0214 	0.0176 	0.0395 	0.0190
+ADPE 	kg Sb eq. 	2.24E-06 	2.10E-06 	2.15E-06 	2.17E-06 	2.42E-06 	2.26E-06 	2.22E-06 	2.29E-06 	2.15E-06 	2.04E-06 	3.49E-06 	5.17E-06 	3.89E-06 	4.92E-06 	3.49E-06 	4.68E-06 	2.54E-06 	2.61E-06 	2.31E-06 	5.67E-06 2.66E-06
+ADPF 	MJ 	1 060 	992 	1 010 	994 	1 080 	1 040 	1 010 	1 050 	928 	900 	980 	1 210 	1 050 	1 170 	970 	1 260 	1 080 	1 100 	1 080 	1 350 	1 140
+MIX NAME 	S5020 	S6510 	S6520 	S8010 	CLSM 	NO FINES
+PARAMETER 	UNIT 	E1200 	METALDIT 	SCPLC2 	SCPEC2 	LC2120 	E2150 	COLSCLC2 	SCPEC2 	PEB 	SB 	3 	4 	5 	15 	-
+GWP 	kg CO2
+-eq 	289 	285 	242 	303 	254 	323 	278 	336 	88.0 	140 	71.8 	84.2 	96.5 	165 	166
+ODP 	kg CFC11
+-eq. 	5.06E-08 	5.03E-08 	1.06E-07 	1.14E-07 	2.52E-08 	5.09E-08 	1.18E-07 	1.09E-07 	1.50E-07 	1.02E-09 	1.54E-07 	1.52E-07 	1.50E-07 	1.66E-07 	9.52E-10
+AP 	kg SO2
+-eq 	0.789 	0.568 	0.890 	0.686 	0.943 	1.07 	1.03 	0.754 	0.205 	0.421 	0.188 	0.209 	0.231 	0.355 	0.407
+EP 	kg PO 4
+3- -eq. 	0.0986 	0.0888 	0.0918 	0.0937 	0.0944 	0.116 	0.103 	0.102 	0.0357 	0.0552 	0.0328 	0.0359 	0.0389 	0.0566 	0.0597
+POCP 	kg C 2 H 4 -eq. 	0.0272 	0.0171 	0.0353 	0.0308 	0.0386 	0.0403 	0.0439 	0.0359 	-0.00544 	0.00538 	-0.00596 	-0.00460 	-0.00323 	0.00434 	0.00696
+ADPE 	kg Sb eq. 	2.57E-06 	2.16E-06 	5.01E-06 	5.66E-06 	4.78E-06 	3.17E-06 	5.69E-06 	6.23E-06 	1.07E-06 	1.31E-06 	1.60E-06 	1.66E-06 	1.71E-06 	2.23E-06 	1.29E-06
+ADPF 	MJ 	1 170 	1 030 	1 270 	1 270 	1 250 	1 390 	1 410 	1 380 	462 	697 	463 	493 	522 	718 	693
+CONCRETE | ENVIRONMENTAL PRODUCT DECLARATION
+54	CONCRETE | ENVIRONMENTAL PRODUCT DECLARATION
+55
+
+-- 28 of 37 --
+
+MCLAREN VALE | A1-A3
+CORE ENVIRONMENTAL IMPACT INDICATORS | EN15804+A2
+*The results of this environmental impact indicator shall be used with care as the uncertainties on
+these results are high or as there is limited experience with the indicator.
+CONCRETE | ENVIRONMENTAL PRODUCT DECLARATION 	57
+Table 31. Module A1-A3 Core environmental impact indicator results for 1 m3 of product produced at McLaren Vale batch plant
+MCLAREN VALE | A1 - A3
+MIX NAME 	N2020P 	N2520P 	N3220P 	N4020P 	N5020P
+PARAMETER 	UNIT 	Ref 	F30 	S30 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50
+GWPt 	kg CO2
+-eq 	273 	201 	204 	159 	298 	219 	223 	168 	173 	342 	249 	253 	190 	196 	411 	298 	302 	225 	232 	505 	363 	368 	272 	281
+GWPf 	kg CO2
+-eq 	270 	198 	201 	157 	295 	216 	220 	166 	171 	338 	246 	251 	188 	194 	407 	294 	299 	223 	229 	500 	360 	364 	269 	278
+GWPb 	kg CO2
+-eq 	2.86 	2.37 	2.36 	2.03 	3.05 	2.51 	2.50 	2.15 	2.13 	3.39 	2.77 	2.76 	2.35 	2.33 	3.90 	3.15 	3.13 	2.62 	2.61 	4.50 	3.56 	3.55 	2.91 	2.89
+GWPluluc 	kg CO2
+-eq 	0.0183 	0.0135 	0.0142 	0.0119 	0.0200 	0.0147 	0.0156 	0.0117 	0.0130 	0.0228 	0.0166 	0.0177 	0.0132 	0.0147 	0.0274 	0.0198 	0.0209 	0.0155 	0.0173 	0.0337 	0.0242 	0.0254 	0.0187 	0.0208
+ODP 	kg CFC-11 eq 	6.66E-08 7.12E-08 6.96E-08 6.92E-08 6.31E-08 6.69E-08 6.54E-08 6.73E-08 6.50E-08 5.03E-08 5.40E-08 5.28E-08 5.42E-08 5.24E-08 3.47E-08 3.84E-08 3.75E-08 3.84E-08 3.71E-08 2.90E-08 3.36E-08 3.27E-08 3.36E-08 3.21E-08
+AP 	Mole of H+eq 	0.779 	0.632 	0.712 	0.707 	0.832 	0.669 	0.772 	0.628 	0.766 	0.919 	0.729 	0.841 	0.676 	0.834 	1.06 	0.827 	0.946 	0.749 	0.937 	1.25 	0.963 	1.09 	0.847 	1.08
+EPfw 	kg P eq 	2.15E-04 2.04E-04 2.04E-04 1.97E-04 2.20E-04 2.07E-04 2.08E-04 1.99E-04 2.00E-04 2.27E-04 2.12E-04 2.13E-04 2.02E-04 2.04E-04 2.38E-04 2.20E-04 2.21E-04 2.08E-04 2.10E-04 2.54E-04 2.31E-04 2.32E-04 2.16E-04 2.18E-04
+EPm 	kg N eq 	0.259 	0.211 	0.220 	0.200 	0.275 	0.223 	0.235 	0.196 	0.212 	0.304 	0.243 	0.256 	0.211 	0.229 	0.349 	0.275 	0.288 	0.234 	0.256 	0.411 	0.318 	0.332 	0.266 	0.291
+EPt 	Mole of N eq 	2.86 	2.33 	2.43 	2.20 	3.04 	2.46 	2.59 	2.16 	2.33 	3.36 	2.68 	2.82 	2.32 	2.52 	3.86 	3.03 	3.18 	2.58 	2.81 	4.55 	3.51 	3.67 	2.92 	3.21
+POCP 	kg NMVOC eq 	0.691 	0.558 	0.585 	0.528 	0.738 	0.591 	0.626 	0.516 	0.563 	0.817 	0.646 	0.685 	0.557 	0.612 	0.944 	0.735 	0.776 	0.622 	0.687 	1.12 	0.857 	0.899 	0.709 	0.788
+ADPmm* 	kg Sb-eq 	4.44E-06 3.36E-06 3.46E-06 2.86E-06 4.83E-06 3.64E-06 3.76E-06 2.93E-06 3.10E-06 5.41E-06 4.03E-06 4.16E-06 3.20E-06 3.39E-06 6.44E-06 4.74E-06 4.89E-06 3.71E-06 3.95E-06 7.87E-06 5.74E-06 5.89E-06 4.43E-06 4.71E-06
+ADPf* 	MJ 	1 150 	930 	970 	870 	1 230 	990 	1 040 	860 	930 	1 360 	1 080 	1 140 	940 	1 010 	1 570 	1 230 	1 290 	1 050 	1 140 	1 860 	1 430 	1 490 	1 190 	1 300
+WDP* 	m³ world equiv 	12.1 	10.3 	10.8 	10.1 	12.6 	10.6 	11.2 	9.55 	10.3 	13.5 	11.3 	11.9 	10.1 	10.9 	15.0 	12.3 	12.9 	10.8 	11.7 	17.2 	13.9 	14.5 	12.0 	13.0
+56	CONCRETE | ENVIRONMENTAL PRODUCT DECLARATION
+
+-- 29 of 37 --
+
+MCLAREN VALE | A1-A3
+WASTE CATEGORIES AND OUTPUT FLOWS
+RESOURCE USE INDICATORS
+CONCRETE | ENVIRONMENTAL PRODUCT DECLARATION 	59
+Table 32. Module A1-A3 Resource use indicators results for 1 m3 of product produced at McLaren Vale batch plant
+MCLAREN VALE | A1 - A3
+MIX NAME 	N2020P 	N2520P 	N3220P 	N4020P 	N5020P
+PARAMETER 	UNIT 	Ref 	F30 	S30 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50
+PERE 	MJ	MJ 	114 	81.2 	83.8 	65.1 	126 	89.4 	92.8 	67.6 	72.1 	145 	103 	107 	77.4 	82.6 	176 	125 	129 	93.2 	99.3 	219 	155 	159 	115 	122
+PERM 	MJ	MJ 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+PERT 	MJ	MJ 	114 	81.2 	83.8 	65.1 	126 	89.4 	92.8 	67.6 	72.1 	145 	103 	107 	77.4 	82.6 	176 	125 	129 	93.2 	99.3 	219 	155 	159 	115 	122
+PENRE 	MJ	MJ 	1 150 	930 	970 	870 	1 230 	990 	1 040 	860 	930 	1 360 	1 080 	1 140 	940 	1 010 	1 570 	1 230 	1 290 	1 050 	1 140 	1 860 	1 430 	1 490 	1 190 	1 300
+PENRM 	MJ	MJ 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+PENRT 	MJ	MJ 	1 150 	930 	970 	870 	1 230 	990 	1 040 	860 	930 	1 360 	1 080 	1 140 	940 	1 010 	1 570 	1 230 	1 290 	1 050 	1 140 	1 860 	1 430 	1 490 	1 190 	1 300
+SM 	kg	kg 	0.0826 	49.7 	49.7 	106 	0.0914 	63.9 	63.9 	127 	127 	0.106 	68.9 	68.9 	142 	142 	0.130 	73.0 	73.0 	162 	162 	0.162 	76.1 	76.1 	187 	187
+RSF 	MJ	MJ 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+NRSF 	MJ	MJ 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+FW 	mm 33 	0.497 	0.425 	0.445 	0.415 	0.516 	0.438 	0.460 	0.397 	0.428 	0.555 	0.466 	0.489 	0.418 	0.451 	0.615 	0.508 	0.532 	0.449 	0.486 	0.702 	0.571 	0.596 	0.496 	0.538
+Table 33. Module A1-A3 Waste categories and output flows results for 1 m3 of product produced at McLaren Vale batch plant
+MCLAREN VALE | A1 - A3
+MIX NAME 	N2020P 	N2520P 	N3220P 	N4020P 	N5020P
+PARAMETER 	UNIT 	Ref 	F30 	S30 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50
+HWD 	kg 	0.00273 	0.00244 	0.00244 	0.00243 	0.00298 	0.00272 	0.00272 	0.00272 	0.00272 	0.00298 	0.00264 	0.00264 	0.00263 	0.00263 	0.00364 	0.00314 	0.00314 	0.00313 	0.00313 	0.00455 	0.00380 	0.00380 	0.00379 	0.00379
+NHWD 	kg 	30.9 	30.7 	30.7 	30.6 	30.9 	30.8 	30.8 	30.6 	30.6 	31.1 	30.8 	30.9 	30.7 	30.7 	31.2 	31.0 	31.0 	30.8 	30.8 	31.4 	31.1 	31.1 	30.9 	30.9
+RWD 	kg 	0.0271 	0.0192 	0.0193 	0.0141 	0.0300 	0.0213 	0.0213 	0.0155 	0.0156 	0.0346 	0.0245 	0.0245 	0.0178 	0.0179 	0.0422 	0.0298 	0.0298 	0.0217 	0.0217 	0.0527 	0.0371 	0.0372 	0.0269 	0.0270
+CRU 	kg 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+MFR 	kg 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+MER 	kg 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+EEE 	MJ 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+EET 	MJ 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+58	CONCRETE | ENVIRONMENTAL PRODUCT DECLARATION
+
+-- 30 of 37 --
+
+ENVIRONMENTAL IMPACT INDICATORS | EN15804+A1
+MCLAREN VALE | A1-A3
+ADDITIONAL ENVIRONMENTAL IMPACT INDICATORS
+BIOGENIC CARBON INDICATORS
+*The results of this environmental impact indicator shall be used with
+care as the uncertainties on these results are high or as there is limited
+experience with the indicator
+**This indicator is calculated using the characterisation factors from the
+IPCC AR5 report (IPCC 2013) and has been included in the EPD following
+the PCR
+***This impact category deals mainly with the eventual impact of low
+dose ionizing radiation on human health of the nuclear fuel cycle. It does
+not consider effects due to possible nuclear accidents, occupational
+exposure nor due to radioactive waste disposal in underground
+facilities Potential ionizing radiation from the soil, from radon and some
+construction materials, is also not measured by this indicator.
+CONCRETE | ENVIRONMENTAL PRODUCT DECLARATION 	61
+Table 34. Module A1-A3 Biogenic carbon indicators results for 1 m3 of product produced at McLaren Vale batch plant
+MCLAREN VALE | A1 - A3
+MIX NAME 	N2020P 	N2520P 	N3220P 	N4020P 	N5020P
+PARAMETER 	UNIT 	Ref 	F30 	S30 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50
+BCC-prod 	kg C 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+Table 35. Module A1-A3 Additional environmental impact indicators results for 1 m3 of product produced at McLaren Vale batch plant
+MCLAREN VALE | A1 - A3
+MIX NAME 	N2020P 	N2520P 	N3220P 	N4020P 	N5020P
+PARAMETER 	UNIT 	Ref 	F30 	S30 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50
+GWP-GHG** 	kg CO2
+-eq 	268 	197 	200 	156 	294 	215 	219 	165 	170 	336 	245 	249 	187 	193 	404 	293 	297 	221 	228 	497 	358 	362 	268 	276
+PM Disease
+incidences 	9.46E-06 7.79E-06 8.38E-06 7.96E-06 1.01E-05 8.20E-06 8.97E-06 7.47E-06 8.50E-06 1.10E-05 8.88E-06 9.71E-06 7.99E-06 9.16E-06 1.26E-05 9.99E-06 1.09E-05 8.81E-06 1.02E-05 1.48E-05 1.15E-05 1.24E-05 9.92E-06 1.16E-05
+IRP*** 	kBq U235 eq. 	4.51 	3.18 	3.19 	2.31 	4.98 	3.52 	3.52 	2.55 	2.55 	5.76 	4.06 	4.07 	2.94 	2.94 	7.03 	4.95 	4.95 	3.57 	3.58 	8.78 	6.17 	6.18 	4.45 	4.46
+ETP-fw* 	CTUe 	419 	342 	345 	299 	448 	363 	367 	310 	316 	497 	398 	403 	336 	343 	573 	452 	458 	376 	384 	674 	523 	528 	426 	437
+HTPc* 	CTUh 	2.82E-08 2.08E-08 2.10E-08 1.63E-08 3.09E-08 2.27E-08 2.30E-08 1.74E-08 1.78E-08 3.54E-08 2.58E-08 2.62E-08 1.97E-08 2.01E-08 4.25E-08 3.08E-08 3.12E-08 2.32E-08 2.38E-08 5.23E-08 3.77E-08 3.80E-08 2.81E-08 2.88E-08
+HTPnc* 	CTUh 	2.49E-06 1.80E-06 1.81E-06 1.37E-06 2.74E-06 1.98E-06 1.99E-06 1.48E-06 1.50E-06 3.15E-06 2.26E-06 2.28E-06 1.68E-06 1.71E-06 3.81E-06 2.73E-06 2.74E-06 2.01E-06 2.04E-06 4.72E-06 3.36E-06 3.38E-06 2.47E-06 2.50E-06
+SQP* 	Pt 	278 	263 	262 	248 	284 	265 	265 	251 	250 	296 	274 	274 	258 	257 	307 	282 	282 	261 	261 	321 	290 	290 	264 	264
+Table 36. Module A1-A3 Environmental impact indicators EN15804+A1 for 1 m3 of product produced at McLaren Vale batch plant
+MCLAREN VALE | A1 - A3
+MIX NAME 	N2020P 	N2520P 	N3220P 	N4020P 	N5020P
+PARAMETER 	UNIT 	Ref 	F30 	S30 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50
+GWP 	kg CO2
+-eq 	270 	199 	201 	157 	295 	217 	220 	167 	171 	338 	247 	251 	188 	194 	407 	295 	299 	223 	230 	500 	360 	364 	269 	278
+ODP 	kg CFC11
+-eq. 	4.64E-08 4.96E-08 4.85E-08 4.82E-08 4.40E-08 4.66E-08 4.56E-08 4.69E-08 4.53E-08 3.51E-08 3.76E-08 3.68E-08 3.78E-08 3.65E-08 2.44E-08 2.69E-08 2.62E-08 2.69E-08 2.59E-08 2.05E-08 2.36E-08 2.30E-08 2.36E-08 2.26E-08
+AP 	kg SO2
+-eq 	0.586 	0.473 	0.543 	0.548 	0.626 	0.502 	0.592 	0.478 	0.597 	0.693 	0.548 	0.645 	0.515 	0.652 	0.801 	0.624 	0.727 	0.572 	0.735 	0.949 	0.728 	0.835 	0.648 	0.845
+EP 	kg PO 4
+3- -eq. 	0.0902 	0.0739 	0.0770 	0.0697 	0.0961 	0.0780 	0.0820 	0.0686 	0.0739 	0.106 	0.0849 	0.0892 	0.0738 	0.0798 	0.122 	0.0959 	0.100 	0.0818 	0.0890 	0.143 	0.111 	0.116 	0.0926 	0.101
+POCP 	kg C 2 H 4 -eq. 	0.0249 	0.0154 	0.0185 	0.0158 	0.0282 	0.0177 	0.0217 	0.0133 	0.0187 	0.0336 	0.0213 	0.0257 	0.0161 	0.0222 	0.0425 	0.0275 	0.0321 	0.0206 	0.0279 	0.0550 	0.0363 	0.0411 	0.0270 	0.0358
+ADPE 	kg Sb eq. 	4.61E-06 3.48E-06 3.58E-06 2.95E-06 5.02E-06 3.77E-06 3.90E-06 3.03E-06 3.20E-06 5.63E-06 4.18E-06 4.32E-06 3.31E-06 3.50E-06 6.71E-06 4.93E-06 5.08E-06 3.85E-06 4.08E-06 8.20E-06 5.98E-06 6.13E-06 4.60E-06 4.88E-06
+ADPF 	MJ 	1 070 	880 	910 	830 	1 140 	930 	980 	820 	890 	1 260 	1 010 	1 070 	880 	960 	1 450 	1 150 	1 210 	990 	1 080 	1 710 	1 330 	1 390 	1 110 	1 220
+60	CONCRETE | ENVIRONMENTAL PRODUCT DECLARATION
+
+-- 31 of 37 --
+
+OSBORNE | A1-A3
+CORE ENVIRONMENTAL IMPACT INDICATORS | EN15804+A2
+*The results of this environmental impact indicator shall be used with care as the uncertainties on
+these results are high or as there is limited experience with the indicator.
+CONCRETE | ENVIRONMENTAL PRODUCT DECLARATION 	63
+Table 37. Module A1-A3 Core environmental impact indicator results for 1 m3 of product produced at Osborne batch plant
+OSBORNE | A1 - A3
+MIX NAME 	N2020P 	N2520P 	N3220P 	N4020P 	N5020P
+PARAMETER 	UNIT 	Ref 	F30 	S30 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50
+GWPt 	kg CO2
+-eq 	278 	207 	209 	165 	303 	224 	228 	174 	179 	346 	254 	258 	196 	201 	414 	302 	306 	230 	236 	507 	367 	371 	276 	285
+GWPf 	kg CO2
+-eq 	275 	204 	207 	163 	300 	221 	225 	172 	177 	342 	251 	255 	193 	199 	409 	298 	302 	227 	233 	502 	363 	367 	273 	281
+GWPb 	kg CO2
+-eq 	3.28 	2.80 	2.79 	2.46 	3.46 	2.93 	2.92 	2.57 	2.55 	3.78 	3.17 	3.16 	2.75 	2.73 	4.26 	3.51 	3.50 	2.99 	2.98 	4.86 	3.93 	3.92 	3.28 	3.26
+GWPluluc 	kg CO2
+-eq 	0.0209 	0.0161 	0.0169 	0.0146 	0.0226 	0.0173 	0.0183 	0.0144 	0.0157 	0.0254 	0.0193 	0.0203 	0.0159 	0.0173 	0.0299 	0.0224 	0.0235 	0.0181 	0.0199 	0.0362 	0.0268 	0.0279 	0.0213 	0.0234
+ODP 	kg CFC-11 eq 	6.57E-08 7.03E-08 6.87E-08 6.83E-08 6.22E-08 6.60E-08 6.46E-08 6.64E-08 6.42E-08 4.95E-08 5.32E-08 5.20E-08 5.34E-08 5.16E-08 3.40E-08 3.77E-08 3.68E-08 3.77E-08 3.64E-08 2.84E-08 3.29E-08 3.21E-08 3.29E-08 3.15E-08
+AP 	Mole of H+eq 	0.720 	0.573 	0.653 	0.648 	0.771 	0.609 	0.712 	0.569 	0.706 	0.857 	0.669 	0.780 	0.616 	0.773 	0.995 	0.765 	0.883 	0.687 	0.874 	1.19 	0.899 	1.02 	0.785 	1.01
+EPfw 	kg P eq 	2.17E-04 2.05E-04 2.06E-04 1.99E-04 2.21E-04 2.08E-04 2.09E-04 2.00E-04 2.02E-04 2.28E-04 2.13E-04 2.14E-04 2.04E-04 2.05E-04 2.40E-04 2.21E-04 2.22E-04 2.10E-04 2.12E-04 2.55E-04 2.32E-04 2.33E-04 2.17E-04 2.20E-04
+EPm 	kg N eq 	0.252 	0.205 	0.214 	0.193 	0.268 	0.216 	0.228 	0.190 	0.205 	0.296 	0.236 	0.248 	0.204 	0.222 	0.341 	0.267 	0.280 	0.227 	0.248 	0.402 	0.310 	0.324 	0.258 	0.283
+EPt 	Mole of N eq 	2.78 	2.26 	2.36 	2.13 	2.97 	2.39 	2.52 	2.09 	2.26 	3.27 	2.60 	2.74 	2.25 	2.44 	3.77 	2.95 	3.09 	2.49 	2.73 	4.45 	3.42 	3.58 	2.84 	3.12
+POCP 	kg NMVOC eq 	0.660 	0.528 	0.555 	0.499 	0.706 	0.560 	0.596 	0.486 	0.533 	0.784 	0.614 	0.653 	0.526 	0.580 	0.909 	0.701 	0.742 	0.589 	0.653 	1.08 	0.822 	0.865 	0.676 	0.754
+ADPmm* 	kg Sb-eq 	4.57E-06 3.50E-06 3.60E-06 3.00E-06 4.95E-06 3.77E-06 3.89E-06 3.07E-06 3.23E-06 5.52E-06 4.15E-06 4.28E-06 3.32E-06 3.51E-06 6.53E-06 4.85E-06 4.99E-06 3.82E-06 4.05E-06 7.94E-06 5.84E-06 5.99E-06 4.54E-06 4.82E-06
+ADPf* 	MJ 	1 240 	1 020 	1 060 	970 	1 310 	1 080 	1 130 	950 	1 020 	1 440 	1 170 	1 220 	1 020 	1 100 	1 650 	1 310 	1 370 	1 120 	1 210 	1 930 	1 510 	1 570 	1 260 	1 380
+WDP* 	m³ world equiv 	12.0 	10.2 	10.7 	9.97 	12.5 	10.5 	11.1 	9.46 	10.2 	13.4 	11.2 	11.8 	9.96 	10.8 	14.9 	12.2 	12.8 	10.7 	11.6 	17.0 	13.8 	14.4 	11.9 	12.9
+62	CONCRETE | ENVIRONMENTAL PRODUCT DECLARATION
+
+-- 32 of 37 --
+
+OSBORNE | A1-A3
+WASTE CATEGORIES AND OUTPUT FLOWS
+RESOURCE USE INDICATORS
+CONCRETE | ENVIRONMENTAL PRODUCT DECLARATION 	65
+Table 38. Module A1-A3 Resource use indicators results for 1 m3 of product produced at Osborne batch plant
+OSBORNE | A1 - A3
+MIX NAME 	N2020P 	N2520P 	N3220P 	N4020P 	N5020P
+PARAMETER 	UNIT 	Ref 	F30 	S30 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50
+PERE 	MJ	MJ 	113 	80.7 	83.3 	64.8 	125 	88.9 	92.2 	67.3 	71.7 	144 	102 	106 	77.0 	82.1 	175 	124 	128 	92.6 	98.7 	217 	154 	158 	114 	121
+PERM 	MJ	MJ 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+PERT 	MJ	MJ 	113 	80.7 	83.3 	64.8 	125 	88.9 	92.2 	67.3 	71.7 	144 	102 	106 	77.0 	82.1 	175 	124 	128 	92.6 	98.7 	217 	154 	158 	114 	121
+PENRE 	MJ	MJ 	1 240 	1 020 	1 060 	970 	1 310 	1 080 	1 130 	950 	1 020 	1 440 	1 170 	1 220 	1 020 	1 100 	1 650 	1 310 	1 370 	1 120 	1 210 	1 930 	1 510 	1 570 	1 270 	1 380
+PENRM 	MJ	MJ 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+PENRT 	MJ	MJ 	1 240 	1 020 	1 060 	970 	1 310 	1 080 	1 130 	950 	1 020 	1 440 	1 170 	1 220 	1 020 	1 100 	1 650 	1 310 	1 370 	1 120 	1 210 	1 930 	1 510 	1 570 	1 270 	1 380
+SM 	kg	kg 	0.0819 	49.3 	49.3 	106 	0.0907 	63.4 	63.4 	126 	126 	0.105 	68.4 	68.4 	141 	141 	0.129 	72.4 	72.4 	161 	161 	0.161 	75.5 	75.5 	186 	186
+RSF 	MJ	MJ 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+NRSF 	MJ	MJ 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+FW 	mm 33 	0.493 	0.422 	0.441 	0.412 	0.512 	0.435 	0.457 	0.394 	0.424 	0.551 	0.462 	0.485 	0.415 	0.448 	0.610 	0.504 	0.528 	0.445 	0.482 	0.696 	0.567 	0.591 	0.492 	0.533
+Table 39. Module A1-A3 Waste categories and output flows results for 1 m3 of product produced at Osborne batch plant
+OSBORNE | A1 - A3
+MIX NAME 	N2020P 	N2520P 	N3220P 	N4020P 	N5020P
+PARAMETER 	UNIT 	Ref 	F30 	S30 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50
+HWD 	kg 	0.00271 	0.00242 	0.00242 	0.00241 	0.00296 	0.00270 	0.00270 	0.00270 	0.00270 	0.00296 	0.00262 	0.00262 	0.00261 	0.00261 	0.00361 	0.00311 	0.00311 	0.00310 	0.00310 	0.00452 	0.00377 	0.00377 	0.00376 	0.00376
+NHWD 	kg 	1.32 	1.16 	1.16 	1.06 	1.38 	1.20 	1.21 	1.08 	1.09 	1.50 	1.29 	1.30 	1.15 	1.17 	1.67 	1.42 	1.43 	1.25 	1.26 	1.87 	1.55 	1.56 	1.34 	1.36
+RWD 	kg 	0.0269 	0.0191 	0.0191 	0.0139 	0.0297 	0.0211 	0.0211 	0.0154 	0.0154 	0.0343 	0.0243 	0.0243 	0.0177 	0.0177 	0.0418 	0.0296 	0.0296 	0.0215 	0.0215 	0.0522 	0.0368 	0.0369 	0.0267 	0.0268
+CRU 	kg 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+MFR 	kg 	11.2 	11.2 	11.2 	11.2 	11.2 	11.2 	11.2 	11.2 	11.2 	11.2 	11.2 	11.2 	11.2 	11.2 	11.2 	11.2 	11.2 	11.2 	11.2 	11.2 	11.2 	11.2 	11.2 	11.2
+MER 	kg 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+EEE 	MJ 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+EET 	MJ 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+64	CONCRETE | ENVIRONMENTAL PRODUCT DECLARATION
+
+-- 33 of 37 --
+
+ENVIRONMENTAL IMPACT INDICATORS | EN15804+A1
+OSBORNE | A1-A3
+ADDITIONAL ENVIRONMENTAL IMPACT INDICATORS
+*The results of this environmental impact indicator shall be used with
+care as the uncertainties on these results are high or as there is limited
+experience with the indicator
+**This indicator is calculated using the characterisation factors from the
+IPCC AR5 report (IPCC 2013) and has been included in the EPD following
+the PCR
+***This impact category deals mainly with the eventual impact of low
+dose ionizing radiation on human health of the nuclear fuel cycle. It does
+not consider effects due to possible nuclear accidents, occupational
+exposure nor due to radioactive waste disposal in underground
+facilities Potential ionizing radiation from the soil, from radon and some
+construction materials, is also not measured by this indicator.
+BIOGENIC CARBON INDICATORS
+CONCRETE | ENVIRONMENTAL PRODUCT DECLARATION 	67
+Table 40. Module A1-A3 Biogenic carbon indicators results for 1 m3 of product produced at Osborne batch plant
+OSBORNE | A1 - A3
+MIX NAME 	N2020P 	N2520P 	N3220P 	N4020P 	N5020P
+PARAMETER 	UNIT 	Ref 	F30 	S30 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50
+BCC-prod 	kg C 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0
+Table 41. Module A1-A3 Additional environmental impact indicators results for 1 m3 of product produced at Osborne batch plant
+OSBORNE | A1 - A3
+MIX NAME 	N2020P 	N2520P 	N3220P 	N4020P 	N5020P
+PARAMETER 	UNIT 	Ref 	F30 	S30 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50
+GWP-GHG** 	kg CO2
+-eq 	273 	203 	206 	162 	298 	220 	224 	171 	176 	340 	250 	254 	192 	198 	407 	296 	301 	225 	232 	499 	361 	365 	272 	280
+PM Disease
+incidences 	8.07E-06 6.41E-06 7.00E-06 6.58E-06 8.65E-06 6.82E-06 7.58E-06 6.09E-06 7.11E-06 9.62E-06 7.49E-06 8.31E-06 6.60E-06 7.77E-06 1.12E-05 8.58E-06 9.45E-06 7.40E-06 8.79E-06 1.34E-05 1.01E-05 1.10E-05 8.51E-06 1.02E-05
+IRP*** 	kBq U235 eq. 	4.47 	3.16 	3.16 	2.29 	4.94 	3.49 	3.49 	2.52 	2.53 	5.72 	4.03 	4.03 	2.91 	2.92 	6.97 	4.91 	4.91 	3.54 	3.55 	8.71 	6.12 	6.13 	4.41 	4.42
+ETP-fw* 	CTUe 	464 	388 	392 	345 	491 	407 	412 	355 	360 	538 	440 	445 	378 	385 	611 	491 	496 	414 	423 	711 	561 	566 	465 	475
+HTPc* 	CTUh 	2.85E-08 2.11E-08 2.13E-08 1.66E-08 3.11E-08 2.29E-08 2.32E-08 1.76E-08 1.81E-08 3.55E-08 2.60E-08 2.63E-08 1.99E-08 2.03E-08 4.25E-08 3.09E-08 3.13E-08 2.34E-08 2.40E-08 5.22E-08 3.77E-08 3.81E-08 2.82E-08 2.89E-08
+HTPnc* 	CTUh 	2.46E-06 1.77E-06 1.78E-06 1.34E-06 2.70E-06 1.94E-06 1.96E-06 1.45E-06 1.47E-06 3.11E-06 2.23E-06 2.24E-06 1.65E-06 1.67E-06 3.76E-06 2.68E-06 2.70E-06 1.98E-06 2.00E-06 4.66E-06 3.31E-06 3.33E-06 2.42E-06 2.46E-06
+SQP* 	Pt 	300 	285 	284 	270 	306 	287 	287 	273 	272 	317 	296 	296 	280 	279 	329 	304 	304 	283 	283 	342 	312 	312 	286 	286
+Table 42. Module A1-A3 Environmental impact indicators EN15804+A1 for 1 m3 of product produced at Osborne batch plant
+OSBORNE | A1 - A3
+MIX NAME 	N2020P 	N2520P 	N3220P 	N4020P 	N5020P
+PARAMETER 	UNIT 	Ref 	F30 	S30 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50 	Ref 	F30 	S30 	T50 	S50
+GWP 	kg CO2
+-eq 	275 	204 	207 	163 	300 	222 	226 	172 	177 	342 	252 	255 	194 	199 	410 	298 	303 	227 	234 	502 	363 	368 	274 	282
+ODP 	kg CFC11
+-eq. 	4.58E-08 4.89E-08 4.78E-08 4.76E-08 4.34E-08 4.60E-08 4.50E-08 4.62E-08 4.47E-08 3.46E-08 3.71E-08 3.63E-08 3.72E-08 3.60E-08 2.39E-08 2.64E-08 2.58E-08 2.64E-08 2.55E-08 2.01E-08 2.32E-08 2.25E-08 2.31E-08 2.22E-08
+AP 	kg SO2
+-eq 	0.535 	0.424 	0.493 	0.498 	0.575 	0.451 	0.540 	0.427 	0.546 	0.641 	0.497 	0.593 	0.464 	0.600 	0.747 	0.571 	0.673 	0.520 	0.681 	0.894 	0.674 	0.780 	0.595 	0.790
+EP 	kg PO 4
+3- -eq. 	0.0880 	0.0718 	0.0748 	0.0676 	0.0937 	0.0758 	0.0797 	0.0665 	0.0717 	0.103 	0.0825 	0.0868 	0.0715 	0.0775 	0.119 	0.0933 	0.0978 	0.0793 	0.0864 	0.140 	0.108 	0.113 	0.0900 	0.0987
+POCP 	kg C 2 H 4 -eq. 	0.0141 	0.00471 	0.00784 	0.00516 	0.0175 	0.00706 	0.0111 	0.00275 	0.00811 	0.0230 	0.0108 	0.0152 	0.00560 	0.0117 	0.0319 	0.0171 	0.0217 	0.0102 	0.0175 	0.0444 	0.0258 	0.0306 	0.0166 	0.0254
+ADPE 	kg Sb eq. 	4.74E-06 3.62E-06 3.72E-06 3.09E-06 5.13E-06 3.90E-06 4.02E-06 3.16E-06 3.33E-06 5.74E-06 4.30E-06 4.43E-06 3.44E-06 3.63E-06 6.79E-06 5.03E-06 5.18E-06 3.96E-06 4.19E-06 8.27E-06 6.07E-06 6.22E-06 4.71E-06 4.98E-06
+ADPF 	MJ 	1 160 	970 	1 010 	930 	1 230 	1 020 	1 070 	910 	980 	1 340 	1 100 	1 150 	970 	1 040 	1 530 	1 220 	1 280 	1 060 	1 150 	1 780 	1 400 	1 460 	1 190 	1 300
+66	CONCRETE | ENVIRONMENTAL PRODUCT DECLARATION
+
+-- 34 of 37 --
+
+68 	CONCRETE | ENVIRONMENTAL PRODUCT DECLARATION
+RESULTS | C1-C4 + D
+Table 43. Module C1-C4 + D Core environmental impact indicator results for 1 m3 of product
+MIX NAME 	N3220P S50 - representative for average density
+PARAMETER 	UNIT 	C1 	C2 	C3 	C4 	D
+GWPt 	kg CO2
+-eq 	14.8 	5.96 	5.02 	8.45 	-11.6
+GWPf 	kg CO2
+-eq 	14.8 	5.70 	4.99 	8.44 	-11.5
+GWPb 	kg CO2
+-eq 	0.0102 	0.256 	0.0122 	-0.00187 	-0.0493
+GWPluc 	kg CO2
+-eq 	1.62E-04 	6.39E-05 	0.0152 	0.0122 	-0.0283
+ODP 	kg CFC-11 eq 	1.51E-12 	5.96E-13 	1.35E-11 	1.57E-11 	-9.29E-11
+AP 	Mole of H+eq 	0.0210 	0.0115 	0.0246 	0.0499 	-0.0319
+EPfw 	kg P eq 	2.47E-06 	9.77E-07 	1.14E-05 	1.15E-05 	-3.32E-05
+EPm 	kg N eq 	0.00723 	0.00495 	0.0114 	0.0131 	-0.0106
+EPt 	Mole of N eq 	0.0793 	0.0545 	0.126 	0.144 	-0.122
+POFP 	kg NMVOC eq 	0.0217 	0.0112 	0.0309 	0.0397 	-0.0270
+ADPmm* 	kg Sb-eq 	2.70E-07 	1.07E-07 	5.66E-06 	7.11E-07 	-2.19E-06
+ADPf* 	MJ 	199 	78.7 	94.5 	111 	-185
+WDP* 	m³ world equiv 	0.0949 	0.0376 	0.848 	0.737 	-5.46
+Table 44. Module C1-C4 + D Resource use indicators results for 1 m3 of product
+MIX NAME 	N3220P S50 - representative for average density
+PARAMETER 	UNIT 	C1 	C2 	C3 	C4 	D
+PERE 	MJ	MJ 	0.973 	0.385 	9.26 	13.1 	-67.4
+PERM 	MJ	MJ 	0 	0 	0 	0 	0
+PERT 	MJ	MJ 	0.973 	0.385 	9.26 	13.1 	-67.4
+PENRE 	MJ	MJ 	199 	78.7 	94.6 	111 	-185
+PENRM 	MJ	MJ 	0 	0 	0 	0 	0
+PENRT 	MJ	MJ 	199 	78.7 	94.6 	111 	-185
+SM 	kg	kg 	0 	0 	0 	0 	0
+RSF 	MJ	MJ 	0 	0 	0 	0 	0
+NRSF 	MJ	MJ 	0 	0 	0 	0 	0
+FW 	mm 33 	0.00190 	7.50E-04 	0.0245 	0.0222 	-0.158
+CORE ENVIRONMENTAL IMPACT INDICATORS | EN15804+A2
+RESOURCE USE INDICATORS
+*The results of this environmental impact indicator shall be used with care as the uncertainties on
+these results are high or as there is limited experience with the indicator.
+Modules C1-C4 and D are only sensitive to mass. The density of products ranges from
+1 790 kg/m 3 (NOFINES) to 2 500 kg/m3 (S8010COLSCLC2). This means that the difference among
+the results would be -23.3% to +7.0%. For this reason, only results for one of the mixes (N3220P
+S50) with the closest density (2 332 kg/m3) to average density (2 330 kg/m3) is provided here.
+However, for mixes with other densities, Modules C1-C4 and D results can be determined by scaling
+according to the density in a linear manner, as described in the Annex on page 70.
+CONCRETE | ENVIRONMENTAL PRODUCT DECLARATION 	69
+Table 45. Module C1-C4 + D Waste categories and output flows results for 1 m3 of product
+MIX NAME 	N3220P S50 - representative for average density
+PARAMETER 	UNIT 	C1 	C2 	C3 	C4 	D
+HWD 	kg 	3.23E-10 	1.28E-10 	1.27E-09 	4.49E-09 	-1.09E-08
+NHWD 	kg 	0.00483 	0.00191 	0.0283 	444 	-0.101
+RWD 	kg 	3.89E-05 	1.54E-05 	7.28E-04 	9.70E-04 	-0.0184
+CRU 	kg 	0 	0 	0 	0 	0
+MFR 	kg 	0 	0 	1 890 	0 	0
+MER 	kg 	0 	0 	0 	0 	0
+EEE 	MJ 	0 	0 	0 	0 	0
+EET 	MJ 	0 	0 	0 	0 	0
+WASTE CATEGORIES AND OUTPUT FLOWS
+Table 46. Module C1-C4 + D Additional environmental impact indicators results for 1 m3 of product
+MIX NAME 	N3220P S50 - representative for average density
+PARAMETER 	UNIT 	C1 	C2 	C3 	C4 	D
+GWP-GHG** 	kg CO2
+-eq 	14.7 	5.65 	4.93 	8.33 	-11.4
+PM Disease
+incidences 	2.08E-07 	8.11E-08 	4.75E-07 	6.07E-07 	-1.12E-06
+IRP*** 	kBq U235 eq. 	0.00505 	0.00200 	0.0719 	0.108 	-3.11
+ETP-fw* 	CTUe 	79.8 	31.6 	71.3 	58.3 	-97.0
+HTPc* 	CTUh 	1.35E-09 	5.33E-10 	1.53E-09 	7.57E-09 	-2.81E-09
+HTPnc* 	CTUh 	4.44E-08 	1.99E-08 	7.99E-08 	8.26E-07 	-1.69E-07
+SQP* 	Pt 	0.561 	0.222 	20.9 	18.1 	-63.6
+ADDITIONAL ENVIRONMENTAL IMPACT INDICATORS
+*The results of this environmental impact indicator shall be used with
+care as the uncertainties on these results are high or as there is limited
+experience with the indicator
+**This indicator is calculated using the characterisation factors from
+the IPCC AR5 report (IPCC 2013) and has been included in the EPD
+following the PCR
+***This impact category deals mainly with the eventual impact of low
+dose ionizing radiation on human health of the nuclear fuel cycle. It does
+not consider effects due to possible nuclear accidents, occupational
+exposure nor due to radioactive waste disposal in underground
+facilities Potential ionizing radiation from the soil, from radon and some
+construction materials, is also not measured by this indicator.
+Table 47. Module C1-C4 + D Environmental impact indicators EN15804+A1 for 1 m3 of product
+MIX NAME 	N3220P S50 - representative for average density
+PARAMETER 	UNIT 	C1 	C2 	C3 	C4 	D
+GWP 	kg CO2
+-eq 	14.7 	5.88 	4.87 	8.28 	-11.3
+ODP 	kg CFC11
+-eq. 	1.77E-12 	7.02E-13 	1.59E-11 	1.85E-11 	-1.09E-10
+AP 	kg SO2
+-eq 	0.0159 	0.00826 	0.0171 	0.0396 	-0.0234
+EP 	kg PO 4
+3- -eq. 	0.00246 	0.00168 	0.00400 	0.00454 	-0.00435
+POCP 	kg C 2 H 4 -eq. 	0.00166 	-0.00161 	0.00194 	0.00316 	-2.78E-04
+ADPE 	kg Sb eq. 	2.71E-07 	1.07E-07 	5.66E-06 	7.17E-07 	-2.30E-06
+ADPF 	MJ 	199 	78.5 	92.1 	108 	-137
+ENVIRONMENTAL IMPACT INDICATORS | EN15804+A1
+
+-- 35 of 37 --
+
+70 	CONCRETE | ENVIRONMENTAL PRODUCT DECLARATION
+REFERENCES
+Blue Environment Pty Ltd. (2020). National Waste Report
+2020. Melbourne: Department of Agriculture, Water and
+the Environment.
+CEN (2013). EN 15804:2012+A1:2013: Sustainability
+of construction works — Environmental product
+declarations — Core rules for the product category of
+construction products. Brussels: European Committee for
+Standardization.
+CEN (2019). EN 15804:2012+A2:2019, Sustainabilityof
+construction works – Environmental product
+declarations – Core rules for the product category of
+construction products. Brussels: European Committee for
+Standardization.
+CEN (2017). EN 16757:2017 Sustainability of construction
+works — Environmental product declarations — Product
+Category Rules for concrete and concrete elements.
+Brussels: European Committee for Standardization.
+EPD International (2019). General Programme Instructions
+for the International EPD System version 3.01, dated 2019-
+09-18. www.environdec.com
+EPD International. (2021). PCR 2019:14, version 1.11
+Construction Products. Stockholm: EPD International.
+IPCC (2013). Climate Change 2013: The Physical Science
+Basis. Geneva, IPCC.
+ISO 14025 (2006). Environmental labels and declarations
+— Type III environmental declarations — Principles and
+procedures. Geneva: International Organization for
+Standardization.
+ISO 14040 (2006). Environmental management – Life
+cycle assessment – Principles and framework. Geneva:
+International Organization for Standardization.
+ISO 14044 (2006). Environmental management – Life
+cycle assessment – Requirements and guidelines. Geneva:
+International Organization for Standardization.
+Sphera (2022). Sphera Life Cycle Inventory Database
+2022 Documentation. Retrieved from Sphera: https://
+gabi.sphera.com/international/ support/gabi/gabi-
+database2022-lcidocumentation/
+Wernet, G. B.-R. (2016). The ecoinvent database version
+3 (part I): overview and methodology. The International
+Journal of Life Cycle Assessment, 21(9), pp.1218–1230.
+ANNEX
+As mentioned in the RESULTS | C1-
+C4 + D section on page 68, the results
+for Modules C1-C4 and D have been
+determined based on a representative mix
+with a density of 2 332 kg/m3
+.
+For mixes with other densities, Modules
+C1-C4 and D results can be determined by
+scaling according to the density in a linear
+manner, as described below.
+Table 48. GWPt results - modules C1–C4 + D for 1m3 S5010E1150H
+Module Indicator
+and unit
+N3220P S50
+density
+= 2 332 kg/m 3
+S5010E1150H
+density
+= 2 410 kg/m 3
+C1
+GWPt
+kgCO 2 -eq/m 3
+14.8 	(14.8/2 332) * 2 410 = 15.3
+C2 	5.96 	(5.96/2 332) * 2 410 = 6.16
+C3 	5.02 	(5.02/2 332) * 2 410 = 5.19
+C4 	8.45 	(8.45/2 332) * 2 410 = 8.73
+D 	-11.6 	(-11.6/2 332) * 2 410 = -12.0
+MODULE C1-C4 AND D CALCULATION STEPS
+For example, for mix S5010E1150H, which has a density of
+2 410 kg/m 3, the results for Modules C1-C4 and D should be
+multiplied by 2 410/2 332 (i.e. a factor 1.033). See table 48.
+PROGRAMME-RELATED
+INFORMATION AND VERIFICATION
+An Environmental Product Declaration, or EPD, is a standardised and
+verified way of quantifying the environmental impacts of a product based
+on a consistent set of rules known as a PCR (Product Category Rules).
+The EPD owner has the sole ownership, liability, and responsibility
+for the EPD. EPDs within the same product category but published in
+different EPD programmes, may not be comparable. For two EPDs to be
+comparable, they shall be based on the same PCR (including the same
+first-digit version number) or be based on fully aligned PCRs or versions
+of PCRs; cover products with identical functions, technical performances
+and use (e.g. identical declared/functional units); have identical scope in
+terms of included life-cycle stages (unless the excluded life-cycle stage
+is demonstrated to be insignificant); apply identical impact assessment
+methods (including the same version of characterisation factors);
+and be valid at the time of comparison. For further information about
+comparability, see EN 15804 and ISO 14025.
+The results for EN15804+A1 compliant EPDs are not comparable with
+EN15804+A2 compliant studies as the methodologies are different.
+Results that are EN15804+A1 compliant are given in this document to
+assist comparability across EPDs.
+Declaration owner 	Hallett Group Pty Ltd
+Post: 	126 Churchill Rd North,
+Dry Creek SA 5094, Australia
+Web: 	www.hallett.com.au
+Email: 	info@hallett.com.au
+Geographical scope 	Australia
+Reference year 	1 July 2020 to 30 June 2021
+EPD produced by 	thinkstep pty ltd
+LCA Practitioner: Barbara Nebel
+LCA PM: Chanjief Chandrakumar
+LCA analysts: Haoran Lei, Chia Wu Tan
+Post: 	25 Jubilee Street, South Perth
+Western Australia, 6151, Australia
+Web: 	thinkstep-anz.com
+Email: 	anz@thinkstep.com
+EPD programme 	The International EPD® System
+Operator: EPD International
+Post: 	EPD International AB, Box 210 60, SE-100 31
+Stockholm, Sweden
+Web: 	www.environdec.com
+Email: 	info@environdec.com
+Licensee 	EPD Australasia Limited
+Post: 	6 Cube Court,
+Richmond 7020, New Zealand
+Web: 	www.epd-australasia.com
+Email: 	info@epd-australasia.com
+CEN standard EN 15804+A2 serve as the core Product Category Rules (PCR)
+PCR 	PCR 2019:14 Construction Products, version 1.11, 2021-02-05 (valid until 2024-12-20)
+c-PCR-003: Product Category Rules (PCR) for Concrete and Concrete Elements (EN 16757)
+2019-12-20 (valid until 2024-12-20)
+PCR review conducted by 	The Technical Committee of the International EPD System.
+See www.environdec.com for a list of members.
+Claudia A. Peña. Contact via info@environdec.com
+Independent verification of the
+declaration and data, according
+to ISO 14025:2006:
+EPD process certification (Internal) 	Procedure for follow-up of
+data during EPD validity
+involved third-party verifier
+yes
+EPD verification (External) 	no
+Third party verifier, approved
+by EPD Australasia and
+The International EPD System
+start2see Pty Ltd
+Rob Rouwette
+Web: 	www.start2see.com.au
+Email: 	Rob.Rouwette@start2see.com.au
+Version history 	001 (2023-07-31) – Original EPD release
+002 (2024-10-11) – Updated to include 20 special class ready mix concrete products for Dry
+Creek and Mile End batching plants: S1020PLC1, S1520PLC1120, S1520PLC2120, S2520PLC1,
+S3220PLC2, S3220LSLC2, S3220PLC2XYP, S3220PLC2120, S4020PTLC2, S4020COLLC1,
+S4020COLLC2, S4020PLC1120, S4020PLC2120, S4020PLC2XYP, S5010SCPLC2, S6510SCPLC2,
+S6510SCPEC2, S6520PLC2120, S8010COLSCLC2 and S8010SCPEC2
+003 (2026-05-04) – Updated to include 32 ready mix concrete products for Mile End batching
+plant: S2520E1100, S3220E1100, S4020E3150, S4020E2150, S4020E1150H, S4020E3150F,
+S5020E1200, CLSMSB, S5020METALDIT, S5010E1150H, S4020E2200, CLSMPEB, CLSM3,
+CLSM15, S4020E2, CLSM4, S4020E2150F, S4020E1100, NOFINES, S6520E2150, S5010SCPH,
+S4010SCPH, N2010P100, S4020E2100, N2020P120, S2020P200, CLSM5, N2020P100, N2010P,
+S4020E2120, S5010DW500D, S5010DW500D3
+CONCRETE | ENVIRONMENTAL PRODUCT DECLARATION	
+71
+
+-- 36 of 37 --
+
+CONTACT
+To find out more about Hallett Group and this
+environmental product declaration, talk to our team
+General enquiries: 08 8366 7777
+info@hallett.com.au
+HEAD OFFICE
+126 Churchill Rd North, Dry Creek SA 5094, Australia
+
+-- 37 of 37 --
+
