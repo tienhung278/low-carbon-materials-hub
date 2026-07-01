@@ -6,7 +6,7 @@ Next.js app for comparing concrete products from extracted EPD data. The UI is d
 
 The frontend supports two data sources:
 
-- API mode: set `NEXT_PUBLIC_API_BASE_URL` to the backend URL, for example `http://localhost:3001` locally or `https://<backend-project>.vercel.app` in Vercel.
+- API mode: set `NEXT_PUBLIC_API_BASE_URL` to the backend URL, for example `http://localhost:3001` locally or `https://low-carbon-materials-hub-be.vercel.app` in Vercel.
 - Local fallback mode: if no API base URL is set, the app reads repository-level `backend/data/*.json` or optional frontend-local `data/*.json` during server rendering. If no local JSON exists, the app returns an empty product list safely.
 
 API mode is the production deploy path. When `NEXT_PUBLIC_API_BASE_URL` is set, the frontend requests products from the backend API and does not require local JSON data in the frontend Vercel root. The API base URL may include a trailing slash.
@@ -20,11 +20,13 @@ Create two Vercel projects from this repository:
 - Backend project: set Root Directory to `backend`.
 - Frontend project: set Root Directory to `frontend`.
 
-Set this environment variable on the frontend Vercel project for Production, Preview, and any environment that should use the backend:
+The frontend project includes `vercel.json` with the deployed backend URL:
 
 ```bash
-NEXT_PUBLIC_API_BASE_URL=https://<backend-project>.vercel.app
+NEXT_PUBLIC_API_BASE_URL=https://low-carbon-materials-hub-be.vercel.app
 ```
+
+You can also set or override the same value in the frontend Vercel project's Environment Variables if needed.
 
 Do not copy local JSON data into the frontend Vercel root for production. With the environment variable set, products are loaded from the backend API.
 
