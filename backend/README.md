@@ -50,6 +50,8 @@ curl "http://localhost:3001/compare?ids=envirocrete-40-32mpa,ge322lpf2"
 
 Create a Vercel project for this API from the monorepo with Root Directory set to `backend`. Keep `backend/data/*.json` committed so the serverless runtime has the generated data inside the backend project.
 
+The backend project includes `vercel.json` to force the NestJS framework preset and clear any static `public` output directory setting. If Vercel reports `No Output Directory named "public" found`, the project is being treated as a static site instead of a NestJS backend; redeploy with the checked-in config or clear the Output Directory override in Project Settings.
+
 Deployment checklist:
 
 - Run `npm run data:generate` and `npm run data:validate` from the repo root after EPD PDFs or text artifacts change.
